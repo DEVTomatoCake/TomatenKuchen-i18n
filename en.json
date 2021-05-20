@@ -1,5 +1,5 @@
 {
-    "unerlaubterLink": "Your aren't allowed to send links, ",
+    "unerlaubterLink": "You aren't allowed to send links, ",
     "prefix": "My prefix is",
     "keineRechte": "Not enough permissions, ",
     "botKeineRechte": "I don't have enough permissions for this command, ",
@@ -16,7 +16,7 @@
     "invite": "Bot invite",
     "supportserver": "Support server",
     "bancommand": "**{mod}** banned **{user}**: {reason}",
-    "giveaway_channel": "In what channel the giveaway should start?",
+    "giveaway_channel": "In wich channel should the giveaway start?",
     "giveaway_title": "What price should the gewinner get?",
     "general": "General",
     "image": "Image",
