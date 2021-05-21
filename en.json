@@ -34,5 +34,8 @@
     "remindme_endsin": "Ends at",
     "remindme_your": "Your reminder",
     "by": "by",
-    "customcommand_list": "List of customcommands"
+    "customcommand_list": "List of customcommands",
+    "poll_missingtext": "Du musst einen Text angeben",
+    "poll_ended": "Umfrage ist beendet",
+    "poll_result": "Result"
 }
