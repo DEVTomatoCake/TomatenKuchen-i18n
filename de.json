@@ -30,13 +30,15 @@
     "play_missingvoice": "Du musst in einem Sprachkanal sein!",
     "play_missingvideo": "Du musst einen Videonamen angeben!",
     "play_missingpermissions": "Ich brauche Rechte, um dem Sprachkanal beitreten und dort zu sprechen!",
+    "play_nothingplaying": "Es wird kein Video gespielt!",
     "remindme_endsin": "Läuft ab",
     "remindme_your": "Deine Erinnerung",
     "by": "von",
     "customcommand_list": "Liste aller Customcommands",
-    "poll_missingtext": "Du musst einen Text angeben",
+    "poll_missingtext": "Du musst einen Text angeben, ",
     "poll_ended": "Umfrage ist beendet",
     "poll_result": "Ergebnis",
-    "slowmode_missingnumber": "Du musst eine Zahl angeben",
-    "slowmode_error": "Der Slowmode konnte nicht gesetzt werden!"
+    "slowmode_missingnumber": "Du musst eine Zahl angeben, ",
+    "slowmode_error": "Der Slowmode konnte nicht gesetzt werden!",
+    "role_unknown": "Unbekannte Rolle!"
 }
