@@ -1,5 +1,4 @@
 {
-    "unerlaubterLink": "You aren't allowed to send links, ",
     "prefix": "My prefix is",
     "keineRechte": "Not enough permissions, ",
     "botKeineRechte": "I don't have enough permissions for this command, ",
@@ -37,5 +36,7 @@
     "customcommand_list": "List of customcommands",
     "poll_missingtext": "Du musst einen Text angeben",
     "poll_ended": "Umfrage ist beendet",
-    "poll_result": "Result"
+    "poll_result": "Result",
+    "slowmode_missingnumber": "Du musst eine Zahl angeben",
+    "slowmode_error": "Der Slowmode konnte nicht gesetzt werden!"
 }
