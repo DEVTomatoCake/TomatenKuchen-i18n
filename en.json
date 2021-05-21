@@ -28,11 +28,11 @@
     "error": "An error occured!",
     "play_queueempty": "The queue is empty, I'll leave the voice channel!",
     "play_nowplaying": "Now playing",
-    "play_channelempty": "Everyone left the voice channel.",
     "play_missingvoice": "You need to be in a voice channel to play music!",
     "play_missingvideo": "I need a video name!",
     "play_missingpermissions": "I need the permissions to join and speak in your voice channel!",
     "remindme_endsin": "Ends at",
     "remindme_your": "Your reminder",
-    "by": "by"
+    "by": "by",
+    "customcommand_list": "List of customcommands"
 }

@@ -28,11 +28,11 @@
     "error": "Es ist ein Fehler aufgetreten!",
     "play_queueempty": "Die Queue ist leer, ich verlasse den Sprachkanal!",
     "play_nowplaying": "Jetzt spielt",
-    "play_channelempty": "Alle haben den Sprachkanal verlassen!",
     "play_missingvoice": "Du musst in einem Sprachkanal sein!",
     "play_missingvideo": "Du musst einen Videonamen angeben!",
     "play_missingpermissions": "Ich brauche Rechte, um dem Sprachkanal beitreten und dort zu sprechen!",
     "remindme_endsin": "Läuft ab",
     "remindme_your": "Deine Erinnerung",
-    "by": "von"
+    "by": "von",
+    "customcommand_list": "Liste aller Customcommands"
 }
