@@ -1,6 +1,6 @@
 {
     "prefix": "My prefix is",
-    "keineRechte": "Not enough permissions, ",
+    "keineRechte": "You don't have enough permissions, ",
     "botKeineRechte": "I don't have enough permissions for this command, ",
     "einstellung1": "Setting",
     "einstellung2": "changed to",
