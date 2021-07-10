@@ -42,5 +42,9 @@
     "help_unknowncommandcategory": "Unbekannter Befehl/Kategorie!",
     "guildowner": "Serverbesitzer",
     "suggest_unknownmessage": "Diese Nachricht gibt es nicht!",
-    "suggest_nochannel": "Es wurde kein Vorschläge-Kanal festgelegt!"
+    "suggest_nochannel": "Es wurde kein Vorschläge-Kanal festgelegt!",
+    "resume": "Das Video wurde geresumed!",
+    "mclint_noerror": "Es wurde kein Fehler in dem Befehl gefunden!",
+    "mclint_missingcommand": "Du musst einen Befehl angeben!",
+    "mclint_errorfound": "Es wurde ein Fehler im Befehl gefunden:"
 }
