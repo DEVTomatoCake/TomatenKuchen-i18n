@@ -38,5 +38,9 @@
     "poll_result": "Ergebnis",
     "slowmode_missingnumber": "Du musst eine Zahl angeben, ",
     "slowmode_error": "Der Slowmode konnte nicht gesetzt werden!",
-    "role_unknown": "Unbekannte Rolle!"
+    "role_unknown": "Unbekannte Rolle!",
+    "help_unknowncommandcategory": "Unbekannter Befehl/Kategorie!",
+    "guildowner": "Serverbesitzer",
+    "suggest_unknownmessage": "Diese Nachricht gibt es nicht!",
+    "suggest_nochannel": "Es wurde kein Vorschläge-Kanal festgelegt!"
 }
