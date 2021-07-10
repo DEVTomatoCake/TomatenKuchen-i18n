@@ -38,5 +38,13 @@
     "poll_result": "Result",
     "slowmode_missingnumber": "You have to add a number, ",
     "slowmode_error": "An error occured while trying to set the slowmode!",
-    "role_unknown": "Unknown role!"
+    "role_unknown": "Unknown role!",
+    "help_unknowncommandcategory": "Unknown Command/Category!",
+    "guildowner": "Server owner",
+    "suggest_unknownmessage": "This message does not exist!",
+    "suggest_nochannel": "There is no suggestion channel set!",
+    "resume": "The video was resumed!",
+    "mclint_noerror": "No error was found in the command!",
+    "mclint_missingcommand": "You have to add arguments!",
+    "mclint_errorfound": "There was an error found in the command:"
 }
