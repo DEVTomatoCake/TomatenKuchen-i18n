@@ -31,6 +31,7 @@
     "remindme_endsin": "Läuft ab",
     "remindme_your": "Deine Erinnerung",
     "remindme_finished": "Hier ist deine Erinnerung",
+    "remindme_missingtime": "Du musst eine Zeit angeben",
     "by": "von",
     "customcommand_list": "Liste aller Customcommands",
     "poll_missingtext": "Du musst einen Text angeben, ",
