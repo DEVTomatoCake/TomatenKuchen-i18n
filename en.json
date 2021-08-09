@@ -31,6 +31,7 @@
     "remindme_endsin": "Ends at",
     "remindme_your": "Your reminder",
     "remindme_finished": "Here is your reminder",
+    "remindme_missingtime": "You must enter a valid time",
     "by": "by",
     "customcommand_list": "List of customcommands",
     "poll_missingtext": "You have to add arguments, ",
