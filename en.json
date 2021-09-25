@@ -2,6 +2,8 @@
     "prefix": "My prefix is",
     "keineRechte": "You don't have enough permissions, ",
     "botKeineRechte": "I don't have enough permissions for this command, ",
+	"invaliduser": "You must enter a valid user",
+	"missingtext": "You must enter a text",
     "music": "Music",
     "eval_error": "Error",
     "channels": "Channels",
@@ -34,7 +36,6 @@
     "remindme_missingtime": "You must enter a valid time",
     "by": "by",
     "customcommand_list": "List of customcommands",
-    "poll_missingtext": "You have to add arguments, ",
     "poll_ended": "Poll ended",
     "poll_result": "Result",
     "slowmode_missingnumber": "You have to add a number, ",
@@ -47,5 +48,7 @@
     "resume": "The video was resumed!",
     "mclint_noerror": "No error was found in the command!",
     "mclint_missingcommand": "You have to add arguments!",
-    "mclint_errorfound": "There was an error found in the command:"
+    "mclint_errorfound": "There was an error found in the command:",
+	"say_error": "The message couldn't be sent",
+	"ticket_created": "✅ The ticket has been created in {CHANNEL}"
 }

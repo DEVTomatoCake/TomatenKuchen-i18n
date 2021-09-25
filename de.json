@@ -2,6 +2,8 @@
     "prefix": "Mein Prefix ist",
     "keineRechte": "Keine Rechte, ",
     "botKeineRechte": "Ich habe nicht genug Rechte für diesen Befehl, ",
+	"invaliduser": "Du musst einen Nutzer angeben",
+	"missingtext": "Du musst einen Text angeben",
     "music": "Musik",
     "eval_error": "Fehler",
     "channels": "Kanäle",
@@ -34,7 +36,6 @@
     "remindme_missingtime": "Du musst eine Zeit angeben",
     "by": "von",
     "customcommand_list": "Liste aller Customcommands",
-    "poll_missingtext": "Du musst einen Text angeben, ",
     "poll_ended": "Umfrage ist beendet",
     "poll_result": "Ergebnis",
     "slowmode_missingnumber": "Du musst eine Zahl angeben, ",
@@ -47,5 +48,7 @@
     "resume": "Das Video wurde geresumed!",
     "mclint_noerror": "Es wurde kein Fehler in dem Befehl gefunden!",
     "mclint_missingcommand": "Du musst einen Befehl angeben!",
-    "mclint_errorfound": "Es wurde ein Fehler im Befehl gefunden:"
+    "mclint_errorfound": "Es wurde ein Fehler im Befehl gefunden:",
+	"say_error": "Die Nachricht konnte nicht gesendet werden",
+	"ticket_created": "✅ Dein Ticket wurde in {CHANNEL} erstellt"
 }
