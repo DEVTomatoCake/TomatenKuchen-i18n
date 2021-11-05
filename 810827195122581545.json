@@ -1,0 +1,75 @@
+{
+	"prefix": "<a:baakyMussCoden:859652037145526282> Baaky muss codän, aber mein Prefix ist ",
+	"keineRechte": "Keine Rechte, ",
+	"botKeineRechte": "Ich habe nicht genug Rechte für diesen Befehl, ",
+	"invaliduser": "Du musst einen Nutzer angeben",
+	"missingtext": "Du musst einen Text angeben",
+	"music": "Musik",
+	"eval_error": "Fehler",
+	"channels": "Kanäle",
+	"commands": "Befehle",
+	"users": "Nutzer",
+	"hours": "Stunden",
+	"minutes": "Minuten",
+	"invite": "Bot einladen",
+	"supportserver": "Support-Server",
+	"ban": "**{mod}** hat **{user}** gebannt: {reason}",
+	"general": "Allgemein",
+	"image": "Bild",
+	"help": "Hilfe",
+	"customcommand_list": "Liste aller Customcommands",
+	"poll_ended": "Umfrage ist beendet",
+	"poll_result": "Ergebnis",
+	"help_unknowncommandcategory": "Unbekannter Befehl/Kategorie!",
+	"guildowner": "Serverbesitzer",
+	"say_error": "Die Nachricht konnte nicht gesendet werden",
+	"ticket_created": "✅ Dein Ticket wurde in {CHANNEL} erstellt",
+	"mention": "Erwähnung",
+	"music": {
+		"queueempty": "Die Queue ist leer, ich verlasse den Sprachkanal!",
+		"nowplaying": "Jetzt spielt",
+		"missingvoice": "Du musst in einem Sprachkanal sein!",
+		"missingvideo": "Du musst einen Videonamen angeben!",
+		"missingpermissions": "Ich brauche Rechte, um dem Sprachkanal beitreten und dort sprechen zu können!",
+		"nothingplaying": "Es wird kein Video gespielt!",
+		"by": "von",
+		"pause": "Das Video wurde pausiert",
+		"resume": "Das Video wurde geresumed"
+	},
+	"suggest": {
+		"unknownmessage": "Diese Nachricht gibt es nicht!",
+		"nochannel": "Es wurde kein Vorschläge-Kanal festgelegt!"
+	},
+	"mclint": {
+		"missingcommand": "Du musst einen Befehl angeben",
+		"noerror": "Es wurde kein Fehler in dem Befehl gefunden",
+		"errorfound": "Es wurde ein Fehler im Befehl gefunden:"
+	},
+	"remind": {
+		"endsin": "Läuft ab",
+		"your": "Deine Erinnerung",
+		"missingtime": "Du musst eine Zeit angeben"
+	},
+	"slowmode": {
+		"missing": "Du musst eine Zahl angeben",
+		"error": "Der Slowmode konnte nicht gesetzt werden"
+	},
+	"role": {
+		"unknown": "Unbekannte Rolle",
+		"missing": "Du musst eine Aktion und eine Rolle angeben",
+		"massadd": {
+			"start": "Ich füge **{MEMBERCOUNT}** Mitgliedern die Rolle **{ROLE}** hinzu",
+			"error": "Es ist ein Fehler beim Hinzufügen der Rolle aufgetreten"
+		},
+		"massremove": {
+			"start": "Ich entferne von **{MEMBERCOUNT}** Mitgliedern die Rolle **{ROLE}**",
+			"error": "Es ist ein Fehler beim Entfernen der Rolle aufgetreten"
+		}
+	},
+	"reactionrole": {
+		"unknownmessage": "Unbekannte Nachricht!",
+		"unknownemoji": "Unbekanntes Emoji!",
+		"unknownchannel": "Unbekannter Kanal!",
+		"unknownrole": "Unbekannte Rolle!"
+	}
+}
