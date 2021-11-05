@@ -1,75 +1,75 @@
 {
-	"prefix": "Mein Prefix ist",
-	"keineRechte": "Keine Rechte, ",
-	"botKeineRechte": "Ich habe nicht genug Rechte für diesen Befehl, ",
-	"invaliduser": "Du musst einen Nutzer angeben",
-	"missingtext": "Du musst einen Text angeben",
-	"music": "Musik",
-	"eval_error": "Fehler",
-	"channels": "Kanäle",
-	"commands": "Befehle",
-	"users": "Nutzer",
-	"hours": "Stunden",
-	"minutes": "Minuten",
-	"invite": "Bot einladen",
-	"supportserver": "Support-Server",
-	"ban": "**{mod}** hat **{user}** gebannt: {reason}",
-	"general": "Allgemein",
-	"image": "Bild",
-	"help": "Hilfe",
-	"customcommand_list": "Liste aller Customcommands",
-	"poll_ended": "Umfrage ist beendet",
-	"poll_result": "Ergebnis",
-	"help_unknowncommandcategory": "Unbekannter Befehl/Kategorie!",
-	"guildowner": "Serverbesitzer",
-	"say_error": "Die Nachricht konnte nicht gesendet werden",
-	"ticket_created": "✅ Dein Ticket wurde in {CHANNEL} erstellt",
-	"mention": "Erwähnung",
+	"prefix": "My prefix is",
+	"keineRechte": "You don't have enough permissions, ",
+	"botKeineRechte": "I don't have enough permissions for this command, ",
+	"invaliduser": "You must enter a valid user",
+	"missingtext": "You must enter a text",
+	"music": "Music",
+	"eval_error": "Error",
+	"channels": "Channels",
+	"commands": "Commands",
+	"users": "Users",
+	"hours": "hours",
+	"minutes": "minutes",
+	"invite": "Bot invite",
+	"supportserver": "Support server",
+	"ban": "**{mod}** banned **{user}**: {reason}",
+	"general": "General",
+	"image": "Image",
+	"help": "Help",
+	"customcommand_list": "List of customcommands",
+	"poll_ended": "Poll ended",
+	"poll_result": "Result",
+	"help_unknowncommandcategory": "Unknown command/category!",
+	"guildowner": "Server owner",
+	"say_error": "The message couldn't be sent",
+	"ticket_created": "✅ The ticket has been created in {CHANNEL}",
+	"mention": "Mention",
 	"music": {
-		"queueempty": "Die Queue ist leer, ich verlasse den Sprachkanal!",
-		"nowplaying": "Jetzt spielt",
-		"missingvoice": "Du musst in einem Sprachkanal sein!",
-		"missingvideo": "Du musst einen Videonamen angeben!",
-		"missingpermissions": "Ich brauche Rechte, um dem Sprachkanal beitreten und dort sprechen zu können!",
-		"nothingplaying": "Es wird kein Video gespielt!",
-		"by": "von",
-		"pause": "Das Video wurde pausiert",
-		"resume": "Das Video wurde geresumed"
+		"queueempty": "The queue is empty, I'll leave the voice channel!",
+		"nowplaying": "Now playing",
+		"missingvoice": "You need to be in a voice channel to play music!",
+		"missingvideo": "I need a video name!",
+		"missingpermissions": "I need the permissions to join and speak in your voice channel!",
+		"nothingplaying": "There is nothing playing!",
+		"by": "by",
+		"pause": "The video has been paused",
+		"resume": "The video has been resumed"
 	},
 	"suggest": {
-		"unknownmessage": "Diese Nachricht gibt es nicht!",
-		"nochannel": "Es wurde kein Vorschläge-Kanal festgelegt!"
+		"unknownmessage": "This suggestion doens't exist!",
+		"nochannel": "There is no suggestion channel set!"
 	},
 	"mclint": {
-		"missingcommand": "Du musst einen Befehl angeben",
-		"noerror": "Es wurde kein Fehler in dem Befehl gefunden",
-		"errorfound": "Es wurde ein Fehler im Befehl gefunden:"
+		"missingcommand": "You must enter the command",
+		"noerror": "No error was found in the command",
+		"errorfound": "There is at least one error in the command:"
 	},
 	"remind": {
-		"endsin": "Läuft ab",
-		"your": "Deine Erinnerung",
-		"missingtime": "Du musst eine Zeit angeben"
+		"endsin": "Ends at",
+		"your": "Your reminder",
+		"missingtime": "You must enter a valid time"
 	},
 	"slowmode": {
-		"missing": "Du musst eine Zahl angeben",
-		"error": "Der Slowmode konnte nicht gesetzt werden"
+		"missing": "You must enter a valid slowmode time",
+		"error": "An error occured while setting the slowmode"
 	},
 	"role": {
-		"unknown": "Unbekannte Rolle",
-		"missing": "Du musst eine Aktion und eine Rolle angeben",
+		"unknown": "Unknown role",
+		"missing": "You must enter an action and a role",
 		"massadd": {
-			"start": "Ich füge **{MEMBERCOUNT}** Mitgliedern die Rolle **{ROLE}** hinzu",
-			"error": "Es ist ein Fehler beim Hinzufügen der Rolle aufgetreten"
+			"start": "I'll add the role **{ROLE}** to **{MEMBERCOUNT}** members",
+			"error": "An error occured while adding the role"
 		},
 		"massremove": {
-			"start": "Ich entferne von **{MEMBERCOUNT}** Mitgliedern die Rolle **{ROLE}**",
-			"error": "Es ist ein Fehler beim Entfernen der Rolle aufgetreten"
+			"start": "I'll remove the role **{ROLE}** from **{MEMBERCOUNT}** members",
+			"error": "An error occured while removing the role"
 		}
 	},
 	"reactionrole": {
-		"unknownmessage": "Unbekannte Nachricht!",
-		"unknownemoji": "Unbekanntes Emoji!",
-		"unknownchannel": "Unbekannter Kanal!",
-		"unknownrole": "Unbekannte Rolle!"
+		"unknownmessage": "Unknown message!",
+		"unknownemoji": "Unknown emoji!",
+		"unknownchannel": "Unknown channel!",
+		"unknownrole": "Unknown role!"
 	}
 }
