@@ -4,7 +4,7 @@
 	"botKeineRechte": "I don't have enough permissions for this command, ",
 	"invaliduser": "You must enter a valid user",
 	"missingtext": "You must enter a text",
-	"music": "Music",
+	"help_music": "Music",
 	"eval_error": "Error",
 	"channels": "Channels",
 	"commands": "Commands",
@@ -18,13 +18,12 @@
 	"image": "Image",
 	"help": "Help",
 	"customcommand_list": "List of customcommands",
-	"poll_ended": "Poll ended",
-	"poll_result": "Result",
 	"help_unknowncommandcategory": "Unknown command/category!",
 	"guildowner": "Server owner",
 	"say_error": "The message couldn't be sent",
 	"ticket_created": "✅ The ticket has been created in {CHANNEL}",
 	"mention": "Mention",
+	"mentions": "Mentions",
 	"music": {
 		"queueempty": "The queue is empty, I'll leave the voice channel!",
 		"nowplaying": "Now playing",
@@ -71,5 +70,16 @@
 		"unknownemoji": "Unknown emoji!",
 		"unknownchannel": "Unknown channel!",
 		"unknownrole": "Unknown role!"
+	},
+	"afk": {
+		"afk": "{USER} is afk!",
+		"end": "You're no longer afk!\nYou were **{TIME}** afk.",
+		"set": "Your afk state has been set"
+	},
+	"poll": {
+		"ends": "Poll ends",
+		"ended": "Poll ended",
+		"result": "Result:",
+		"noresult": "No one voted!"
 	}
 }
