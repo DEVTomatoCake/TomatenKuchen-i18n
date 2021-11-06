@@ -4,7 +4,7 @@
 	"botKeineRechte": "Ich habe nicht genug Rechte für diesen Befehl, ",
 	"invaliduser": "Du musst einen Nutzer angeben",
 	"missingtext": "Du musst einen Text angeben",
-	"music": "Musik",
+	"help_music": "Musik",
 	"eval_error": "Fehler",
 	"channels": "Kanäle",
 	"commands": "Befehle",
@@ -18,13 +18,12 @@
 	"image": "Bild",
 	"help": "Hilfe",
 	"customcommand_list": "Liste aller Customcommands",
-	"poll_ended": "Umfrage ist beendet",
-	"poll_result": "Ergebnis",
 	"help_unknowncommandcategory": "Unbekannter Befehl/Kategorie!",
 	"guildowner": "Serverbesitzer",
 	"say_error": "Die Nachricht konnte nicht gesendet werden",
 	"ticket_created": "✅ Dein Ticket wurde in {CHANNEL} erstellt",
 	"mention": "Erwähnung",
+	"mentions": "Erwähnungen",
 	"music": {
 		"queueempty": "Die Queue ist leer, ich verlasse den Sprachkanal!",
 		"nowplaying": "Jetzt spielt",
@@ -71,5 +70,16 @@
 		"unknownemoji": "Unbekanntes Emoji!",
 		"unknownchannel": "Unbekannter Kanal!",
 		"unknownrole": "Unbekannte Rolle!"
+	},
+	"afk": {
+		"afk": "{USER} ist afk!",
+		"end": "Du bist nicht länger afk!\nDu warst **{TIME}** abwesend.",
+		"set": "Dein AFK-Status wurde gesetzt"
+	},
+	"poll": {
+		"ends": "Umfrage endet",
+		"ended": "Umfrage ist beendet",
+		"result": "Ergebnis:",
+		"noresult": "Keiner hat abgestimmt!"
 	}
 }
