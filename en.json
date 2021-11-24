@@ -72,7 +72,7 @@
         "afk": "{USER} is afk!",
         "end": "You're no longer afk!\nYou were **{TIME}** afk.",
         "set": "Your afk state has been set",
-		"reason": "Reason"
+        "reason": "Reason"
     },
     "poll": {
         "ends": "Poll ends",
@@ -80,61 +80,61 @@
         "result": "Result:",
         "noresult": "No one voted!"
     },
-	"addemoji": {
-		"missing": "You need to specify an emoji",
-		"success": "The emoji {EMOJI} was added with the name `{NAME}`!"
-	},
-	"captcha": {
-		"start": "**{USER}**, solve the following captcha:",
-		"lose": "You lost .-.",
-		"typo": "You have at least one typing errors: {WRONG} | {RIGHT}",
-		"win": "Well done! Took **{TIME}** seconds",
-		"cooldown": "You didn't get any tomatoes, because you still have a cooldown for this command: **{TIME}**",
-		"award": "You've got **200** tomatoes!"
-	},
-	"hack": {
-		"hacking": "Hacking... {PERCENT}%",
-		"result": "Result:",
-		"password": "Password"
-	},
-	"help": {
-		"help": "Help",
-		"description": "__Command usage:__\n**<>** - Required\n**[]** - Optional\n\nSelect a category to see the commands.",
-		"general": {
-			"title": "General",
-			"description": "Shows general commands"
-		},
-		"fun": {
-			"title": "Fun",
-			"description": "Shows fun commands"
-		},
-		"music": {
-			"title": "Music",
-			"description": "Shows music commands"
-		},
-		"ticket": {
-			"title": "Ticket",
-			"description": "Shows ticket commands"
-		},
-		"image": {
-			"title": "Image",
-			"description": "Shows commands to create images"
-		},
-		"voice": {
-			"title": "Voice",
-			"description": "Shows commands for private voice channels"
-		},
-		"moderation": {
-			"title": "Moderation",
-			"description": "Shows moderation commands"
-		},
-		"admin": {
-			"title": "Admin",
-			"description": "Shows commands for server administration"
-		},
-		"all": {
-			"title": "All commands",
-			"description": "Shows all bot commands"
-		}
-	}
+    "addemoji": {
+        "missing": "You need to specify an emoji",
+        "success": "The emoji {EMOJI} was added with the name `{NAME}`!"
+    },
+    "captcha": {
+        "start": "**{USER}**, solve the following captcha:",
+        "lose": "You lost .-.",
+        "typo": "You have at least one typing errors: {WRONG} | {RIGHT}",
+        "win": "Well done! Took **{TIME}** seconds",
+        "cooldown": "You didn't get any tomatoes, because you still have a cooldown for this command: **{TIME}**",
+        "award": "You've got **200** tomatoes!"
+    },
+    "hack": {
+        "hacking": "Hacking… {PERCENT}%",
+        "result": "Result:",
+        "password": "Password"
+    },
+    "help": {
+        "help": "Help",
+        "description": "__Command usage:__\n**<>** - Required\n**[]** - Optional\n\nSelect a category to see the commands.",
+        "general": {
+            "title": "General",
+            "description": "Shows general commands"
+        },
+        "fun": {
+            "title": "Fun",
+            "description": "Shows fun commands"
+        },
+        "music": {
+            "title": "Music",
+            "description": "Shows music commands"
+        },
+        "ticket": {
+            "title": "Ticket",
+            "description": "Shows ticket commands"
+        },
+        "image": {
+            "title": "Image",
+            "description": "Shows commands to create images"
+        },
+        "voice": {
+            "title": "Voice",
+            "description": "Shows commands for private voice channels"
+        },
+        "moderation": {
+            "title": "Moderation",
+            "description": "Shows moderation commands"
+        },
+        "admin": {
+            "title": "Admin",
+            "description": "Shows commands for server administration"
+        },
+        "all": {
+            "title": "All commands",
+            "description": "Shows all bot commands"
+        }
+    }
 }
