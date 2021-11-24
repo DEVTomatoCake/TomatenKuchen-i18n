@@ -128,5 +128,13 @@
 	"addemoji": {
 		"error": "You need to specify an emoji!",
 		"success": "The emoji {EMOJI} was added with the name {NAME}!"
+	},
+	"captcha": {
+		"start": "**{USER}**, solve the following captcha:",
+		"lose": "You lost .-.",
+		"typo": "You have one (oder more) typing errors: {WRONG} | {RIGHT}",
+		"win": "Well done! Needed time: **{TIME}** seconds",
+		"cooldown": "You didn't get any tomatoes, because you still have a cooldown for this command: **{TIME}**",
+		"award": "You've got **200** tomatoes!"
 	}
 }
