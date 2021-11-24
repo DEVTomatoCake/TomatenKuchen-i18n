@@ -4,7 +4,6 @@
     "botKeineRechte": "Ich habe nicht genug Rechte für diesen Befehl, ",
     "invaliduser": "Du musst einen Nutzer angeben",
     "missingtext": "Du musst einen Text angeben",
-    "help_music": "Musik",
     "eval_error": "Fehler",
     "channels": "Kanäle",
     "commands": "Befehle",
@@ -14,9 +13,6 @@
     "invite": "Bot einladen",
     "supportserver": "Support-Server",
     "ban": "**{mod}** hat **{user}** gebannt: {reason}",
-    "general": "Allgemein",
-    "image": "Bild",
-    "help": "Hilfe",
     "customcommand_list": "Liste aller Customcommands",
     "help_unknowncommandcategory": "Unbekannter Befehl/Kategorie!",
     "guildowner": "Serverbesitzer",
@@ -74,12 +70,30 @@
     "afk": {
         "afk": "{USER} ist afk!",
         "end": "Du bist nicht länger afk!\nDu warst **{TIME}** abwesend.",
-        "set": "Dein AFK-Status wurde gesetzt"
+        "set": "Dein AFK-Status wurde gesetzt",
+		"reason": "Grund"
     },
     "poll": {
         "ends": "Umfrage endet",
         "ended": "Umfrage ist beendet",
         "result": "Ergebnis:",
         "noresult": "Keiner hat abgestimmt!"
-    }
+    },
+	"addemoji": {
+		"missing": "Du musst ein Emoji angeben",
+		"success": "Das Emoji {EMOJI} wurde mit dem Namen `{NAME}` hinzugefügt!"
+	},
+	"captcha": {
+		"start": "**{USER}**, löse folgendes Captcha:",
+		"lose": "Du hast verloren .-.",
+		"typo": "Du hast einen (oder mehrere) Tippfehler: {WRONG} | {RIGHT}",
+		"win": "Gut gemacht! Zeit benötigt: **{TIME}** Sekunden",
+		"cooldown": "Du hast keine Tomaten erhalten, da du noch einen Cooldown für diesen Befehl hast: **{TIME}**",
+		"award": "Du hast **200** Tomaten erhalten!"
+	},
+	"hack": {
+		"hacking": "Hacken... {PERCENT}%",
+		"result": "Ergebnis:",
+		"password": "Passwort"
+	}
 }
