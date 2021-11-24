@@ -72,7 +72,7 @@
         "afk": "{USER} ist afk!",
         "end": "Du bist nicht länger afk!\nDu warst **{TIME}** abwesend.",
         "set": "Dein AFK-Status wurde gesetzt",
-		"reason": "Grund"
+        "reason": "Grund"
     },
     "poll": {
         "ends": "Umfrage endet",
@@ -80,61 +80,61 @@
         "result": "Ergebnis:",
         "noresult": "Keiner hat abgestimmt!"
     },
-	"addemoji": {
-		"missing": "Du musst ein Emoji angeben",
-		"success": "Das Emoji {EMOJI} wurde mit dem Namen `{NAME}` hinzugefügt!"
-	},
-	"captcha": {
-		"start": "**{USER}**, löse folgendes Captcha:",
-		"lose": "Du hast verloren .-.",
-		"typo": "Du hast einen (oder mehrere) Tippfehler: {WRONG} | {RIGHT}",
-		"win": "Gut gemacht! Zeit benötigt: **{TIME}** Sekunden",
-		"cooldown": "Du hast keine Tomaten erhalten, da du noch einen Cooldown für diesen Befehl hast: **{TIME}**",
-		"award": "Du hast **200** Tomaten erhalten!"
-	},
-	"hack": {
-		"hacking": "Hacken... {PERCENT}%",
-		"result": "Ergebnis:",
-		"password": "Passwort"
-	},
-	"help": {
-		"help": "Hilfe",
-		"description": "__Legende:__\n**<>** - Muss angegeben werden\n**[]** - Optional\n\nWähle eine Kategorie aus, um die Befehle zu sehen.",
-		"general": {
-			"title": "Allgemein",
-			"description": "Zeigt allgemeine Befehle"
-		},
-		"fun": {
-			"title": "Fun",
-			"description": "Zeigt Fun-Befehle"
-		},
-		"music": {
-			"title": "Musik",
-			"description": "Zeigt Musik-Befehle"
-		},
-		"ticket": {
-			"title": "Ticket",
-			"description": "Zeigt Ticket-Befehle"
-		},
-		"image": {
-			"title": "Bild",
-			"description": "Zeigt Befehle, um Bilder zu erstellen"
-		},
-		"voice": {
-			"title": "Voice",
-			"description": "Zeigt Befehle für private Sprachkanäle"
-		},
-		"moderation": {
-			"title": "Moderation",
-			"description": "Zeigt Moderations-Befehle"
-		},
-		"admin": {
-			"title": "Admin",
-			"description": "Zeigt Befehle zur Serververwaltung"
-		},
-		"all": {
-			"title": "Alle Befehle",
-			"description": "Zeigt alle Befehle vom Bot"
-		}
-	}
+    "addemoji": {
+        "missing": "Du musst ein Emoji angeben",
+        "success": "Das Emoji {EMOJI} wurde mit dem Namen `{NAME}` hinzugefügt!"
+    },
+    "captcha": {
+        "start": "**{USER}**, löse folgendes Captcha:",
+        "lose": "Du hast verloren .-.",
+        "typo": "Du hast einen (oder mehrere) Tippfehler: {WRONG} | {RIGHT}",
+        "win": "Gut gemacht! Zeit benötigt: **{TIME}** Sekunden",
+        "cooldown": "Du hast keine Tomaten erhalten, da du noch einen Cooldown für diesen Befehl hast: **{TIME}**",
+        "award": "Du hast **200** Tomaten erhalten!"
+    },
+    "hack": {
+        "hacking": "Hacken… {PERCENT}%",
+        "result": "Ergebnis:",
+        "password": "Passwort"
+    },
+    "help": {
+        "help": "Hilfe",
+        "description": "__Legende:__\n**<>** - Muss angegeben werden\n**[]** - Optional\n\nWähle eine Kategorie aus, um die Befehle zu sehen.",
+        "general": {
+            "title": "Allgemein",
+            "description": "Zeigt allgemeine Befehle"
+        },
+        "fun": {
+            "title": "Fun",
+            "description": "Zeigt Fun-Befehle"
+        },
+        "music": {
+            "title": "Musik",
+            "description": "Zeigt Musik-Befehle"
+        },
+        "ticket": {
+            "title": "Ticket",
+            "description": "Zeigt Ticket-Befehle"
+        },
+        "image": {
+            "title": "Bild",
+            "description": "Zeigt Befehle, um Bilder zu erstellen"
+        },
+        "voice": {
+            "title": "Voice",
+            "description": "Zeigt Befehle für private Sprachkanäle"
+        },
+        "moderation": {
+            "title": "Moderation",
+            "description": "Zeigt Moderations-Befehle"
+        },
+        "admin": {
+            "title": "Admin",
+            "description": "Zeigt Befehle zur Serververwaltung"
+        },
+        "all": {
+            "title": "Alle Befehle",
+            "description": "Zeigt alle Befehle vom Bot"
+        }
+    }
 }
