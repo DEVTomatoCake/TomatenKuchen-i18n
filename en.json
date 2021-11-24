@@ -20,6 +20,7 @@
     "ticket_created": "✅ The ticket has been created in {CHANNEL}",
     "mention": "Mention",
     "mentions": "Mentions",
+    "calculator": "|                         Calculator                        |",
     "music": {
         "queueempty": "The queue is empty, I'll leave the voice channel!",
         "nowplaying": "Now playing",
@@ -95,5 +96,45 @@
 		"hacking": "Hacking... {PERCENT}%",
 		"result": "Result:",
 		"password": "Password"
+	},
+	"help": {
+		"help": "Help",
+		"description": "__Command usage:__\n**<>** - Required\n**[]** - Optional\n\nSelect a category to see the commands.",
+		"general": {
+			"title": "General",
+			"description": "Shows general commands"
+		},
+		"fun": {
+			"title": "Fun",
+			"description": "Shows fun commands"
+		},
+		"music": {
+			"title": "Music",
+			"description": "Shows music commands"
+		},
+		"ticket": {
+			"title": "Ticket",
+			"description": "Shows ticket commands"
+		},
+		"image": {
+			"title": "Image",
+			"description": "Shows commands to create images"
+		},
+		"voice": {
+			"title": "Voice",
+			"description": "Shows commands for private voice channels"
+		},
+		"moderation": {
+			"title": "Moderation",
+			"description": "Shows moderation commands"
+		},
+		"admin": {
+			"title": "Admin",
+			"description": "Shows commands for server administration"
+		},
+		"all": {
+			"title": "All commands",
+			"description": "Shows all bot commands"
+		}
 	}
 }
