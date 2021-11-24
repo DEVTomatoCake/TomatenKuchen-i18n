@@ -136,5 +136,10 @@
 		"win": "Gut gemacht! Zeit benötigt: **{TIME}** Sekunden",
 		"cooldown": "Du hast keine Tomaten erhalten, da du noch einen Cooldown für diesen Befehl hast: **{TIME}**",
 		"award": "Du hast **200** Tomaten erhalten!"
+	},
+	"hack": {
+		"hacking": "Hacken... {PERCENT}",
+		"result": "Ergebnis:",
+		"password": "Passwort"
 	}
 }
