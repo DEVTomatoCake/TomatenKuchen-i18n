@@ -4,7 +4,6 @@
     "botKeineRechte": "I don't have enough permissions for this command, ",
     "invaliduser": "You must enter a valid user",
     "missingtext": "You must enter a text",
-    "help_music": "Music",
     "eval_error": "Error",
     "channels": "Channels",
     "commands": "Commands",
@@ -14,9 +13,6 @@
     "invite": "Bot invite",
     "supportserver": "Support server",
     "ban": "**{mod}** banned **{user}**: {reason}",
-    "general": "General",
-    "image": "Image",
-    "help": "Help",
     "customcommand_list": "List of customcommands",
     "help_unknowncommandcategory": "Unknown command/category!",
     "guildowner": "Server owner",
@@ -74,12 +70,30 @@
     "afk": {
         "afk": "{USER} is afk!",
         "end": "You're no longer afk!\nYou were **{TIME}** afk.",
-        "set": "Your afk state has been set"
+        "set": "Your afk state has been set",
+		"reason": "Reason"
     },
     "poll": {
         "ends": "Poll ends",
         "ended": "Poll ended",
         "result": "Result:",
         "noresult": "No one voted!"
-    }
+    },
+	"addemoji": {
+		"missing": "You need to specify an emoji",
+		"success": "The emoji {EMOJI} was added with the name `{NAME}`!"
+	},
+	"captcha": {
+		"start": "**{USER}**, solve the following captcha:",
+		"lose": "You lost .-.",
+		"typo": "You have at least one typing errors: {WRONG} | {RIGHT}",
+		"win": "Well done! Took **{TIME}** seconds",
+		"cooldown": "You didn't get any tomatoes, because you still have a cooldown for this command: **{TIME}**",
+		"award": "You've got **200** tomatoes!"
+	},
+	"hack": {
+		"hacking": "Hacking... {PERCENT}%",
+		"result": "Result:",
+		"password": "Password"
+	}
 }
