@@ -20,6 +20,7 @@
 	"ticket_created": "✅ Dein Ticket wurde in {CHANNEL} erstellt",
 	"mention": "Erwähnung",
 	"mentions": "Erwähnungen",
+	"calculator": "Taschenrechner",
 	"music": {
 		"queueempty": "Die Queue ist leer, ich verlasse den Sprachkanal!",
 		"nowplaying": "Jetzt spielt",

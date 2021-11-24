@@ -20,6 +20,7 @@
 	"ticket_created": "✅ The ticket has been created in {CHANNEL}",
 	"mention": "Mention",
 	"mentions": "Mentions",
+	"calculator": "Calculator",
 	"music": {
 		"queueempty": "The queue is empty, I'll leave the voice channel!",
 		"nowplaying": "Now playing",
