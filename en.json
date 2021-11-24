@@ -4,7 +4,6 @@
 	"botKeineRechte": "I don't have enough permissions for this command, ",
 	"invaliduser": "You must enter a valid user",
 	"missingtext": "You must enter a text",
-	"help_music": "Music",
 	"eval_error": "Error",
 	"channels": "Channels",
 	"commands": "Commands",
@@ -14,9 +13,6 @@
 	"invite": "Bot invite",
 	"supportserver": "Support server",
 	"ban": "**{mod}** banned **{user}**: {reason}",
-	"general": "General",
-	"image": "Image",
-	"help": "Help",
 	"customcommand_list": "List of customcommands",
 	"help_unknowncommandcategory": "Unknown command/category!",
 	"guildowner": "Server owner",
@@ -81,5 +77,50 @@
 		"ended": "Poll ended",
 		"result": "Result:",
 		"noresult": "No one voted!"
+	},
+	"help": {
+		"help": "Hilfe",
+		"legend": "Legende",
+		"required": "Muss angegeben werden",
+		"optional": "Optional",
+		"choose": "Wähle eine Kategorie aus, um die Befehle zu sehen.",
+		"categories": {
+			"general": {
+				"header": "General",
+				"description": "Shows general commands"
+			},
+			"fun": {
+				"header": "Fun",
+				"description": "Shows fun commands"
+			},
+			"music": {
+				"header": "Music",
+				"description": "Shows music commands"
+			},
+			"ticket": {
+				"header": "Ticket",
+				"description": "Shows ticket commands"
+			},
+			"image": {
+				"header": "Image",
+				"description": "Shows commands to create images"
+			},
+			"voice": {
+				"header": "Voice",
+				"description": "Shows commands for private voice channels"
+			},
+			"moderation": {
+				"header": "Moderation",
+				"description": "Shows moderation commands"
+			},
+			"admin": {
+				"header": "Admin",
+				"description": "Shows commands for server administration"
+			},
+			"all": {
+				"header": "All commands",
+				"description": "Shows all bot commands"
+			}
+		}
 	}
 }

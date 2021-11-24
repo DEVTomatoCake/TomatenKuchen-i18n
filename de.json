@@ -4,7 +4,6 @@
 	"botKeineRechte": "Ich habe nicht genug Rechte für diesen Befehl, ",
 	"invaliduser": "Du musst einen Nutzer angeben",
 	"missingtext": "Du musst einen Text angeben",
-	"help_music": "Musik",
 	"eval_error": "Fehler",
 	"channels": "Kanäle",
 	"commands": "Befehle",
@@ -14,9 +13,6 @@
 	"invite": "Bot einladen",
 	"supportserver": "Support-Server",
 	"ban": "**{mod}** hat **{user}** gebannt: {reason}",
-	"general": "Allgemein",
-	"image": "Bild",
-	"help": "Hilfe",
 	"customcommand_list": "Liste aller Customcommands",
 	"help_unknowncommandcategory": "Unbekannter Befehl/Kategorie!",
 	"guildowner": "Serverbesitzer",
@@ -81,5 +77,50 @@
 		"ended": "Umfrage ist beendet",
 		"result": "Ergebnis:",
 		"noresult": "Keiner hat abgestimmt!"
+	},
+	"help": {
+		"help": "Hilfe",
+		"legend": "Legende",
+		"required": "Muss angegeben werden",
+		"optional": "Optional",
+		"choose": "Wähle eine Kategorie aus, um die Befehle zu sehen.",
+		"categories": {
+			"general": {
+				"header": "Allgemein",
+				"description": "Zeigt allgemeine Befehle"
+			},
+			"fun": {
+				"header": "Fun",
+				"description": "Zeigt Fun-Befehle"
+			},
+			"music": {
+				"header": "Musik",
+				"description": "Zeigt Musik-Befehle"
+			},
+			"ticket": {
+				"header": "Ticket",
+				"description": "Zeigt Ticket-Befehle"
+			},
+			"image": {
+				"header": "Bild",
+				"description": "Zeigt Befehle, um Bilder zu erstellen"
+			},
+			"voice": {
+				"header": "Voice",
+				"description": "Zeigt Befehle für private Sprachkanäle"
+			},
+			"moderation": {
+				"header": "Moderation",
+				"description": "Zeigt Moderations-Befehle"
+			},
+			"admin": {
+				"header": "Admin",
+				"description": "Zeigt Befehle zur Serververwaltung"
+			},
+			"all": {
+				"header": "Alle Befehle",
+				"description": "Zeigt alle Befehle vom Bot"
+			}
+		}
 	}
 }
