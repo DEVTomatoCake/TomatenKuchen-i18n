@@ -70,7 +70,8 @@
 	"afk": {
 		"afk": "{USER} is afk!",
 		"end": "You're no longer afk!\nYou were **{TIME}** afk.",
-		"set": "Your afk state has been set"
+		"set": "Your afk state has been set",
+		"reason": "Reason"
 	},
 	"poll": {
 		"ends": "Poll ends",

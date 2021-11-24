@@ -70,7 +70,8 @@
 	"afk": {
 		"afk": "{USER} ist afk!",
 		"end": "Du bist nicht länger afk!\nDu warst **{TIME}** abwesend.",
-		"set": "Dein AFK-Status wurde gesetzt"
+		"set": "Dein AFK-Status wurde gesetzt",
+		"reason": "Grund"
 	},
 	"poll": {
 		"ends": "Umfrage endet",
