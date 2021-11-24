@@ -122,5 +122,9 @@
 				"description": "Shows all bot commands"
 			}
 		}
+	},
+	"addemoji": {
+		"error": "You need to specify an emoji!",
+		"success": "The emoji {EMOJI} was added with the name {NAME}!"
 	}
 }

@@ -122,5 +122,9 @@
 				"description": "Zeigt alle Befehle vom Bot"
 			}
 		}
+	},
+	"addemoji": {
+		"error": "Du musst ein Emoji angeben!",
+		"success": "Das Emoji {EMOJI} wurde mit dem Namen {NAME} hinzugefügt!"
 	}
 }
