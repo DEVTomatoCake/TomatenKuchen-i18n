@@ -1,85 +1,85 @@
 {
-	"prefix": "My prefix is",
-	"keineRechte": "You don't have enough permissions, ",
-	"botKeineRechte": "I don't have enough permissions for this command, ",
-	"invaliduser": "You must enter a valid user",
-	"missingtext": "You must enter a text",
-	"help_music": "Music",
-	"eval_error": "Error",
-	"channels": "Channels",
-	"commands": "Commands",
-	"users": "Users",
-	"hours": "hours",
-	"minutes": "minutes",
-	"invite": "Bot invite",
-	"supportserver": "Support server",
-	"ban": "**{mod}** banned **{user}**: {reason}",
-	"general": "General",
-	"image": "Image",
-	"help": "Help",
-	"customcommand_list": "List of customcommands",
-	"help_unknowncommandcategory": "Unknown command/category!",
-	"guildowner": "Server owner",
-	"say_error": "The message couldn't be sent",
-	"ticket_created": "✅ The ticket has been created in {CHANNEL}",
-	"mention": "Mention",
-	"mentions": "Mentions",
-	"music": {
-		"queueempty": "The queue is empty, I'll leave the voice channel!",
-		"nowplaying": "Now playing",
-		"missingvoice": "You need to be in a voice channel to play music!",
-		"missingvideo": "I need a video name!",
-		"missingpermissions": "I need the permissions to join and speak in your voice channel!",
-		"nothingplaying": "There is nothing playing!",
-		"by": "by",
-		"pause": "The video has been paused",
-		"resume": "The video has been resumed"
-	},
-	"suggest": {
-		"unknownmessage": "This suggestion doens't exist!",
-		"nochannel": "There is no suggestion channel set!"
-	},
-	"mclint": {
-		"missingcommand": "You must enter the command",
-		"noerror": "No error was found in the command",
-		"errorfound": "There is at least one error in the command:"
-	},
-	"remind": {
-		"endsin": "Ends at",
-		"your": "Your reminder",
-		"missingtime": "You must enter a valid time"
-	},
-	"slowmode": {
-		"missing": "You must enter a valid slowmode time",
-		"error": "An error occured while setting the slowmode"
-	},
-	"role": {
-		"unknown": "Unknown role",
-		"missing": "You must enter an action and a role",
-		"massadd": {
-			"start": "I'll add the role **{ROLE}** to **{MEMBERCOUNT}** members",
-			"error": "An error occured while adding the role"
-		},
-		"massremove": {
-			"start": "I'll remove the role **{ROLE}** from **{MEMBERCOUNT}** members",
-			"error": "An error occured while removing the role"
-		}
-	},
-	"reactionrole": {
-		"unknownmessage": "Unknown message!",
-		"unknownemoji": "Unknown emoji!",
-		"unknownchannel": "Unknown channel!",
-		"unknownrole": "Unknown role!"
-	},
-	"afk": {
-		"afk": "{USER} is afk!",
-		"end": "You're no longer afk!\nYou were **{TIME}** afk.",
-		"set": "Your afk state has been set"
-	},
-	"poll": {
-		"ends": "Poll ends",
-		"ended": "Poll ended",
-		"result": "Result:",
-		"noresult": "No one voted!"
-	}
+    "prefix": "My prefix is",
+    "keineRechte": "You don't have enough permissions, ",
+    "botKeineRechte": "I don't have enough permissions for this command, ",
+    "invaliduser": "You must enter a valid user",
+    "missingtext": "You must enter a text",
+    "help_music": "Music",
+    "eval_error": "Error",
+    "channels": "Channels",
+    "commands": "Commands",
+    "users": "Users",
+    "hours": "hours",
+    "minutes": "minutes",
+    "invite": "Bot invite",
+    "supportserver": "Support server",
+    "ban": "**{mod}** banned **{user}**: {reason}",
+    "general": "General",
+    "image": "Image",
+    "help": "Help",
+    "customcommand_list": "List of customcommands",
+    "help_unknowncommandcategory": "Unknown command/category!",
+    "guildowner": "Server owner",
+    "say_error": "The message couldn't be sent",
+    "ticket_created": "✅ The ticket has been created in {CHANNEL}",
+    "mention": "Mention",
+    "mentions": "Mentions",
+    "music": {
+        "queueempty": "The queue is empty, I'll leave the voice channel!",
+        "nowplaying": "Now playing",
+        "missingvoice": "You need to be in a voice channel to play music!",
+        "missingvideo": "I need a video name!",
+        "missingpermissions": "I need the permissions to join and speak in your voice channel!",
+        "nothingplaying": "There is nothing playing!",
+        "by": "by",
+        "pause": "The video has been paused",
+        "resume": "The video has been resumed"
+    },
+    "suggest": {
+        "unknownmessage": "This suggestion doens't exist",
+        "nochannel": "There is no suggestion channel set!"
+    },
+    "mclint": {
+        "missingcommand": "You must enter the command",
+        "noerror": "No error was found in the command",
+        "errorfound": "There is at least one error in the command:"
+    },
+    "remind": {
+        "endsin": "Ends at",
+        "your": "Your reminder",
+        "missingtime": "You must enter a valid time"
+    },
+    "slowmode": {
+        "missing": "You must enter a valid slowmode time",
+        "error": "An error occured while setting the slowmode"
+    },
+    "role": {
+        "unknown": "Unknown role",
+        "missing": "You must enter an action and a role",
+        "massadd": {
+            "start": "I'll add the role **{ROLE}** to **{MEMBERCOUNT}** members",
+            "error": "An error occured while adding the role"
+        },
+        "massremove": {
+            "start": "I'll remove the role **{ROLE}** from **{MEMBERCOUNT}** members",
+            "error": "An error occured while removing the role"
+        }
+    },
+    "reactionrole": {
+        "unknownmessage": "Unknown message!",
+        "unknownemoji": "Unknown emoji!",
+        "unknownchannel": "Unknown channel!",
+        "unknownrole": "Unknown role!"
+    },
+    "afk": {
+        "afk": "{USER} is afk!",
+        "end": "You're no longer afk!\nYou were **{TIME}** afk.",
+        "set": "Your afk state has been set"
+    },
+    "poll": {
+        "ends": "Poll ends",
+        "ended": "Poll ended",
+        "result": "Result:",
+        "noresult": "No one voted!"
+    }
 }
