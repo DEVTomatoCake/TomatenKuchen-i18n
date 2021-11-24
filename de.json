@@ -20,6 +20,7 @@
     "ticket_created": "✅ Dein Ticket wurde in {CHANNEL} erstellt",
     "mention": "Erwähnung",
     "mentions": "Erwähnungen",
+    "calculator": "|                   Taschenrechner                   |",
     "music": {
         "queueempty": "Die Queue ist leer, ich verlasse den Sprachkanal!",
         "nowplaying": "Jetzt spielt",
@@ -95,5 +96,45 @@
 		"hacking": "Hacken... {PERCENT}%",
 		"result": "Ergebnis:",
 		"password": "Passwort"
+	},
+	"help": {
+		"help": "Hilfe",
+		"description": "__Legende:__\n**<>** - Muss angegeben werden\n**[]** - Optional\n\nWähle eine Kategorie aus, um die Befehle zu sehen.",
+		"general": {
+			"title": "Allgemein",
+			"description": "Zeigt allgemeine Befehle"
+		},
+		"fun": {
+			"title": "Fun",
+			"description": "Zeigt Fun-Befehle"
+		},
+		"music": {
+			"title": "Musik",
+			"description": "Zeigt Musik-Befehle"
+		},
+		"ticket": {
+			"title": "Ticket",
+			"description": "Zeigt Ticket-Befehle"
+		},
+		"image": {
+			"title": "Bild",
+			"description": "Zeigt Befehle, um Bilder zu erstellen"
+		},
+		"voice": {
+			"title": "Voice",
+			"description": "Zeigt Befehle für private Sprachkanäle"
+		},
+		"moderation": {
+			"title": "Moderation",
+			"description": "Zeigt Moderations-Befehle"
+		},
+		"admin": {
+			"title": "Admin",
+			"description": "Zeigt Befehle zur Serververwaltung"
+		},
+		"all": {
+			"title": "Alle Befehle",
+			"description": "Zeigt alle Befehle vom Bot"
+		}
 	}
 }
