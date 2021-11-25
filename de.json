@@ -1,140 +1,144 @@
 {
-    "prefix": "Mein Prefix ist",
-    "keineRechte": "Keine Rechte, ",
-    "botKeineRechte": "Ich habe nicht genug Rechte für diesen Befehl, ",
-    "invaliduser": "Du musst einen Nutzer angeben",
-    "missingtext": "Du musst einen Text angeben",
-    "eval_error": "Fehler",
-    "channels": "Kanäle",
-    "commands": "Befehle",
-    "users": "Nutzer",
-    "hours": "Stunden",
-    "minutes": "Minuten",
-    "invite": "Bot einladen",
-    "supportserver": "Support-Server",
-    "ban": "**{mod}** hat **{user}** gebannt: {reason}",
-    "customcommand_list": "Liste aller Customcommands",
-    "help_unknowncommandcategory": "Unbekannter Befehl/Kategorie!",
-    "guildowner": "Serverbesitzer",
-    "say_error": "Die Nachricht konnte nicht gesendet werden",
-    "ticket_created": "✅ Dein Ticket wurde in {CHANNEL} erstellt",
-    "mention": "Erwähnung",
-    "mentions": "Erwähnungen",
-    "calculator": "|                   Taschenrechner                   |",
-    "music": {
-        "queueempty": "Die Queue ist leer, ich verlasse den Sprachkanal!",
-        "nowplaying": "Jetzt spielt",
-        "missingvoice": "Du musst in einem Sprachkanal sein!",
-        "missingvideo": "Du musst einen Videonamen angeben!",
-        "missingpermissions": "Ich brauche Rechte, um dem Sprachkanal beitreten und dort sprechen zu können!",
-        "nothingplaying": "Es wird kein Video gespielt!",
-        "by": "von",
-        "pause": "Das Video wurde pausiert",
-        "resume": "Das Video wurde geresumed"
-    },
-    "suggest": {
-        "unknownmessage": "Diese Nachricht gibt es nicht",
-        "nochannel": "Es wurde kein Vorschläge-Kanal festgelegt!"
-    },
-    "mclint": {
-        "missingcommand": "Du musst einen Befehl angeben",
-        "noerror": "Es wurde kein Fehler in dem Befehl gefunden",
-        "errorfound": "Es wurde ein Fehler im Befehl gefunden:"
-    },
-    "remind": {
-        "endsin": "Läuft ab",
-        "your": "Deine Erinnerung",
-        "missingtime": "Du musst eine Zeit angeben"
-    },
-    "slowmode": {
-        "missing": "Du musst eine Zahl angeben",
-        "error": "Der Slowmode konnte nicht gesetzt werden"
-    },
-    "role": {
-        "unknown": "Unbekannte Rolle",
-        "missing": "Du musst eine Aktion und eine Rolle angeben",
-        "massadd": {
-            "start": "Ich füge **{MEMBERCOUNT}** Mitgliedern die Rolle **{ROLE}** hinzu",
-            "error": "Es ist ein Fehler beim Hinzufügen der Rolle aufgetreten"
-        },
-        "massremove": {
-            "start": "Ich entferne von **{MEMBERCOUNT}** Mitgliedern die Rolle **{ROLE}**",
-            "error": "Es ist ein Fehler beim Entfernen der Rolle aufgetreten"
-        }
-    },
-    "reactionrole": {
-        "unknownmessage": "Unbekannte Nachricht!",
-        "unknownemoji": "Unbekanntes Emoji!",
-        "unknownchannel": "Unbekannter Kanal!",
-        "unknownrole": "Unbekannte Rolle!"
-    },
-    "afk": {
-        "afk": "{USER} ist afk!",
-        "end": "Du bist nicht länger afk!\nDu warst **{TIME}** abwesend.",
-        "set": "Dein AFK-Status wurde gesetzt",
-        "reason": "Grund"
-    },
-    "poll": {
-        "ends": "Umfrage endet",
-        "ended": "Umfrage ist beendet",
-        "result": "Ergebnis:",
-        "noresult": "Keiner hat abgestimmt!"
-    },
-    "addemoji": {
-        "missing": "Du musst ein Emoji angeben",
-        "success": "Das Emoji {EMOJI} wurde mit dem Namen `{NAME}` hinzugefügt!"
-    },
-    "captcha": {
-        "start": "**{USER}**, löse folgendes Captcha:",
-        "lose": "Du hast verloren .-.",
-        "typo": "Du hast einen (oder mehrere) Tippfehler: {WRONG} | {RIGHT}",
-        "win": "Gut gemacht! Zeit benötigt: **{TIME}** Sekunden",
-        "cooldown": "Du hast keine Tomaten erhalten, da du noch einen Cooldown für diesen Befehl hast: **{TIME}**",
-        "award": "Du hast **200** Tomaten erhalten!"
-    },
-    "hack": {
-        "hacking": "Hacken… {PERCENT}%",
-        "result": "Ergebnis:",
-        "password": "Passwort"
-    },
-    "help": {
-        "help": "Hilfe",
-        "description": "__Legende:__\n**<>** - Muss angegeben werden\n**[]** - Optional\n\nWähle eine Kategorie aus, um die Befehle zu sehen.",
-        "general": {
-            "title": "Allgemein",
-            "description": "Zeigt allgemeine Befehle"
-        },
-        "fun": {
-            "title": "Fun",
-            "description": "Zeigt Fun-Befehle"
-        },
-        "music": {
-            "title": "Musik",
-            "description": "Zeigt Musik-Befehle"
-        },
-        "ticket": {
-            "title": "Ticket",
-            "description": "Zeigt Ticket-Befehle"
-        },
-        "image": {
-            "title": "Bild",
-            "description": "Zeigt Befehle, um Bilder zu erstellen"
-        },
-        "voice": {
-            "title": "Voice",
-            "description": "Zeigt Befehle für private Sprachkanäle"
-        },
-        "moderation": {
-            "title": "Moderation",
-            "description": "Zeigt Moderations-Befehle"
-        },
-        "admin": {
-            "title": "Admin",
-            "description": "Zeigt Befehle zur Serververwaltung"
-        },
-        "all": {
-            "title": "Alle Befehle",
-            "description": "Zeigt alle Befehle vom Bot"
-        }
-    }
+				"addemoji": {
+								"missing": "Du musst ein Emoji angeben",
+								"success": "Das Emoji {EMOJI} wurde mit dem Namen `{NAME}` hinzugefügt!"
+				},
+				"afk": {
+								"afk": "{USER} ist afk!",
+								"end": "Du bist nicht länger afk!\nDu warst **{TIME}** abwesend.",
+								"reason": "Grund",
+								"set": "Dein AFK-Status wurde gesetzt"
+				},
+				"ban": "**{mod}** hat **{user}** gebannt: {reason}",
+				"botKeineRechte": "Ich habe nicht genug Rechte für diesen Befehl, ",
+				"calculator": "|                   Taschenrechner                   |",
+				"captcha": {
+								"award": "Du hast **200** Tomaten erhalten!",
+								"cooldown": "Du hast keine Tomaten erhalten, da du noch einen Cooldown für diesen Befehl hast: **{TIME}**",
+								"lose": "Du hast verloren .-.",
+								"start": "**{USER}**, löse folgendes Captcha:",
+								"typo": "Du hast einen (oder mehrere) Tippfehler: {WRONG} | {RIGHT}",
+								"win": "Gut gemacht! Zeit benötigt: **{TIME}** Sekunden"
+				},
+				"channels": "Kanäle",
+				"commands": "Befehle",
+				"customcommand_list": "Liste aller Customcommands",
+				"eval_error": "Fehler",
+				"guildowner": "Serverbesitzer",
+				"hack": {
+								"hacking": "Hacken… {PERCENT}%",
+								"password": "Passwort",
+								"result": "Ergebnis:"
+				},
+				"help": {
+								"admin": {
+												"description": "Zeigt Befehle zur Serververwaltung",
+												"title": "Admin"
+								},
+								"all": {
+												"description": "Zeigt alle Befehle vom Bot",
+												"title": "Alle Befehle"
+								},
+								"description": "__Legende:__\n**<>** - Muss angegeben werden\n**[]** - Optional\n\nWähle eine Kategorie aus, um die Befehle zu sehen.",
+								"fun": {
+												"description": "Zeigt Fun-Befehle",
+												"title": "Fun"
+								},
+								"general": {
+												"description": "Zeigt allgemeine Befehle",
+												"title": "Allgemein"
+								},
+								"help": "Hilfe",
+								"image": {
+												"description": "Zeigt Befehle, um Bilder zu erstellen",
+												"title": "Bild"
+								},
+								"moderation": {
+												"description": "Zeigt Moderations-Befehle",
+												"title": "Moderation"
+								},
+								"music": {
+												"description": "Zeigt Musik-Befehle",
+												"title": "Musik"
+								},
+								"ticket": {
+												"description": "Zeigt Ticket-Befehle",
+												"title": "Ticket"
+								},
+								"voice": {
+												"description": "Zeigt Befehle für private Sprachkanäle",
+												"title": "Voice"
+								}
+				},
+				"help_unknowncommandcategory": "Unbekannter Befehl/Kategorie!",
+				"hours": "Stunden",
+				"invaliduser": "Du musst einen Nutzer angeben",
+				"invite": "Bot einladen",
+				"keineRechte": "Keine Rechte, ",
+				"mclint": {
+								"errorfound": "Es wurde ein Fehler im Befehl gefunden:",
+								"missingcommand": "Du musst einen Befehl angeben",
+								"noerror": "Es wurde kein Fehler in dem Befehl gefunden"
+				},
+				"mention": "Erwähnung",
+				"mentions": "Erwähnungen",
+				"minutes": "Minuten",
+				"missingtext": "Du musst einen Text angeben",
+				"music": {
+								"by": "von",
+								"missingpermissions": "Ich brauche Rechte, um dem Sprachkanal beitreten und dort sprechen zu können!",
+								"missingvideo": "Du musst einen Videonamen angeben!",
+								"missingvoice": "Du musst in einem Sprachkanal sein!",
+								"nothingplaying": "Es wird kein Video gespielt!",
+								"nowplaying": "Jetzt spielt",
+								"pause": "Das Video wurde pausiert",
+								"queueempty": "Die Queue ist leer, ich verlasse den Sprachkanal!",
+								"resume": "Das Video wurde geresumed"
+				},
+				"poll": {
+								"ended": "Umfrage ist beendet",
+								"ends": "Umfrage endet",
+								"noresult": "Keiner hat abgestimmt!",
+								"result": "Ergebnis:"
+				},
+				"prefix": "Mein Prefix ist",
+				"reactionrole": {
+								"unknownchannel": "Unbekannter Kanal!",
+								"unknownemoji": "Unbekanntes Emoji!",
+								"unknownmessage": "Unbekannte Nachricht!",
+								"unknownrole": "Unbekannte Rolle!"
+				},
+				"remind": {
+								"endsin": "Läuft ab",
+								"missingtime": "Du musst eine Zeit angeben",
+								"your": "Deine Erinnerung"
+				},
+				"role": {
+								"massadd": {
+												"error": "Es ist ein Fehler beim Hinzufügen der Rolle aufgetreten",
+												"start": "Ich füge **{MEMBERCOUNT}** Mitgliedern die Rolle **{ROLE}** hinzu"
+								},
+								"massremove": {
+												"error": "Es ist ein Fehler beim Entfernen der Rolle aufgetreten",
+												"start": "Ich entferne von **{MEMBERCOUNT}** Mitgliedern die Rolle **{ROLE}**"
+								},
+								"missing": "Du musst eine Aktion und eine Rolle angeben",
+								"unknown": "Unbekannte Rolle"
+				},
+				"say_error": "Die Nachricht konnte nicht gesendet werden",
+				"slowmode": {
+								"error": "Der Slowmode konnte nicht gesetzt werden",
+								"missing": "Du musst eine Zahl angeben"
+				},
+				"suggest": {
+								"nochannel": "Es wurde kein Vorschläge-Kanal festgelegt!",
+								"unknownmessage": "Diese Nachricht gibt es nicht"
+				},
+				"supportserver": "Support-Server",
+				"threads": {
+								"all": "Alle Threads",
+								"description": "Nachrichten | Mitglieder"
+				},
+				"ticket_created": "✅ Dein Ticket wurde in {CHANNEL} erstellt",
+				"users": "Nutzer"
 }
