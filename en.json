@@ -36,7 +36,7 @@
 			"title": "Admin"
 		},
 		"all": {
-			"description": "Shows all bot commands test",
+			"description": "Shows all bot commands",
 			"title": "All commands"
 		},
 		"description": "__Command usage:__\n**<>** - Required\n**[]** - Optional\n\nSelect a category to see the commands.",
@@ -61,6 +61,7 @@
 			"description": "Shows music commands",
 			"title": "Music"
 		},
+		"selectcategory": "Select category",
 		"ticket": {
 			"description": "Shows ticket commands",
 			"title": "Ticket"
@@ -135,6 +136,13 @@
 		"unknownmessage": "This suggestion doens't exist"
 	},
 	"supportserver": "Support server",
+	"threads": {
+		"all": "All threads",
+		"description": "Messages | Members"
+	},
+	"ticket": {
+		"noticket": "This channel isn't a ticket"
+	},
 	"ticket_created": "✅ The ticket has been created in {CHANNEL}",
 	"users": "Users"
 }
