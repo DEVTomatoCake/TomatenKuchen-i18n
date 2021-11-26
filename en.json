@@ -1,140 +1,140 @@
 {
-    "prefix": "My prefix is",
-    "keineRechte": "You don't have enough permissions, ",
-    "botKeineRechte": "I don't have enough permissions for this command, ",
-    "invaliduser": "You must enter a valid user",
-    "missingtext": "You must enter a text",
-    "eval_error": "Error",
-    "channels": "Channels",
-    "commands": "Commands",
-    "users": "Users",
-    "hours": "hours",
-    "minutes": "minutes",
-    "invite": "Bot invite",
-    "supportserver": "Support server",
-    "ban": "**{mod}** banned **{user}**: {reason}",
-    "customcommand_list": "List of customcommands",
-    "help_unknowncommandcategory": "Unknown command/category!",
-    "guildowner": "Server owner",
-    "say_error": "The message couldn't be sent",
-    "ticket_created": "✅ The ticket has been created in {CHANNEL}",
-    "mention": "Mention",
-    "mentions": "Mentions",
-    "calculator": "|                         Calculator                        |",
-    "music": {
-        "queueempty": "The queue is empty, I'll leave the voice channel!",
-        "nowplaying": "Now playing",
-        "missingvoice": "You need to be in a voice channel to play music!",
-        "missingvideo": "I need a video name!",
-        "missingpermissions": "I need the permissions to join and speak in your voice channel!",
-        "nothingplaying": "There is nothing playing!",
-        "by": "by",
-        "pause": "The video has been paused",
-        "resume": "The video has been resumed"
-    },
-    "suggest": {
-        "unknownmessage": "This suggestion doens't exist",
-        "nochannel": "There is no suggestion channel set!"
-    },
-    "mclint": {
-        "missingcommand": "You must enter the command",
-        "noerror": "No error was found in the command",
-        "errorfound": "There is at least one error in the command:"
-    },
-    "remind": {
-        "endsin": "Ends at",
-        "your": "Your reminder",
-        "missingtime": "You must enter a valid time"
-    },
-    "slowmode": {
-        "missing": "You must enter a valid slowmode time",
-        "error": "An error occured while setting the slowmode"
-    },
-    "role": {
-        "unknown": "Unknown role",
-        "missing": "You must enter an action and a role",
-        "massadd": {
-            "start": "I'll add the role **{ROLE}** to **{MEMBERCOUNT}** members",
-            "error": "An error occured while adding the role"
-        },
-        "massremove": {
-            "start": "I'll remove the role **{ROLE}** from **{MEMBERCOUNT}** members",
-            "error": "An error occured while removing the role"
-        }
-    },
-    "reactionrole": {
-        "unknownmessage": "Unknown message!",
-        "unknownemoji": "Unknown emoji!",
-        "unknownchannel": "Unknown channel!",
-        "unknownrole": "Unknown role!"
-    },
-    "afk": {
-        "afk": "{USER} is afk!",
-        "end": "You're no longer afk!\nYou were **{TIME}** afk.",
-        "set": "Your afk state has been set",
-        "reason": "Reason"
-    },
-    "poll": {
-        "ends": "Poll ends",
-        "ended": "Poll ended",
-        "result": "Result:",
-        "noresult": "No one voted!"
-    },
-    "addemoji": {
-        "missing": "You need to specify an emoji",
-        "success": "The emoji {EMOJI} was added with the name `{NAME}`!"
-    },
-    "captcha": {
-        "start": "**{USER}**, solve the following captcha:",
-        "lose": "You lost .-.",
-        "typo": "You have at least one typing errors: {WRONG} | {RIGHT}",
-        "win": "Well done! Took **{TIME}** seconds",
-        "cooldown": "You didn't get any tomatoes, because you still have a cooldown for this command: **{TIME}**",
-        "award": "You've got **200** tomatoes!"
-    },
-    "hack": {
-        "hacking": "Hacking… {PERCENT}%",
-        "result": "Result:",
-        "password": "Password"
-    },
-    "help": {
-        "help": "Help",
-        "description": "__Command usage:__\n**<>** - Required\n**[]** - Optional\n\nSelect a category to see the commands.",
-        "general": {
-            "title": "General",
-            "description": "Shows general commands"
-        },
-        "fun": {
-            "title": "Fun",
-            "description": "Shows fun commands"
-        },
-        "music": {
-            "title": "Music",
-            "description": "Shows music commands"
-        },
-        "ticket": {
-            "title": "Ticket",
-            "description": "Shows ticket commands"
-        },
-        "image": {
-            "title": "Image",
-            "description": "Shows commands to create images"
-        },
-        "voice": {
-            "title": "Voice",
-            "description": "Shows commands for private voice channels"
-        },
-        "moderation": {
-            "title": "Moderation",
-            "description": "Shows moderation commands"
-        },
-        "admin": {
-            "title": "Admin",
-            "description": "Shows commands for server administration"
-        },
-        "all": {
-            "title": "All commands",
-            "description": "Shows all bot commands"
-        }
-    }
+	"addemoji": {
+		"missing": "You need to specify an emoji",
+		"success": "The emoji {EMOJI} was added with the name `{NAME}`!"
+	},
+	"afk": {
+		"afk": "{USER} is afk!",
+		"end": "You're no longer afk!\nYou were **{TIME}** afk.",
+		"reason": "Reason",
+		"set": "Your afk state has been set"
+	},
+	"ban": "**{mod}** banned **{user}**: {reason}",
+	"botKeineRechte": "I don't have enough permissions for this command, ",
+	"calculator": "|                         Calculator                        |",
+	"captcha": {
+		"award": "You've got **200** tomatoes!",
+		"cooldown": "You didn't get any tomatoes, because you still have a cooldown for this command: **{TIME}**",
+		"lose": "You lost .-.",
+		"start": "**{USER}**, solve the following captcha:",
+		"typo": "You have at least one typing errors: {WRONG} | {RIGHT}",
+		"win": "Well done! Took **{TIME}** seconds"
+	},
+	"channels": "Channels",
+	"commands": "Commands",
+	"customcommand_list": "List of customcommands",
+	"eval_error": "Error",
+	"guildowner": "Server owner",
+	"hack": {
+		"hacking": "Hacking… {PERCENT}%",
+		"password": "Password",
+		"result": "Result:"
+	},
+	"help": {
+		"admin": {
+			"description": "Shows commands for server administration",
+			"title": "Admin"
+		},
+		"all": {
+			"description": "Shows all bot commands test",
+			"title": "All commands"
+		},
+		"description": "__Command usage:__\n**<>** - Required\n**[]** - Optional\n\nSelect a category to see the commands.",
+		"fun": {
+			"description": "Shows fun commands",
+			"title": "Fun"
+		},
+		"general": {
+			"description": "Shows general commands",
+			"title": "General"
+		},
+		"help": "Help",
+		"image": {
+			"description": "Shows commands to create images",
+			"title": "Image"
+		},
+		"moderation": {
+			"description": "Shows moderation commands",
+			"title": "Moderation"
+		},
+		"music": {
+			"description": "Shows music commands",
+			"title": "Music"
+		},
+		"ticket": {
+			"description": "Shows ticket commands",
+			"title": "Ticket"
+		},
+		"voice": {
+			"description": "Shows commands for private voice channels",
+			"title": "Voice"
+		}
+	},
+	"help_unknowncommandcategory": "Unknown command/category!",
+	"hours": "hours",
+	"invaliduser": "You must enter a valid user",
+	"invite": "Bot invite",
+	"keineRechte": "You don't have enough permissions, ",
+	"mclint": {
+		"errorfound": "There is at least one error in the command:",
+		"missingcommand": "You must enter the command",
+		"noerror": "No error was found in the command"
+	},
+	"mention": "Mention",
+	"mentions": "Mentions",
+	"minutes": "minutes",
+	"missingtext": "You must enter a text",
+	"music": {
+		"by": "by",
+		"missingpermissions": "I need the permissions to join and speak in your voice channel!",
+		"missingvideo": "I need a video name!",
+		"missingvoice": "You need to be in a voice channel to play music!",
+		"nothingplaying": "There is nothing playing!",
+		"nowplaying": "Now playing",
+		"pause": "The video has been paused",
+		"queueempty": "The queue is empty, I'll leave the voice channel!",
+		"resume": "The video has been resumed"
+	},
+	"poll": {
+		"ended": "Poll ended",
+		"ends": "Poll ends",
+		"noresult": "No one voted!",
+		"result": "Result:"
+	},
+	"prefix": "My prefix is",
+	"reactionrole": {
+		"unknownchannel": "Unknown channel!",
+		"unknownemoji": "Unknown emoji!",
+		"unknownmessage": "Unknown message!",
+		"unknownrole": "Unknown role!"
+	},
+	"remind": {
+		"endsin": "Ends at",
+		"missingtime": "You must enter a valid time",
+		"your": "Your reminder"
+	},
+	"role": {
+		"massadd": {
+			"error": "An error occured while adding the role",
+			"start": "I'll add the role **{ROLE}** to **{MEMBERCOUNT}** members"
+		},
+		"massremove": {
+			"error": "An error occured while removing the role",
+			"start": "I'll remove the role **{ROLE}** from **{MEMBERCOUNT}** members"
+		},
+		"missing": "You must enter an action and a role",
+		"unknown": "Unknown role"
+	},
+	"say_error": "The message couldn't be sent",
+	"slowmode": {
+		"error": "An error occured while setting the slowmode",
+		"missing": "You must enter a valid slowmode time"
+	},
+	"suggest": {
+		"nochannel": "There is no suggestion channel set!",
+		"unknownmessage": "This suggestion doens't exist"
+	},
+	"supportserver": "Support server",
+	"ticket_created": "✅ The ticket has been created in {CHANNEL}",
+	"users": "Users"
 }
