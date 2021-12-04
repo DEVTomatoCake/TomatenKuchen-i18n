@@ -88,14 +88,15 @@
 	"missingtext": "Du musst einen Text angeben",
 	"music": {
 		"by": "von",
-		"missingpermissions": "Ich brauche Rechte, um dem Sprachkanal beitreten und dort sprechen zu können!",
+		"missingpermissions": "Ich habe nicht genug Rechte in deinem Sprachkanal",
 		"missingvideo": "Du musst einen Videonamen angeben!",
 		"missingvoice": "Du musst in einem Sprachkanal sein!",
 		"nothingplaying": "Es wird kein Video gespielt!",
 		"nowplaying": "Jetzt spielt",
 		"pause": "Das Video wurde pausiert",
 		"queueempty": "Die Queue ist leer, ich verlasse den Sprachkanal!",
-		"resume": "Das Video wurde geresumed"
+		"resume": "Das Video wurde geresumed",
+		"unknownvideo": "Das Video wurde nicht gefunden"
 	},
 	"poll": {
 		"ended": "Umfrage ist beendet",
