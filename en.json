@@ -1,4 +1,5 @@
 {
+	"add": "{USER} has been added to the ticket",
 	"addemoji": {
 		"missing": "You need to specify an emoji",
 		"success": "The emoji {EMOJI} was added with the name `{NAME}`!"
@@ -87,14 +88,15 @@
 	"missingtext": "You must enter a text",
 	"music": {
 		"by": "by",
-		"missingpermissions": "I need the permissions to join and speak in your voice channel!",
+		"missingpermissions": "I don't have enough permissions in your voice channel",
 		"missingvideo": "I need a video name!",
 		"missingvoice": "You need to be in a voice channel to play music!",
 		"nothingplaying": "There is nothing playing!",
 		"nowplaying": "Now playing",
 		"pause": "The video has been paused",
 		"queueempty": "The queue is empty, I'll leave the voice channel!",
-		"resume": "The video has been resumed"
+		"resume": "The video has been resumed",
+		"unknownvideo": "I don't find this video"
 	},
 	"poll": {
 		"ended": "Poll ended",
@@ -114,6 +116,7 @@
 		"missingtime": "You must enter a valid time",
 		"your": "Your reminder"
 	},
+	"remove": "{USER} has been removed from the ticket",
 	"role": {
 		"massadd": {
 			"error": "An error occured while adding the role",
@@ -141,6 +144,7 @@
 		"description": "Messages | Members"
 	},
 	"ticket": {
+		"created": "✅ The ticket has been created in {CHANNEL}",
 		"noticket": "This channel isn't a ticket"
 	},
 	"users": "Users"
