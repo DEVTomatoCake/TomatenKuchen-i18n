@@ -1,4 +1,5 @@
 {
+	"add": "{USER} wurde dem Ticket hinzugefügt",
 	"addemoji": {
 		"missing": "Du musst ein Emoji angeben",
 		"success": "Das Emoji {EMOJI} wurde mit dem Namen `{NAME}` hinzugefügt!"
@@ -114,6 +115,7 @@
 		"missingtime": "Du musst eine Zeit angeben",
 		"your": "Deine Erinnerung"
 	},
+	"remove": "{USER} wurde vom Ticket entfernt",
 	"role": {
 		"massadd": {
 			"error": "Es ist ein Fehler beim Hinzufügen der Rolle aufgetreten",
@@ -141,8 +143,8 @@
 		"description": "Nachrichten | Mitglieder"
 	},
 	"ticket": {
+		"created": "✅ Dein Ticket wurde in {CHANNEL} erstellt",
 		"noticket": "Dieser Kanal ist kein Ticket"
 	},
-	"ticket_created": "✅ Dein Ticket wurde in {CHANNEL} erstellt",
 	"users": "Nutzer"
 }

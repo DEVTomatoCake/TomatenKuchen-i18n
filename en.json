@@ -143,6 +143,5 @@
 	"ticket": {
 		"noticket": "This channel isn't a ticket"
 	},
-	"ticket_created": "✅ The ticket has been created in {CHANNEL}",
 	"users": "Users"
 }
