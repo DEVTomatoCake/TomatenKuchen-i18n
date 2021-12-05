@@ -76,6 +76,11 @@
 	"hours": "Stunden",
 	"invaliduser": "Du musst einen Nutzer angeben",
 	"invite": "Bot einladen",
+	"isitdown": {
+		"available": "Website ist erreichbar",
+		"missingurl": "Du musst eine Website angeben",
+		"notavailable": "Website ist nicht erreichbar"
+	},
 	"keineRechte": "Keine Rechte, ",
 	"mclint": {
 		"errorfound": "Es wurde ein Fehler im Befehl gefunden:",
@@ -86,6 +91,9 @@
 	"mentions": "Erwähnungen",
 	"minutes": "Minuten",
 	"missingtext": "Du musst einen Text angeben",
+	"modlogs": {
+		"none": "Der Nutzer hat noch keine Modlogs"
+	},
 	"music": {
 		"by": "von",
 		"missingpermissions": "Ich habe nicht genug Rechte in deinem Sprachkanal",
@@ -96,8 +104,10 @@
 		"pause": "Das Video wurde pausiert",
 		"queueempty": "Die Queue ist leer, ich verlasse den Sprachkanal!",
 		"resume": "Das Video wurde geresumed",
+		"skip": "Das Video wurde geskippt",
 		"unknownvideo": "Das Video wurde nicht gefunden"
 	},
+	"ping": "Pinge...",
 	"poll": {
 		"ended": "Umfrage ist beendet",
 		"ends": "Umfrage endet",
