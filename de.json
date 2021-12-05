@@ -107,7 +107,7 @@
 		"skip": "Das Video wurde geskippt",
 		"unknownvideo": "Das Video wurde nicht gefunden"
 	},
-	"ping": "Pinge...",
+	"ping": "Pinge…",
 	"poll": {
 		"ended": "Umfrage ist beendet",
 		"ends": "Umfrage endet",
@@ -145,6 +145,7 @@
 		"missing": "Du musst eine Zahl angeben"
 	},
 	"suggest": {
+		"missingreply": "Du musst einen Vorschlag und eine Antwort angeben",
 		"nochannel": "Es wurde kein Vorschläge-Kanal festgelegt!",
 		"unknownmessage": "Diese Nachricht gibt es nicht"
 	},

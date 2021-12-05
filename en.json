@@ -76,6 +76,11 @@
 	"hours": "hours",
 	"invaliduser": "You must enter a valid user",
 	"invite": "Bot invite",
+	"isitdown": {
+		"available": "Website is available",
+		"missingurl": "You need to specify a website",
+		"notavailable": "Website is not available"
+	},
 	"keineRechte": "You don't have enough permissions, ",
 	"mclint": {
 		"errorfound": "There is at least one error in the command:",
@@ -86,6 +91,9 @@
 	"mentions": "Mentions",
 	"minutes": "minutes",
 	"missingtext": "You must enter a text",
+	"modlogs": {
+		"none": "The user doens't has any modlogs"
+	},
 	"music": {
 		"by": "by",
 		"missingpermissions": "I don't have enough permissions in your voice channel",
@@ -96,8 +104,10 @@
 		"pause": "The video has been paused",
 		"queueempty": "The queue is empty, I'll leave the voice channel!",
 		"resume": "The video has been resumed",
+		"skip": "The video has been skipped",
 		"unknownvideo": "I don't find this video"
 	},
+	"ping": "Pinging…",
 	"poll": {
 		"ended": "Poll ended",
 		"ends": "Poll ends",
