@@ -96,6 +96,11 @@
 	},
 	"music": {
 		"by": "von",
+		"loop": {
+			"disabled": "Die Loop wurde deaktiviert",
+			"queue": "Die Queue wird nun wiederholt",
+			"song": "Der aktuelle Song wird nun wiederholt"
+		},
 		"missingpermissions": "Ich habe nicht genug Rechte in deinem Sprachkanal",
 		"missingvideo": "Du musst einen Videonamen angeben!",
 		"missingvoice": "Du musst in einem Sprachkanal sein!",
@@ -147,6 +152,7 @@
 	"suggest": {
 		"missingreply": "Du musst einen Vorschlag und eine Antwort angeben",
 		"nochannel": "Es wurde kein Vorschläge-Kanal festgelegt!",
+		"title": "Vorschlag",
 		"unknownmessage": "Diese Nachricht gibt es nicht"
 	},
 	"supportserver": "Support-Server",
@@ -158,6 +164,7 @@
 		"alreadyclosed": "Dieses Ticket ist schon geschlossen",
 		"closed": "Ticket wurde geschlossen",
 		"created": "✅ Dein Ticket wurde in {CHANNEL} erstellt",
+		"notclosed": "Dieser Kanal ist kein geschlossenes Ticket",
 		"noticket": "Dieser Kanal ist kein Ticket"
 	},
 	"users": "Nutzer"
