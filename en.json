@@ -96,6 +96,11 @@
 	},
 	"music": {
 		"by": "by",
+		"loop": {
+			"disabled": "The loop has been disabled",
+			"queue": "Loop for the queue has been enabled",
+			"song": "Loop for the current song has been enabled"
+		},
 		"missingpermissions": "I don't have enough permissions in your voice channel",
 		"missingvideo": "I need a video name!",
 		"missingvoice": "You need to be in a voice channel to play music!",
@@ -145,7 +150,9 @@
 		"missing": "You must enter a valid slowmode time"
 	},
 	"suggest": {
+		"missingreply": "You musst add a suggestion and a reply",
 		"nochannel": "There is no suggestion channel set!",
+		"title": "Suggestion",
 		"unknownmessage": "This suggestion doens't exist"
 	},
 	"supportserver": "Support server",
@@ -154,7 +161,10 @@
 		"description": "Messages | Members"
 	},
 	"ticket": {
+		"alreadyclosed": "This ticket is already closed",
+		"closed": "Ticket has been closed",
 		"created": "✅ The ticket has been created in {CHANNEL}",
+		"notclosed": "This channel isn't a closed ticket",
 		"noticket": "This channel isn't a ticket"
 	},
 	"users": "Users"
