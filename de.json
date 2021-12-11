@@ -102,8 +102,8 @@
 			"song": "Der aktuelle Song wird nun wiederholt"
 		},
 		"missingpermissions": "Ich habe nicht genug Rechte in deinem Sprachkanal",
-		"missingvideo": "Du musst einen Videonamen angeben!",
-		"missingvoice": "Du musst in einem Sprachkanal sein!",
+		"missingvideo": "Du musst einen Videonamen angeben",
+		"missingvoice": "Du musst in einem Sprachkanal sein",
 		"nothingplaying": "Es wird kein Video gespielt!",
 		"nowplaying": "Jetzt spielt",
 		"pause": "Das Video wurde pausiert",

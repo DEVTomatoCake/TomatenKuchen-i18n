@@ -102,8 +102,8 @@
 			"song": "Loop for the current song has been enabled"
 		},
 		"missingpermissions": "I don't have enough permissions in your voice channel",
-		"missingvideo": "I need a video name!",
-		"missingvoice": "You need to be in a voice channel to play music!",
+		"missingvideo": "You must add a video name",
+		"missingvoice": "You need to be in a voice channel",
 		"nothingplaying": "There is nothing playing!",
 		"nowplaying": "Now playing",
 		"pause": "The video has been paused",
