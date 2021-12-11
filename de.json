@@ -155,6 +155,8 @@
 		"description": "Nachrichten | Mitglieder"
 	},
 	"ticket": {
+		"alreadyclosed": "Dieses Ticket ist schon geschlossen",
+		"closed": "Ticket wurde geschlossen",
 		"created": "✅ Dein Ticket wurde in {CHANNEL} erstellt",
 		"noticket": "Dieser Kanal ist kein Ticket"
 	},
