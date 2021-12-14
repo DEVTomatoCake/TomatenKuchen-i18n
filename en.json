@@ -112,6 +112,7 @@
 		"skip": "The video has been skipped",
 		"unknownvideo": "I don't find this video"
 	},
+	"noinvites": "You may not send invites here",
 	"ping": "Pinging…",
 	"poll": {
 		"ended": "Poll ended",
@@ -145,6 +146,9 @@
 		"unknown": "Unknown role"
 	},
 	"say_error": "The message couldn't be sent",
+	"server": {
+		"created": "Created"
+	},
 	"slowmode": {
 		"error": "An error occured while setting the slowmode",
 		"missing": "You must enter a valid slowmode time"
@@ -167,5 +171,8 @@
 		"notclosed": "This channel isn't a closed ticket",
 		"noticket": "This channel isn't a ticket"
 	},
-	"users": "Users"
+	"users": "Users",
+	"warn": {
+		"missingreason": "You must add a reason"
+	}
 }

@@ -147,7 +147,10 @@
 	},
 	"say_error": "Die Nachricht konnte nicht gesendet werden",
 	"server": {
-		"created": "Erstellt"
+		"categories": "Kategorien",
+		"created": "Erstellt",
+		"description": "Beschreibung",
+		"verilvl": "Verifizierungslevel"
 	},
 	"slowmode": {
 		"error": "Der Slowmode konnte nicht gesetzt werden",
