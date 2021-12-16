@@ -160,7 +160,7 @@
 		"missingreply": "Du musst einen Vorschlag und eine Antwort angeben",
 		"nochannel": "Es wurde kein Vorschläge-Kanal festgelegt!",
 		"title": "Vorschlag",
-		"unknownmessage": "Diese Nachricht gibt es nicht"
+		"unknownmessage": "Diesen Vorschlag gibt es nicht"
 	},
 	"supportserver": "Support-Server",
 	"threads": {
