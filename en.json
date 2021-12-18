@@ -18,7 +18,7 @@
 		"cooldown": "You didn't get any tomatoes, because you still have a cooldown for this command: **{TIME}**",
 		"lose": "You lost .-.",
 		"start": "**{USER}**, solve the following captcha:",
-		"typo": "You have at least one typing errors: {WRONG} | {RIGHT}",
+		"typo": "You have one (or more) typos: {WRONG} | {RIGHT}",
 		"win": "Well done! Took **{TIME}** seconds"
 	},
 	"channels": "Channels",
