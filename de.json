@@ -13,7 +13,6 @@
 	"ban": "**{mod}** hat **{user}** gebannt: {reason}",
 	"calculator": "|                   Taschenrechner                   |",
 	"captcha": {
-		"cooldown": "Du hast keine Tomaten erhalten, da du noch einen Cooldown für diesen Befehl hast: **{TIME}**",
 		"lose": "Du hast verloren .-.",
 		"start": "**{USER}**, löse folgendes Captcha:",
 		"typo": "Du hast mindestens einen Tippfehler: {WRONG} | {RIGHT}",
