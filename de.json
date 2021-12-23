@@ -11,7 +11,6 @@
 		"set": "Dein AFK-Status wurde gesetzt"
 	},
 	"ban": "**{mod}** hat **{user}** gebannt: {reason}",
-	"botKeineRechte": "Ich habe nicht genug Rechte für diesen Befehl, ",
 	"calculator": "|                   Taschenrechner                   |",
 	"captcha": {
 		"award": "Du hast **200** Tomaten erhalten!",
@@ -90,6 +89,10 @@
 	"mention": "Erwähnung",
 	"mentions": "Erwähnungen",
 	"minutes": "Minuten",
+	"missingperms": {
+		"bot": "Ich habe nicht genug Rechte für diesen Befehl",
+		"user": "Keine Rechte"
+	},
 	"missingtext": "Du musst einen Text angeben",
 	"modlogs": {
 		"none": "Der Nutzer hat noch keine Modlogs"
