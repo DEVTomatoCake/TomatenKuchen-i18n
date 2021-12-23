@@ -18,7 +18,7 @@
 		"cooldown": "Du hast keine Tomaten erhalten, da du noch einen Cooldown für diesen Befehl hast: **{TIME}**",
 		"lose": "Du hast verloren .-.",
 		"start": "**{USER}**, löse folgendes Captcha:",
-		"typo": "Du hast einen (oder mehrere) Tippfehler: {WRONG} | {RIGHT}",
+		"typo": "Du hast mindestens einen Tippfehler: {WRONG} | {RIGHT}",
 		"win": "Gut gemacht! Zeit benötigt: **{TIME}** Sekunden"
 	},
 	"channels": "Kanäle",
@@ -51,7 +51,7 @@
 		},
 		"help": "Hilfe",
 		"image": {
-			"description": "Zeigt Befehle, um Bilder zu erstellen",
+			"description": "Zeigt alle Befehle zum erstellen von Bilder",
 			"title": "Bild"
 		},
 		"moderation": {
@@ -97,7 +97,7 @@
 	"music": {
 		"by": "von",
 		"loop": {
-			"disabled": "Die Loop wurde deaktiviert",
+			"disabled": "Die Queue wird jetzt nicht mehr wiederholt",
 			"queue": "Die Queue wird nun wiederholt",
 			"song": "Der aktuelle Song wird nun wiederholt"
 		},
@@ -158,7 +158,7 @@
 	},
 	"suggest": {
 		"missingreply": "Du musst einen Vorschlag und eine Antwort angeben",
-		"nochannel": "Es wurde kein Vorschläge-Kanal festgelegt!",
+		"nochannel": "Es wurde kein Kanal für Vorschläge festgelegt!",
 		"title": "Vorschlag",
 		"unknownmessage": "Diesen Vorschlag gibt es nicht"
 	},
