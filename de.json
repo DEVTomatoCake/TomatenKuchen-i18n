@@ -51,7 +51,7 @@
 		},
 		"help": "Hilfe",
 		"image": {
-			"description": "Zeigt alle Befehle zum erstellen von Bilder",
+			"description": "Zeigt Befehle zum Erstellen von Bildern",
 			"title": "Bild"
 		},
 		"moderation": {

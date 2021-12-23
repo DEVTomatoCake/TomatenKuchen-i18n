@@ -147,7 +147,10 @@
 	},
 	"say_error": "The message couldn't be sent",
 	"server": {
-		"created": "Created"
+		"categories": "Categories",
+		"created": "Created",
+		"description": "Description",
+		"verilvl": "Verification level"
 	},
 	"slowmode": {
 		"error": "An error occured while setting the slowmode",
