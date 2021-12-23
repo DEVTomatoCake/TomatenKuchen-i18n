@@ -51,7 +51,7 @@
 		},
 		"help": "Help",
 		"image": {
-			"description": "Shows commands to create images",
+			"description": "Shows commands for creating images",
 			"title": "Image"
 		},
 		"moderation": {

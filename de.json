@@ -19,7 +19,7 @@
 		"lose": "Du hast verloren .-.",
 		"start": "**{USER}**, löse folgendes Captcha:",
 		"typo": "Du hast mindestens einen Tippfehler: {WRONG} | {RIGHT}",
-		"win": "Gut gemacht! Zeit benötigt: **{TIME}** Sekunden"
+		"win": "Gut gemacht! Du hast **{TIME}** Sekunden benötigt."
 	},
 	"channels": "Kanäle",
 	"commands": "Befehle",
