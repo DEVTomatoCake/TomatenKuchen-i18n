@@ -80,7 +80,6 @@
 		"missingurl": "Du musst eine Website angeben",
 		"notavailable": "Website ist nicht erreichbar"
 	},
-	"keineRechte": "Keine Rechte, ",
 	"mclint": {
 		"errorfound": "Es wurde ein Fehler im Befehl gefunden:",
 		"missingcommand": "Du musst einen Befehl angeben",

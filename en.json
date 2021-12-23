@@ -80,7 +80,6 @@
 		"missingurl": "You need to specify a website",
 		"notavailable": "Website is not available"
 	},
-	"keineRechte": "You don't have enough permissions, ",
 	"mclint": {
 		"errorfound": "There is at least one error in the command:",
 		"missingcommand": "You must enter the command",
