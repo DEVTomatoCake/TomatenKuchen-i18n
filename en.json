@@ -88,6 +88,10 @@
 	"mention": "Mention",
 	"mentions": "Mentions",
 	"minutes": "minutes",
+	"missingperms": {
+		"bot": "I don't have enough permissions for this command",
+		"user": "You don't have enough permissions"
+	},
 	"missingtext": "You must enter a text",
 	"modlogs": {
 		"none": "The user doens't has any modlogs"
