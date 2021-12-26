@@ -179,6 +179,7 @@
 	"work": {
 		"lose": {
 			"time": "Du warst zu langsam!"
-		}
+		},
+		"win": "Gut gemacht! Du hast **{TIME}** Sekunden benötigt."
 	}
 }

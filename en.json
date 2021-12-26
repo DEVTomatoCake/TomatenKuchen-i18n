@@ -175,5 +175,10 @@
 	"users": "Users",
 	"warn": {
 		"missingreason": "You must add a reason"
+	},
+	"work": {
+		"lose": {
+			"time": "You were too slow!"
+		}
 	}
 }
