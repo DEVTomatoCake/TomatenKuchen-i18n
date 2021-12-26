@@ -14,8 +14,7 @@
 	"calculator": "|                   Taschenrechner                   |",
 	"captcha": {
 		"start": "**{USER}**, löse folgendes Captcha:",
-		"typo": "Du hast mindestens einen Tippfehler: {WRONG} | {RIGHT}",
-		"win": "Gut gemacht! Du hast **{TIME}** Sekunden benötigt."
+		"typo": "Du hast mindestens einen Tippfehler: {WRONG} | {RIGHT}"
 	},
 	"channels": "Kanäle",
 	"commands": "Befehle",
@@ -176,5 +175,10 @@
 	"users": "Nutzer",
 	"warn": {
 		"missingreason": "Du musst einen Grund angeben"
+	},
+	"work": {
+		"lose": {
+			"time": "Du warst zu langsam!"
+		}
 	}
 }

@@ -14,8 +14,7 @@
 	"calculator": "|                         Calculator                        |",
 	"captcha": {
 		"start": "**{USER}**, solve the following captcha:",
-		"typo": "You have one (or more) typos: {WRONG} | {RIGHT}",
-		"win": "Well done! Took **{TIME}** seconds."
+		"typo": "You have one (or more) typos: {WRONG} | {RIGHT}"
 	},
 	"channels": "Channels",
 	"commands": "Commands",
