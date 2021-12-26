@@ -13,7 +13,6 @@
 	"ban": "**{mod}** banned **{user}**: {reason}",
 	"calculator": "|                         Calculator                        |",
 	"captcha": {
-		"lose": "You were too slow!",
 		"start": "**{USER}**, solve the following captcha:",
 		"typo": "You have one (or more) typos: {WRONG} | {RIGHT}",
 		"win": "Well done! Took **{TIME}** seconds."

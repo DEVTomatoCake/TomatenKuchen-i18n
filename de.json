@@ -13,7 +13,6 @@
 	"ban": "**{mod}** hat **{user}** gebannt: {reason}",
 	"calculator": "|                   Taschenrechner                   |",
 	"captcha": {
-		"lose": "Du warst zu langsam!",
 		"start": "**{USER}**, löse folgendes Captcha:",
 		"typo": "Du hast mindestens einen Tippfehler: {WRONG} | {RIGHT}",
 		"win": "Gut gemacht! Du hast **{TIME}** Sekunden benötigt."
