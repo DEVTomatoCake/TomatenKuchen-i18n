@@ -16,6 +16,11 @@
 		"start": "**{USER}**, solve the following captcha:",
 		"typo": "You have one (or more) typos: {WRONG} | {RIGHT}"
 	},
+	"channelinfo": {
+		"created": "Channel created",
+		"topic": "Topic",
+		"userlimit": "Userlimit"
+	},
 	"channels": "Channels",
 	"commands": "Commands",
 	"customcommand_list": "List of customcommands",
@@ -132,6 +137,7 @@
 	},
 	"remove": "{USER} has been removed from the ticket",
 	"role": {
+		"botcount": "**{COUNT}** bots with the role",
 		"massadd": {
 			"error": "An error occured while adding the role",
 			"start": "I'll add the role **{ROLE}** to **{MEMBERCOUNT}** members"
@@ -141,7 +147,9 @@
 			"start": "I'll remove the role **{ROLE}** from **{MEMBERCOUNT}** members"
 		},
 		"missing": "You must enter an action and a role",
-		"unknown": "Unknown role"
+		"toomany": "Too many to display",
+		"unknown": "Unknown role",
+		"usercount": "**{COUNT}** users with the role"
 	},
 	"say_error": "The message couldn't be sent",
 	"server": {
