@@ -1,5 +1,5 @@
 {
-	"add": "{USER} wurde dem Ticket hinzugefügt",
+	"add": "{USER} wurde zum Ticket hinzugefügt",
 	"addemoji": {
 		"missing": "Du musst ein Emoji angeben",
 		"success": "Das Emoji {EMOJI} wurde mit dem Namen `{NAME}` hinzugefügt!"
@@ -15,6 +15,11 @@
 	"captcha": {
 		"start": "**{USER}**, löse folgendes Captcha:",
 		"typo": "Du hast mindestens einen Tippfehler: {WRONG} | {RIGHT}"
+	},
+	"channelinfo": {
+		"created": "Kanal erstellt",
+		"topic": "Beschreibung",
+		"userlimit": "Benutzerlimit"
 	},
 	"channels": "Kanäle",
 	"commands": "Befehle",
@@ -132,6 +137,7 @@
 	},
 	"remove": "{USER} wurde vom Ticket entfernt",
 	"role": {
+		"botcount": "**{COUNT}** Bots mit der Rolle",
 		"massadd": {
 			"error": "Es ist ein Fehler beim Hinzufügen der Rolle aufgetreten",
 			"start": "Ich füge **{MEMBERCOUNT}** Mitgliedern die Rolle **{ROLE}** hinzu"
@@ -141,7 +147,9 @@
 			"start": "Ich entferne von **{MEMBERCOUNT}** Mitgliedern die Rolle **{ROLE}**"
 		},
 		"missing": "Du musst eine Aktion und eine Rolle angeben",
-		"unknown": "Unbekannte Rolle"
+		"toomany": "Zu viele, um alle aufzulisten",
+		"unknown": "Unbekannte Rolle",
+		"usercount": "**{COUNT}** Nutzer mit der Rolle"
 	},
 	"say_error": "Die Nachricht konnte nicht gesendet werden",
 	"server": {
