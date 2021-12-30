@@ -187,6 +187,7 @@
 	"work": {
 		"lose": {
 			"time": "You were too slow!"
-		}
+		},
+		"win": "Well done! Took **{TIME}** seconds."
 	}
 }
