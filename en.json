@@ -24,6 +24,10 @@
 	"channels": "Channels",
 	"commands": "Commands",
 	"customcommand_list": "List of customcommands",
+	"eval": {
+		"result": "Result",
+		"time": "Time"
+	},
 	"eval_error": "Error",
 	"guildowner": "Server owner",
 	"hack": {
