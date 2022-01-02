@@ -27,7 +27,7 @@
 	"customcommand_list": "Liste aller Customcommands",
 	"emoji": {
 		"none": "Keine",
-		"of": "Emojis von"
+		"of": "Emojis von {GUILD}"
 	},
 	"eval": {
 		"result": "Ergebnis",

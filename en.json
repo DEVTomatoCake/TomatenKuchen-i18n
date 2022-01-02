@@ -23,7 +23,12 @@
 	},
 	"channels": "Channels",
 	"commands": "Commands",
+	"cooldown": "You still have a cooldown!",
 	"customcommand_list": "List of customcommands",
+	"emoji": {
+		"none": "None",
+		"of": "Emojis of {GUILD}"
+	},
 	"eval": {
 		"result": "Result",
 		"time": "Time"
