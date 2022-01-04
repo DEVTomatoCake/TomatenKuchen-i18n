@@ -90,6 +90,9 @@
 		"missingurl": "You need to specify a website",
 		"notavailable": "Website is not available"
 	},
+	"level": {
+		"disabled": "Levels are disabled here"
+	},
 	"mclint": {
 		"errorfound": "There is at least one error in the command:",
 		"missingcommand": "You must enter the command",
@@ -189,8 +192,13 @@
 		"notclosed": "This channel isn't a closed ticket",
 		"noticket": "This channel isn't a ticket"
 	},
+	"unban": {
+		"fail": "The user couldn't be unbanned",
+		"success": "The user has been unbanned"
+	},
 	"users": "Users",
 	"warn": {
+		"cantwarn": "You may not warn **{USER}**",
 		"missingreason": "You must add a reason"
 	},
 	"work": {
