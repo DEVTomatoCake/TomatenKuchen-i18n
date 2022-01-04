@@ -90,6 +90,9 @@
 		"missingurl": "Du musst eine Website angeben",
 		"notavailable": "Website ist nicht erreichbar"
 	},
+	"level": {
+		"disabled": "Level sind hier deaktiviert"
+	},
 	"mclint": {
 		"errorfound": "Es wurde ein Fehler im Befehl gefunden:",
 		"missingcommand": "Du musst einen Befehl angeben",
@@ -188,6 +191,10 @@
 		"created": "✅ Dein Ticket wurde in {CHANNEL} erstellt",
 		"notclosed": "Dieser Kanal ist kein geschlossenes Ticket",
 		"noticket": "Dieser Kanal ist kein Ticket"
+	},
+	"unban": {
+		"fail": "Der Nutzer kann nicht entbannt werden",
+		"success": "Der Nutzer wurde entbannt"
 	},
 	"users": "Nutzer",
 	"warn": {
