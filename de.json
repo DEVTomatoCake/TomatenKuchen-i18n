@@ -198,6 +198,7 @@
 	},
 	"users": "Nutzer",
 	"warn": {
+		"cantwarn": "Du darfst **{USER}** nicht verwarnen",
 		"missingreason": "Du musst einen Grund angeben"
 	},
 	"work": {
