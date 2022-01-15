@@ -75,9 +75,6 @@
 		"ticket": {
 			"description": "Shows ticket commands",
 			"title": "Ticket"
-		},
-		"voice": {
-			"description": "Shows commands for private voice channels"
 		}
 	},
 	"help_unknowncommandcategory": "Unknown command/category!",
