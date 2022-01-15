@@ -77,8 +77,7 @@
 			"title": "Ticket"
 		},
 		"voice": {
-			"description": "Zeigt Befehle für private Sprachkanäle",
-			"title": "Voice"
+			"description": "Zeigt Befehle für private Sprachkanäle"
 		}
 	},
 	"help_unknowncommandcategory": "Unbekannter Befehl/Kategorie!",

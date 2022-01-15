@@ -77,8 +77,7 @@
 			"title": "Ticket"
 		},
 		"voice": {
-			"description": "Shows commands for private voice channels",
-			"title": "Voice"
+			"description": "Shows commands for private voice channels"
 		}
 	},
 	"help_unknowncommandcategory": "Unknown command/category!",
