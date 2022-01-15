@@ -26,7 +26,9 @@
 	"cooldown": "You still have a cooldown!",
 	"customcommand_list": "List of customcommands",
 	"emoji": {
+		"animated": "Animated",
 		"none": "None",
+		"notanimated": "Not animated",
 		"of": "Emojis of {GUILD}"
 	},
 	"eval": {
@@ -199,7 +201,8 @@
 	"users": "Users",
 	"warn": {
 		"cantwarn": "You may not warn **{USER}**",
-		"missingreason": "You must add a reason"
+		"missingreason": "You must add a reason",
+		"warned": "{USER} has been warned"
 	},
 	"work": {
 		"lose": {
