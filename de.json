@@ -144,7 +144,7 @@
 	},
 	"remind": {
 		"endsin": "Läuft ab",
-		"missingtime": "Du musst eine Zeit angeben",
+		"missingtime": "Du musst eine gültige Zeit angeben",
 		"your": "Deine Erinnerung"
 	},
 	"remove": "{USER} wurde vom Ticket entfernt",
@@ -168,7 +168,11 @@
 		"categories": "Kategorien",
 		"created": "Erstellt",
 		"description": "Beschreibung",
-		"verilvl": "Verifizierungslevel"
+		"members": "Mitglieder",
+		"owner": "Besitzer",
+		"text": "Textkanäle",
+		"verilvl": "Verifizierungslevel",
+		"voice": "Sprachkanäle"
 	},
 	"slowmode": {
 		"error": "Der Slowmode konnte nicht gesetzt werden",
