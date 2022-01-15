@@ -168,7 +168,11 @@
 		"categories": "Categories",
 		"created": "Created",
 		"description": "Description",
-		"verilvl": "Verification level"
+		"members": "Members",
+		"owner": "Owner",
+		"text": "Text channels",
+		"verilvl": "Verification level",
+		"voice": "Voice channels"
 	},
 	"slowmode": {
 		"error": "An error occured while setting the slowmode",
