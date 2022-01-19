@@ -13,8 +13,7 @@
 	"ban": "**{mod}** hat **{user}** gebannt: {reason}",
 	"calculator": "|                   Taschenrechner                   |",
 	"captcha": {
-		"start": "**{USER}**, löse folgendes Captcha:",
-		"typo": "Du hast mindestens einen Tippfehler: {WRONG} | {RIGHT}"
+		"start": "**{USER}**, löse folgendes Captcha:"
 	},
 	"channelinfo": {
 		"created": "Kanal erstellt",

@@ -13,8 +13,7 @@
 	"ban": "**{mod}** banned **{user}**: {reason}",
 	"calculator": "|                         Calculator                        |",
 	"captcha": {
-		"start": "**{USER}**, solve the following captcha:",
-		"typo": "You have one (or more) typos: {WRONG} | {RIGHT}"
+		"start": "**{USER}**, solve the following captcha:"
 	},
 	"channelinfo": {
 		"created": "Channel created",
