@@ -87,6 +87,9 @@
 		"missingurl": "Du musst eine Website angeben",
 		"notavailable": "Website ist nicht erreichbar"
 	},
+	"kick": {
+		"fail": "Der Nutzer kann nicht gekickt werden"
+	},
 	"level": {
 		"disabled": "Level sind hier deaktiviert"
 	},
@@ -129,6 +132,7 @@
 	"poll": {
 		"ended": "Umfrage ist beendet",
 		"ends": "Umfrage endet",
+		"missingoptions": "Du musst Optionen mit ` | ` getrennt angeben",
 		"noresult": "Keiner hat abgestimmt!",
 		"result": "Ergebnis:"
 	},
