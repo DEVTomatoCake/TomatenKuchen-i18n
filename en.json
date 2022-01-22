@@ -24,6 +24,7 @@
 	"commands": "Commands",
 	"cooldown": "You still have a cooldown!",
 	"customcommand_list": "List of customcommands",
+	"djs": "I couldn't find this in the docs",
 	"emoji": {
 		"animated": "Animated",
 		"none": "None",
@@ -87,6 +88,9 @@
 		"missingurl": "You need to specify a website",
 		"notavailable": "Website is not available"
 	},
+	"kick": {
+		"fail": "I can't kick this user"
+	},
 	"level": {
 		"disabled": "Levels are disabled here"
 	},
@@ -129,6 +133,7 @@
 	"poll": {
 		"ended": "Poll ended",
 		"ends": "Poll ends",
+		"missingoptions": "You must add options seperated by ` | `",
 		"noresult": "No one voted!",
 		"result": "Result:"
 	},
