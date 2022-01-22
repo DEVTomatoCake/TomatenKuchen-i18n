@@ -24,6 +24,7 @@
 	"commands": "Befehle",
 	"cooldown": "Du hast noch einen Cooldown!",
 	"customcommand_list": "Liste aller Customcommands",
+	"djs": "Es wurden keine Einträge in den Docs gefunden",
 	"emoji": {
 		"animated": "Animiert",
 		"none": "Keine",
