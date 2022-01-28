@@ -94,6 +94,13 @@
 	"level": {
 		"disabled": "Levels are disabled here"
 	},
+	"mcbug": {
+		"fixedinversion": "Fixed in version",
+		"fixversion": "None",
+		"linked": "Linked",
+		"missing": "You must add a minecraft bugreport id",
+		"unknown": "This minecraft bugreport doesn't exist"
+	},
 	"mclint": {
 		"errorfound": "There is at least one error in the command:",
 		"missingcommand": "You must enter the command",
@@ -183,6 +190,7 @@
 	},
 	"suggest": {
 		"missingreply": "You musst add a suggestion and a reply",
+		"missingsuggestion": "You must add a suggestion",
 		"nochannel": "There is no suggestion channel set!",
 		"title": "Suggestion",
 		"unknownmessage": "This suggestion doens't exist"
