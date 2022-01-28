@@ -94,6 +94,13 @@
 	"level": {
 		"disabled": "Level sind hier deaktiviert"
 	},
+	"mcbug": {
+		"fixedinversion": "Behoben in Version",
+		"fixversion": "Keine",
+		"linked": "Verlinkt",
+		"missing": "Du musst eine Minecraft-Bugreport-ID angeben",
+		"unknown": "Diesen Minecraft-Bugreport gibt es nicht"
+	},
 	"mclint": {
 		"errorfound": "Es wurde ein Fehler im Befehl gefunden:",
 		"missingcommand": "Du musst einen Befehl angeben",

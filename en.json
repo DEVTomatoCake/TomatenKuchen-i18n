@@ -129,6 +129,7 @@
 		"unknownvideo": "I don't find this video"
 	},
 	"noinvites": "You may not send invites here",
+	"noreason": "No reason",
 	"ping": "Pinging…",
 	"poll": {
 		"ended": "Poll ended",
