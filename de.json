@@ -190,6 +190,7 @@
 	},
 	"suggest": {
 		"missingreply": "Du musst einen Vorschlag und eine Antwort angeben",
+		"missingsuggestion": "Du musst einen Vorschlag angeben",
 		"nochannel": "Es wurde kein Kanal für Vorschläge festgelegt!",
 		"title": "Vorschlag",
 		"unknownmessage": "Diesen Vorschlag gibt es nicht"
