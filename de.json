@@ -36,6 +36,10 @@
 		"time": "Zeit"
 	},
 	"eval_error": "Fehler",
+	"github": {
+		"unknown": "Der Nutzer **{USER}** existiert nicht",
+		"username": "Nutzername"
+	},
 	"guildowner": "Serverbesitzer",
 	"hack": {
 		"hacking": "Hacken… {PERCENT}%",
