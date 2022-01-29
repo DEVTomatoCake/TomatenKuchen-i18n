@@ -65,9 +65,6 @@
 			"title": "Allgemein"
 		},
 		"help": "Hilfe",
-		"image": {
-			"description": "Zeigt Befehle zum Erstellen von Bildern"
-		},
 		"moderation": {
 			"description": "Zeigt Moderations-Befehle",
 			"title": "Moderation"
