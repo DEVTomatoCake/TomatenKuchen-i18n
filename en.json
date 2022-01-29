@@ -65,9 +65,6 @@
 			"title": "General"
 		},
 		"help": "Help",
-		"image": {
-			"description": "Shows commands for creating images"
-		},
 		"moderation": {
 			"description": "Shows moderation commands",
 			"title": "Moderation"
