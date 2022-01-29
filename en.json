@@ -36,6 +36,10 @@
 		"time": "Time"
 	},
 	"eval_error": "Error",
+	"github": {
+		"unknown": "The user **{USER}** doesn't exist",
+		"username": "Username"
+	},
 	"guildowner": "Server owner",
 	"hack": {
 		"hacking": "Hacking… {PERCENT}%",
@@ -193,7 +197,7 @@
 		"missingsuggestion": "You must add a suggestion",
 		"nochannel": "There is no suggestion channel set!",
 		"title": "Suggestion",
-		"unknownmessage": "This suggestion doens't exist"
+		"unknownmessage": "This suggestion doesn't exist"
 	},
 	"supportserver": "Support server",
 	"threads": {
