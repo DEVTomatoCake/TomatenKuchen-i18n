@@ -74,6 +74,10 @@
 			"title": "Music"
 		},
 		"selectcategory": "Select category",
+		"suggest": {
+			"description": "Shows suggestion commands",
+			"title": "Suggestions"
+		},
 		"ticket": {
 			"description": "Shows ticket commands",
 			"title": "Ticket"
