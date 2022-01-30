@@ -74,6 +74,10 @@
 			"title": "Musik"
 		},
 		"selectcategory": "Kategorie auswählen",
+		"suggest": {
+			"description": "Zeigt Befehle für Vorschläge an",
+			"title": "Vorschläge"
+		},
 		"ticket": {
 			"description": "Zeigt Ticket-Befehle",
 			"title": "Ticket"
@@ -128,7 +132,7 @@
 		"missingvideo": "Du musst einen Videonamen angeben",
 		"missingvoice": "Du musst in einem Sprachkanal sein",
 		"nothingplaying": "Es wird kein Video gespielt!",
-		"nowplaying": "Jetzt spielt",
+		"nowplaying": "Aktuell spielt",
 		"pause": "Das Video wurde pausiert",
 		"queueempty": "Die Queue ist leer, ich verlasse den Sprachkanal!",
 		"resume": "Das Video wurde geresumed",
