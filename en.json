@@ -112,6 +112,10 @@
 	},
 	"mention": "Mention",
 	"mentions": "Mentions",
+	"minecraft": {
+		"missing": "You must add a player name",
+		"unknown": "Unknown player"
+	},
 	"minutes": "minutes",
 	"missingperms": {
 		"bot": "I don't have enough permissions for this command",
