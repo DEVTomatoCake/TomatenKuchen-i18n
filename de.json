@@ -112,6 +112,10 @@
 	},
 	"mention": "Erwähnung",
 	"mentions": "Erwähnungen",
+	"minecraft": {
+		"missing": "Du musst einen Spielernamen angeben",
+		"unknown": "Unbekannter Spieler"
+	},
 	"minutes": "Minuten",
 	"missingperms": {
 		"bot": "Ich habe nicht genug Rechte für diesen Befehl",
