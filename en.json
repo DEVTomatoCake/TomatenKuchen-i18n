@@ -145,6 +145,10 @@
 	},
 	"noinvites": "You may not send invites here",
 	"noreason": "No reason",
+	"permissions": {
+		"bitfield": "Permissions for Bitfield {BITFIELD}",
+		"user": "Permissions of {USER}"
+	},
 	"ping": "Pinging…",
 	"poll": {
 		"ended": "Poll ended",
@@ -154,6 +158,11 @@
 		"result": "Result:"
 	},
 	"prefix": "My prefix is",
+	"purge": {
+		"fail": "The messages cannot be deleted",
+		"invalidamount": "You must add a number between **1** and **99**",
+		"nonedeleted": "No messages have been deleted"
+	},
 	"reactionrole": {
 		"unknownchannel": "Unknown channel!",
 		"unknownemoji": "Unknown emoji!",
