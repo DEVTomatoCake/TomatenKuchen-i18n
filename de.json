@@ -145,6 +145,10 @@
 	},
 	"noinvites": "Du darfst hier keine Einladungen senden",
 	"noreason": "Kein Grund angegeben",
+	"permissions": {
+		"bitfield": "Berechtigungen für Bitfield {BITFIELD}",
+		"user": "Berechtigungen von {USER}"
+	},
 	"ping": "Pinge…",
 	"poll": {
 		"ended": "Umfrage ist beendet",
@@ -154,6 +158,11 @@
 		"result": "Ergebnis:"
 	},
 	"prefix": "Mein Prefix ist",
+	"purge": {
+		"fail": "Die Nachrichten können nicht gelöscht werden",
+		"invalidamount": "Du musst eine Zahl zwischen **1** und **99** angeben",
+		"nonedeleted": "Es wurden keine Nachrichten gelöscht"
+	},
 	"reactionrole": {
 		"unknownchannel": "Unbekannter Kanal!",
 		"unknownemoji": "Unbekanntes Emoji!",
