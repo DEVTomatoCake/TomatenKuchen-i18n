@@ -21,9 +21,6 @@
 		"userlimit": "Benutzerlimit"
 	},
 	"channels": "Kanäle",
-	"close": {
-		"transcript": "Transcript wurde gespeichert"
-	},
 	"commands": "Befehle",
 	"cooldown": "Du hast noch einen Cooldown!",
 	"customcommand_list": "Liste aller Customcommands",
