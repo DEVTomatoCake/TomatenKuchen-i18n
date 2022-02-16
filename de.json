@@ -37,6 +37,7 @@
 	},
 	"eval_error": "Fehler",
 	"github": {
+		"title": "**{USER}** on GitHub",
 		"unknown": "Der Nutzer **{USER}** existiert nicht",
 		"username": "Nutzername"
 	},
