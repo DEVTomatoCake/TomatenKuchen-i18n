@@ -37,6 +37,7 @@
 	},
 	"eval_error": "Error",
 	"github": {
+		"title": "**{USER}** on GitHub",
 		"unknown": "The user **{USER}** doesn't exist",
 		"username": "Username"
 	},
@@ -85,6 +86,7 @@
 	},
 	"help_unknowncommandcategory": "Unknown command/category!",
 	"hours": "hours",
+	"imageloadfailed": "The image couldn't be loaded",
 	"invaliduser": "You must enter a valid user",
 	"invite": "Bot invite",
 	"isitdown": {
