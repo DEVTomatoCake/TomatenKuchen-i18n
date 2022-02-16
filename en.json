@@ -220,7 +220,7 @@
 	"ticket": {
 		"alreadyclosed": "This ticket is already closed",
 		"closed": "Ticket has been closed",
-		"createbutton": "create ticket",
+		"createbutton": "Create Ticket",
 		"created": "✅ The ticket has been created in {CHANNEL}",
 		"notclosed": "This channel isn't a closed ticket",
 		"noticket": "This channel isn't a ticket"
