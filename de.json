@@ -28,6 +28,9 @@
 	"commands": "Befehle",
 	"cooldown": "Du hast noch einen Cooldown!",
 	"customcommand_list": "Liste aller Customcommands",
+	"dehoist": {
+		"none": "Es wurden keine Nutzer zum Dehoisten gefunden"
+	},
 	"djs": "Es wurden keine Einträge in den Docs gefunden",
 	"emoji": {
 		"animated": "Animiert",
