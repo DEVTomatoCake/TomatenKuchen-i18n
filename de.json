@@ -116,7 +116,6 @@
 	},
 	"help_unknowncommandcategory": "Unbekannter Befehl/Kategorie!",
 	"hours": "Stunden",
-	"imageloadfailed": "Das Bild kann nicht geladen werden",
 	"invaliduser": "Du musst einen Nutzer angeben",
 	"invite": "Bot einladen",
 	"isitdown": {
@@ -204,7 +203,9 @@
 	"purge": {
 		"fail": "Die Nachrichten können nicht gelöscht werden",
 		"invalidamount": "Du musst eine Zahl zwischen **1** und **99** angeben",
-		"nonedeleted": "Es wurden keine Nachrichten gelöscht"
+		"multi": "Es wurden **{DELETED}** Nachrichten gelöscht:{MESSAGES}",
+		"nonedeleted": "Es wurden keine Nachrichten gelöscht",
+		"single": "Es wurde **eine** Nachricht gelöscht:{MESSAGES}"
 	},
 	"reactionrole": {
 		"unknownchannel": "Unbekannter Kanal!",
