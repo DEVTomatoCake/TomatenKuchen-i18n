@@ -32,6 +32,10 @@
 		"none": "Couldn't find users to dehoist"
 	},
 	"djs": "I couldn't find this in the docs",
+	"economy": {
+		"job": "Job",
+		"wallet": "Wallet"
+	},
 	"emoji": {
 		"animated": "Animated",
 		"none": "None",
