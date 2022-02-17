@@ -35,7 +35,6 @@
 		"result": "Ergebnis",
 		"time": "Zeit"
 	},
-	"eval_error": "Fehler",
 	"github": {
 		"missing": "Du musst einen GitHub-Nutzernamen angeben",
 		"title": "**{USER}** auf GitHub",
