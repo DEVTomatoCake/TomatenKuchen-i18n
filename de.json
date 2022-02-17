@@ -247,7 +247,8 @@
 		"noticket": "Dieser Kanal ist kein Ticket",
 		"transcript": "Transcript wurde gespeichert",
 		"reopenbutton": "Ticket erneut öffnen",
-		"deletebutton": "Ticket löschen"
+		"deletebutton": "Ticket löschen",
+		"notranscript": "Es wurde kein automatisches Transcript erstellt, da zu wenig Nachrichten in dem Ticket gesendet wurden. Solltest du dennoch eins brauchen, nutze ```!transcript```."
 	},
 	"ticketembed": {
 		"button": "Ticket erstellen",
