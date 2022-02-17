@@ -47,7 +47,10 @@
 	"economy": {
 		"invalidamount": "You must add a valid amount",
 		"job": "Job",
-		"wallet": "Cash"
+		"missingamount": "You must add money",
+		"notenough": "You dont have enough money",
+		"wallet": "Cash",
+		"zinsen": "Interest every"
 	},
 	"emoji": {
 		"animated": "Animated",
