@@ -116,7 +116,6 @@
 	},
 	"help_unknowncommandcategory": "Unknown command/category!",
 	"hours": "hours",
-	"imageloadfailed": "The image couldn't be loaded",
 	"invaliduser": "You must enter a valid user",
 	"invite": "Bot invite",
 	"isitdown": {
