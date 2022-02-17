@@ -37,6 +37,7 @@
 	},
 	"eval_error": "Fehler",
 	"github": {
+		"missing": "Du musst einen GitHub-Nutzernamen angeben",
 		"title": "**{USER}** auf GitHub",
 		"unknown": "Der Nutzer **{USER}** existiert nicht",
 		"username": "Nutzername"
