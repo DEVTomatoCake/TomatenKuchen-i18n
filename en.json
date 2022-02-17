@@ -243,9 +243,12 @@
 		"closed": "Ticket has been closed",
 		"created": "✅ The ticket has been created in {CHANNEL}",
 		"createdbutton": "Your ticket has been created!",
+		"deletebutton": "Delete ticket",
 		"notclosed": "This channel isn't a closed ticket",
 		"noticket": "This channel isn't a ticket",
+		"notranscript": "Es wurde kein automatisches Transcript erstellt, da zu wenig Nachrichten in dem Ticket gesendet wurden. Solltest du dennoch eins brauchen, nutze `{PREFIX}transcript`.",
 		"reopenbutton": "Reopen ticket",
+		"ticketclosing": "Ticket will be deleted in **5** seconds",
 		"transcript": "Transcript has been saved"
 	},
 	"ticketembed": {
