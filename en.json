@@ -45,8 +45,9 @@
 	},
 	"djs": "I couldn't find this in the docs",
 	"economy": {
+		"invalidamount": "You must add a valid amount",
 		"job": "Job",
-		"wallet": "Wallet"
+		"wallet": "Cash"
 	},
 	"emoji": {
 		"animated": "Animated",
@@ -60,14 +61,19 @@
 		"time": "Time"
 	},
 	"github": {
+		"following": "Following",
 		"missing": "You must add a GitHub username",
+		"public_gists": "Public gists",
+		"public_repos": "Public repos",
 		"title": "**{USER}** on GitHub",
 		"unknown": "The user **{USER}** doesn't exist",
 		"username": "Username"
 	},
 	"guildowner": "Server owner",
 	"hack": {
+		"footer": "Definitely real™️",
 		"hacking": "Hacking… {PERCENT}%",
+		"nobot": "You may not hack bots",
 		"password": "Password",
 		"result": "Result:"
 	},
