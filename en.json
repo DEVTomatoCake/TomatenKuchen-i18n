@@ -20,8 +20,13 @@
 		"start": "**{USER}**, solve the following captcha:"
 	},
 	"channelinfo": {
+		"bots": "Amount of bots",
 		"created": "Channel created",
+		"members": "Users in the channel",
+		"notopic": "No topic set",
+		"title": "Info for {CHANNEL}",
 		"topic": "Topic",
+		"type": "Type",
 		"userlimit": "Userlimit"
 	},
 	"channels": "Channels",
@@ -30,6 +35,13 @@
 	"customcommand_list": "List of customcommands",
 	"dehoist": {
 		"none": "Couldn't find users to dehoist"
+	},
+	"diff": {
+		"title": "{PERCENT} similar"
+	},
+	"dig": {
+		"missingshovel": "You need a shovel to use this command",
+		"nothingfound": "You've sadly found nothing"
 	},
 	"djs": "I couldn't find this in the docs",
 	"economy": {
@@ -161,6 +173,7 @@
 		"unknownvideo": "I don't find this video"
 	},
 	"noinvites": "You may not send invites here",
+	"none": "None",
 	"noreason": "No reason",
 	"npm": {
 		"author": "Author",
