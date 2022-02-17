@@ -221,8 +221,10 @@
 	},
 	"ticket": {
 		"alreadyclosed": "Dieses Ticket ist schon geschlossen",
+		"alreadyopen": "Du hast bereits ein offenes Ticket",
 		"closed": "Ticket wurde geschlossen",
 		"created": "✅ Dein Ticket wurde in {CHANNEL} erstellt",
+		"createdbutton": "Dein Ticket wurde erstellt!",
 		"notclosed": "Dieser Kanal ist kein geschlossenes Ticket",
 		"noticket": "Dieser Kanal ist kein Ticket",
 		"transcript": "Transcript wurde gespeichert"
