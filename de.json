@@ -246,7 +246,8 @@
 		"notclosed": "Dieser Kanal ist kein geschlossenes Ticket",
 		"noticket": "Dieser Kanal ist kein Ticket",
 		"transcript": "Transcript wurde gespeichert",
-		"reopenbutton": "Ticket erneut öffnen"
+		"reopenbutton": "Ticket erneut öffnen",
+		"deletebutton": "Ticket löschen"
 	},
 	"ticketembed": {
 		"button": "Ticket erstellen",
