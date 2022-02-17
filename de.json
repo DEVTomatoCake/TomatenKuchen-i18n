@@ -97,6 +97,9 @@
 	"kick": {
 		"fail": "Der Nutzer kann nicht gekickt werden"
 	},
+	"leaderboard": {
+		"fail": "**{USER}** hat noch nie eine Nachricht gesendet"
+	},
 	"level": {
 		"disabled": "Level sind hier deaktiviert"
 	},
