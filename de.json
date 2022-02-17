@@ -45,7 +45,7 @@
 	},
 	"djs": "Es wurden keine Einträge in den Docs gefunden",
 	"economy": {
-		"invalidamount": "Ungültige Geld-Angabe",
+		"invalidamount": "Du musst einen gültigen Betrag angeben",
 		"job": "Beruf",
 		"wallet": "Bargeld"
 	},
@@ -71,7 +71,9 @@
 	},
 	"guildowner": "Serverbesitzer",
 	"hack": {
+		"footer": "Definitiv echt™️",
 		"hacking": "Hacken… {PERCENT}%",
+		"nobot": "Du darfst keine Bots hacken",
 		"password": "Passwort",
 		"result": "Ergebnis:"
 	},
