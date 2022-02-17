@@ -116,6 +116,7 @@
 	},
 	"help_unknowncommandcategory": "Unbekannter Befehl/Kategorie!",
 	"hours": "Stunden",
+	"imageloadfail": "Das Bild kann nicht geladen werden",
 	"invaliduser": "Du musst einen Nutzer angeben",
 	"invite": "Bot einladen",
 	"isitdown": {
