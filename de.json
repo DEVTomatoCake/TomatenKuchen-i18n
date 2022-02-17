@@ -20,8 +20,13 @@
 		"start": "**{USER}**, löse folgendes Captcha:"
 	},
 	"channelinfo": {
+		"bots": "Davon Bots",
 		"created": "Kanal erstellt",
+		"members": "Nutzer im Kanal",
+		"notopic": "Kein Thema gesetzt",
+		"title": "Info für {CHANNEL}",
 		"topic": "Beschreibung",
+		"type": "Typ",
 		"userlimit": "Benutzerlimit"
 	},
 	"channels": "Kanäle",
@@ -30,6 +35,13 @@
 	"customcommand_list": "Liste aller Customcommands",
 	"dehoist": {
 		"none": "Es wurden keine Nutzer zum Dehoisten gefunden"
+	},
+	"diff": {
+		"title": "{PERCENT} ähnlich"
+	},
+	"dig": {
+		"missingshovel": "Du brauchst eine Schaufel, um diesen Befehl nutzen zu können",
+		"nothingfound": "Du hast leider nichts gefunden"
 	},
 	"djs": "Es wurden keine Einträge in den Docs gefunden",
 	"economy": {
@@ -161,6 +173,7 @@
 		"unknownvideo": "Das Video wurde nicht gefunden"
 	},
 	"noinvites": "Du darfst hier keine Einladungen senden",
+	"none": "Kein",
 	"noreason": "Kein Grund angegeben",
 	"npm": {
 		"author": "Autor",
