@@ -222,7 +222,6 @@
 	"ticket": {
 		"alreadyclosed": "Dieses Ticket ist schon geschlossen",
 		"closed": "Ticket wurde geschlossen",
-		"createbutton": "Ticket erstellen",
 		"created": "✅ Dein Ticket wurde in {CHANNEL} erstellt",
 		"notclosed": "Dieser Kanal ist kein geschlossenes Ticket",
 		"noticket": "Dieser Kanal ist kein Ticket",
