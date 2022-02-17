@@ -158,6 +158,11 @@
 	},
 	"noinvites": "Du darfst hier keine Einladungen senden",
 	"noreason": "Kein Grund angegeben",
+	"npm": {
+		"edited": "Bearbeitet",
+		"missing": "Du musst einen NPM-Package-Namen angeben",
+		"unknown": "Das Package **{PACKAGE}** gibt es nicht"
+	},
 	"permissions": {
 		"bitfield": "Berechtigungen für Bitfield {BITFIELD}",
 		"user": "Berechtigungen von {USER}"
