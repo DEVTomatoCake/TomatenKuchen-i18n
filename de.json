@@ -32,6 +32,10 @@
 		"none": "Es wurden keine Nutzer zum Dehoisten gefunden"
 	},
 	"djs": "Es wurden keine Einträge in den Docs gefunden",
+	"economy": {
+		"job": "Beruf",
+		"wallet": "Bargeld"
+	},
 	"emoji": {
 		"animated": "Animiert",
 		"none": "Keine",
@@ -243,13 +247,13 @@
 		"closed": "Ticket wurde geschlossen",
 		"created": "✅ Dein Ticket wurde in {CHANNEL} erstellt",
 		"createdbutton": "Dein Ticket wurde erstellt!",
+		"deletebutton": "Ticket löschen",
 		"notclosed": "Dieser Kanal ist kein geschlossenes Ticket",
 		"noticket": "Dieser Kanal ist kein Ticket",
-		"transcript": "Transcript wurde gespeichert",
-		"reopenbutton": "Ticket erneut öffnen",
-		"deletebutton": "Ticket löschen",
 		"notranscript": "Es wurde kein automatisches Transcript erstellt, da zu wenig Nachrichten in dem Ticket gesendet wurden. Solltest du dennoch eins brauchen, nutze `{PREFIX}transcript`.",
-		"ticketclosing": "Ticket wird in **5** Sekunden gelöscht"
+		"reopenbutton": "Ticket erneut öffnen",
+		"ticketclosing": "Ticket wird in **5** Sekunden gelöscht",
+		"transcript": "Transcript wurde gespeichert"
 	},
 	"ticketembed": {
 		"button": "Ticket erstellen",
