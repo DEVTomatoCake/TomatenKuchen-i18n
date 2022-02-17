@@ -32,6 +32,7 @@
 		"of": "Emojis von {GUILD}"
 	},
 	"eval": {
+		"error": "Fehler",
 		"result": "Ergebnis",
 		"time": "Zeit"
 	},
