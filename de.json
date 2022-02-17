@@ -11,6 +11,10 @@
 		"set": "Dein AFK-Status wurde gesetzt"
 	},
 	"ban": "**{mod}** hat **{user}** gebannt: {reason}",
+	"banlist": {
+		"none": "Es sind keine Nutzer gebannt!",
+		"title": "**{AMOUNT}** Nutzer sind gebannt:"
+	},
 	"calculator": "|                   Taschenrechner                   |",
 	"captcha": {
 		"start": "**{USER}**, löse folgendes Captcha:"
