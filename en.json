@@ -35,7 +35,6 @@
 		"result": "Result",
 		"time": "Time"
 	},
-	"eval_error": "Error",
 	"github": {
 		"title": "**{USER}** on GitHub",
 		"unknown": "The user **{USER}** doesn't exist",
