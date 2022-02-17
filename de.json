@@ -45,6 +45,7 @@
 	},
 	"djs": "Es wurden keine Einträge in den Docs gefunden",
 	"economy": {
+		"invalidamount": "Ungültige Geld-Angabe",
 		"job": "Beruf",
 		"wallet": "Bargeld"
 	},
@@ -60,7 +61,10 @@
 		"time": "Zeit"
 	},
 	"github": {
+		"following": "Folgt",
 		"missing": "Du musst einen GitHub-Nutzernamen angeben",
+		"public_gists": "Öffentliche Gists",
+		"public_repos": "Öffentliche Repos",
 		"title": "**{USER}** auf GitHub",
 		"unknown": "Der Nutzer **{USER}** existiert nicht",
 		"username": "Nutzername"
