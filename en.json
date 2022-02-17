@@ -159,7 +159,9 @@
 	"noinvites": "You may not send invites here",
 	"noreason": "No reason",
 	"npm": {
+		"author": "Author",
 		"edited": "Edited",
+		"maintainer": "Maintained by",
 		"missing": "You must add a npm package name",
 		"unknown": "The package **{PACKAGE}** doesn't exist"
 	},
@@ -243,6 +245,7 @@
 		"createdbutton": "Your ticket has been created!",
 		"notclosed": "This channel isn't a closed ticket",
 		"noticket": "This channel isn't a ticket",
+		"reopenbutton": "Reopen ticket",
 		"transcript": "Transcript has been saved"
 	},
 	"ticketembed": {
