@@ -248,7 +248,7 @@
 		"transcript": "Transcript wurde gespeichert",
 		"reopenbutton": "Ticket erneut öffnen",
 		"deletebutton": "Ticket löschen",
-		"notranscript": "Es wurde kein automatisches Transcript erstellt, da zu wenig Nachrichten in dem Ticket gesendet wurden. Solltest du dennoch eins brauchen, nutze ```!transcript```.",
+		"notranscript": "Es wurde kein automatisches Transcript erstellt, da zu wenig Nachrichten in dem Ticket gesendet wurden. Solltest du dennoch eins brauchen, nutze `{PREFIX}transcript`.",
 		"ticketclosing": "Ticket wird in **5** Sekunden gelöscht, **{USER}**!"
 	},
 	"ticketembed": {
