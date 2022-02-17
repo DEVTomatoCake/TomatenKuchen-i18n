@@ -11,6 +11,10 @@
 		"set": "Your afk state has been set"
 	},
 	"ban": "**{mod}** banned **{user}**: {reason}",
+	"banlist": {
+		"none": "There are no banned users!",
+		"title": "**{AMOUNT}** users are banned:"
+	},
 	"calculator": "|                         Calculator                        |",
 	"captcha": {
 		"start": "**{USER}**, solve the following captcha:"
@@ -24,6 +28,9 @@
 	"commands": "Commands",
 	"cooldown": "You still have a cooldown!",
 	"customcommand_list": "List of customcommands",
+	"dehoist": {
+		"none": "Couldn't find users to dehoist"
+	},
 	"djs": "I couldn't find this in the docs",
 	"emoji": {
 		"animated": "Animated",
@@ -32,6 +39,7 @@
 		"of": "Emojis of {GUILD}"
 	},
 	"eval": {
+		"error": "Error",
 		"result": "Result",
 		"time": "Time"
 	},
@@ -150,6 +158,11 @@
 	},
 	"noinvites": "You may not send invites here",
 	"noreason": "No reason",
+	"npm": {
+		"edited": "Edited",
+		"missing": "You must add a npm package name",
+		"unknown": "The package **{PACKAGE}** doesn't exist"
+	},
 	"permissions": {
 		"bitfield": "Permissions for Bitfield {BITFIELD}",
 		"user": "Permissions of {USER}"
