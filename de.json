@@ -159,7 +159,9 @@
 	"noinvites": "Du darfst hier keine Einladungen senden",
 	"noreason": "Kein Grund angegeben",
 	"npm": {
+		"author": "Autor",
 		"edited": "Bearbeitet",
+		"maintainer": "Verwaltet von",
 		"missing": "Du musst einen NPM-Package-Namen angeben",
 		"unknown": "Das Package **{PACKAGE}** gibt es nicht"
 	},
