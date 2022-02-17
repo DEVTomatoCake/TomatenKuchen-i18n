@@ -246,7 +246,7 @@
 		"deletebutton": "Delete ticket",
 		"notclosed": "This channel isn't a closed ticket",
 		"noticket": "This channel isn't a ticket",
-		"notranscript": "No automatic transcript was created as there were not enaugh messages in this ticket. If you do need your transcript, use `{PREFIX}transcript`.",
+		"notranscript": "No automatic transcript was created as there weren't enough messages in this ticket. If you do need a transcript, use `{PREFIX}transcript`.",
 		"reopenbutton": "Reopen ticket",
 		"ticketclosing": "Ticket will be deleted in **5** seconds",
 		"transcript": "Transcript has been saved"
