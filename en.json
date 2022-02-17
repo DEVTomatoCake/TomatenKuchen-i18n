@@ -116,6 +116,7 @@
 	},
 	"help_unknowncommandcategory": "Unknown command/category!",
 	"hours": "hours",
+	"imageloadfail": "The image couldn't be loaded",
 	"invaliduser": "You must enter a valid user",
 	"invite": "Bot invite",
 	"isitdown": {
@@ -203,7 +204,9 @@
 	"purge": {
 		"fail": "The messages cannot be deleted",
 		"invalidamount": "You must add a number between **1** and **99**",
-		"nonedeleted": "No messages have been deleted"
+		"multi": "**{DELETED}** messages have been deleted:{MESSAGES}",
+		"nonedeleted": "No messages have been deleted",
+		"single": "**One** message was deleted:{MESSAGES}"
 	},
 	"reactionrole": {
 		"unknownchannel": "Unknown channel!",
