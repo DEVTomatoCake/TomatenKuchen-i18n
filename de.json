@@ -47,7 +47,10 @@
 	"economy": {
 		"invalidamount": "Du musst einen gültigen Betrag angeben",
 		"job": "Beruf",
-		"wallet": "Bargeld"
+		"missingamount": "Du musst Geld angeben",
+		"notenough": "Du hast nicht so viel Geld",
+		"wallet": "Bargeld",
+		"zinsen": "Interest every"
 	},
 	"emoji": {
 		"animated": "Animiert",
