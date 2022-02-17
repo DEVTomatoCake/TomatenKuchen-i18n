@@ -36,6 +36,7 @@
 		"time": "Time"
 	},
 	"github": {
+		"missing": "You must add a GitHub username",
 		"title": "**{USER}** on GitHub",
 		"unknown": "The user **{USER}** doesn't exist",
 		"username": "Username"
@@ -95,6 +96,9 @@
 	},
 	"kick": {
 		"fail": "I can't kick this user"
+	},
+	"leaderboard": {
+		"fail": "**{USER}** has never sent a message here"
 	},
 	"level": {
 		"disabled": "Levels are disabled here"
@@ -220,11 +224,17 @@
 	},
 	"ticket": {
 		"alreadyclosed": "This ticket is already closed",
+		"alreadyopen": "You already have an open ticket",
 		"closed": "Ticket has been closed",
 		"created": "✅ The ticket has been created in {CHANNEL}",
+		"createdbutton": "Your ticket has been created!",
 		"notclosed": "This channel isn't a closed ticket",
 		"noticket": "This channel isn't a ticket",
 		"transcript": "Transcript has been saved"
+	},
+	"ticketembed": {
+		"button": "Create Ticket",
+		"description": "To create a ticket click on \"Create Ticket\""
 	},
 	"unban": {
 		"fail": "The user couldn't be unbanned",
