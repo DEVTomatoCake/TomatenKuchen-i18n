@@ -224,7 +224,8 @@
 		"closed": "Ticket has been closed",
 		"created": "✅ The ticket has been created in {CHANNEL}",
 		"notclosed": "This channel isn't a closed ticket",
-		"noticket": "This channel isn't a ticket"
+		"noticket": "This channel isn't a ticket",
+		"transcript": "Transcript has been saved"
 	},
 	"unban": {
 		"fail": "The user couldn't be unbanned",
