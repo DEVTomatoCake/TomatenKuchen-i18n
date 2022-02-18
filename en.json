@@ -32,6 +32,9 @@
 	"channels": "Channels",
 	"commands": "Commands",
 	"cooldown": "You still have a cooldown!",
+	"customcommand": {
+		"list": "List of customcommands"
+	},
 	"dehoist": {
 		"none": "Couldn't find users to dehoist"
 	},
