@@ -73,7 +73,6 @@
 		"unknown": "The user **{USER}** doesn't exist",
 		"username": "Username"
 	},
-	"guildowner": "Server owner",
 	"hack": {
 		"footer": "Definitely real™️",
 		"hacking": "Hacking… {PERCENT}%",
