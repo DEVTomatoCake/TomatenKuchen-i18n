@@ -274,16 +274,23 @@
 		"created": "✅ Dein Ticket wurde in {CHANNEL} erstellt",
 		"createdbutton": "Dein Ticket wurde erstellt!",
 		"deletebutton": "Ticket löschen",
+		"deleting": "#{CHANNEL} wurde gelöscht",
+		"nosaved": "Es sind keine Tickets gespeichert!",
 		"notclosed": "Dieser Kanal ist kein geschlossenes Ticket",
 		"noticket": "Dieser Kanal ist kein Ticket",
 		"notranscript": "Es wurde kein automatisches Transcript erstellt, da zu wenig Nachrichten in dem Ticket gesendet wurden. Solltest du dennoch eins brauchen, nutze `{PREFIX}transcript`.",
 		"reopenbutton": "Ticket erneut öffnen",
+		"reopened": "Das Ticket wurde erneut geöffnet!",
 		"ticketclosing": "Ticket wird in **5** Sekunden gelöscht",
 		"transcript": "Transcript wurde gespeichert"
 	},
 	"ticketembed": {
 		"button": "Ticket erstellen",
 		"description": "Um ein Ticket zu erstellen klicke auf \"Ticket erstellen\""
+	},
+	"todo": {
+		"add": "Der Eintrag wurde hinzugefügt",
+		"remove": "Der Eintrag wurde entfernt"
 	},
 	"unban": {
 		"fail": "Der Nutzer kann nicht entbannt werden",
