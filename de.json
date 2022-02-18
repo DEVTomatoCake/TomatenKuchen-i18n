@@ -45,11 +45,13 @@
 	},
 	"djs": "Es wurden keine Einträge in den Docs gefunden",
 	"economy": {
+		"deposit": "Du hast **{AMOUNT}** auf die Bank eingezahlt",
 		"invalidamount": "Du musst einen gültigen Betrag angeben",
 		"job": "Beruf",
 		"missingamount": "Du musst Geld angeben",
 		"notenough": "Du hast nicht so viel Geld",
 		"wallet": "Bargeld",
+		"withdraw": "Du hast **{AMOUNT}** von der Bank abgehoben",
 		"zinsen": "Zinsen alle"
 	},
 	"emoji": {
