@@ -45,11 +45,13 @@
 	},
 	"djs": "I couldn't find this in the docs",
 	"economy": {
+		"deposit": "You have deposited **{AMOUNT}**",
 		"invalidamount": "You must add a valid amount",
 		"job": "Job",
 		"missingamount": "You must add money",
 		"notenough": "You dont have enough money",
 		"wallet": "Cash",
+		"withdraw": "You have withdrawn **{AMOUNT}**",
 		"zinsen": "Interest every"
 	},
 	"emoji": {
