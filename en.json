@@ -274,16 +274,23 @@
 		"created": "✅ The ticket has been created in {CHANNEL}",
 		"createdbutton": "Your ticket has been created!",
 		"deletebutton": "Delete ticket",
+		"deleting": "#{CHANNEL} was deleted",
+		"nosaved": "There are no saved tickets!",
 		"notclosed": "This channel isn't a closed ticket",
 		"noticket": "This channel isn't a ticket",
 		"notranscript": "No automatic transcript was created as there weren't enough messages in this ticket. If you do need a transcript, use `{PREFIX}transcript`.",
 		"reopenbutton": "Reopen ticket",
+		"reopened": "The ticket has been reopened!",
 		"ticketclosing": "Ticket will be deleted in **5** seconds",
 		"transcript": "Transcript has been saved"
 	},
 	"ticketembed": {
 		"button": "Create Ticket",
 		"description": "To create a ticket click on \"Create Ticket\""
+	},
+	"todo": {
+		"add": "The entry was added",
+		"remove": "The entry was removed"
 	},
 	"unban": {
 		"fail": "The user couldn't be unbanned",
