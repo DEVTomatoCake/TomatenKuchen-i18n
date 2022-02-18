@@ -11,6 +11,9 @@
 		"set": "Dein AFK-Status wurde gesetzt"
 	},
 	"ban": "**{mod}** hat **{user}** gebannt: {reason}",
+	"bank": {
+		"deposit": "Du hast **{AMOUNT}** auf die Bank eingezahlt, **{USER}**!"
+	},
 	"banlist": {
 		"none": "Es sind keine Nutzer gebannt!",
 		"title": "**{AMOUNT}** Nutzer sind gebannt:"
