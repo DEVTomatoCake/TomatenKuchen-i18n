@@ -11,9 +11,6 @@
 		"set": "Your afk state has been set"
 	},
 	"ban": "**{mod}** banned **{user}**: {reason}",
-	"bank": {
-		"deposit": "You have deposited **{AMOUNT}**, **{USER}**!"
-	},
 	"banlist": {
 		"none": "There are no banned users!",
 		"title": "**{AMOUNT}** users are banned:"
