@@ -36,6 +36,7 @@
 		"none": "Es wurden keine Nutzer zum Dehoisten gefunden"
 	},
 	"diff": {
+		"missing": "Du musst zwei Texte angeben",
 		"title": "{PERCENT} ähnlich"
 	},
 	"dig": {
