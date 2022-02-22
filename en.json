@@ -16,9 +16,6 @@
 		"title": "**{AMOUNT}** users are banned:"
 	},
 	"calculator": "|                         Calculator                        |",
-	"captcha": {
-		"start": "**{USER}**, solve the following captcha:"
-	},
 	"channelinfo": {
 		"bots": "Amount of bots",
 		"created": "Channel created",
