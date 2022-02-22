@@ -130,6 +130,11 @@
 		"missingurl": "Du musst eine Website angeben",
 		"notavailable": "Website ist nicht erreichbar"
 	},
+	"job": {
+		"change": "Dein Job wurde zu **{JOB}** geändert",
+		"list": "Verfügbare Jobs",
+		"seconds": "Sekunden"
+	},
 	"kick": {
 		"fail": "Der Nutzer kann nicht gekickt werden"
 	},
