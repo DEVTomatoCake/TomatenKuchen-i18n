@@ -36,6 +36,7 @@
 		"none": "Couldn't find users to dehoist"
 	},
 	"diff": {
+		"missing": "You must add a second text seperated by ` | `",
 		"title": "{PERCENT} similar"
 	},
 	"dig": {
@@ -152,6 +153,9 @@
 		"errorfound": "There is at least one error in the command:",
 		"missingcommand": "You must enter the command",
 		"noerror": "No error was found in the command"
+	},
+	"mcrecipe": {
+		"missing": "You must add a german minecraft item name"
 	},
 	"mention": "Mention",
 	"mentions": "Mentions",
