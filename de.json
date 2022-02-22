@@ -306,9 +306,12 @@
 		"warned": "{USER} wurde verwarnt"
 	},
 	"work": {
+		"captcha": {
+			"start": "**{USER}**, löse folgendes Captcha:"
+		},
 		"lose": {
 			"time": "Du warst zu langsam!"
 		},
-		"win": "Gut gemacht! Du hast **{TIME}** Sekunden benötigt."
+		"win": "Gut gemacht! Du hast **{TIME}** Sekunden benötigt.\nDu hast **{AMOUNT}** Tomaten erhalten!"
 	}
 }
