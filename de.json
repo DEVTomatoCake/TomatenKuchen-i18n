@@ -16,9 +16,6 @@
 		"title": "**{AMOUNT}** Nutzer sind gebannt:"
 	},
 	"calculator": "|                   Taschenrechner                   |",
-	"captcha": {
-		"start": "**{USER}**, löse folgendes Captcha:"
-	},
 	"channelinfo": {
 		"bots": "Davon Bots",
 		"created": "Kanal erstellt",
