@@ -36,7 +36,7 @@
 		"none": "Es wurden keine Nutzer zum Dehoisten gefunden"
 	},
 	"diff": {
-		"missing": "Du musst zwei Texte angeben",
+		"missing": "Du musst einen zweiten Text mit ` | ` getrennt angeben",
 		"title": "{PERCENT} ähnlich"
 	},
 	"dig": {
@@ -153,6 +153,9 @@
 		"errorfound": "Es wurde ein Fehler im Befehl gefunden:",
 		"missingcommand": "Du musst einen Befehl angeben",
 		"noerror": "Es wurde kein Fehler in dem Befehl gefunden"
+	},
+	"mcrecipe": {
+		"missing": "Du musst einen deutschen Minecraft-Item-Namen angeben"
 	},
 	"mention": "Erwähnung",
 	"mentions": "Erwähnungen",
