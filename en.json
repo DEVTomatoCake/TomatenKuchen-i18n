@@ -127,6 +127,11 @@
 		"missingurl": "You need to specify a website",
 		"notavailable": "Website is not available"
 	},
+	"job": {
+		"change": "Your job has been changed to **{JOB}**",
+		"list": "Available jobs",
+		"seconds": "Seconds"
+	},
 	"kick": {
 		"fail": "I can't kick this user"
 	},
@@ -301,9 +306,12 @@
 		"warned": "{USER} has been warned"
 	},
 	"work": {
+		"captcha": {
+			"start": "**{USER}**, solve the following captcha:"
+		},
 		"lose": {
 			"time": "You were too slow!"
 		},
-		"win": "Well done! Took **{TIME}** seconds."
+		"win": "Well done! Took **{TIME}** seconds.\nYou've got **{AMOUNT}** tomatoes!"
 	}
 }
