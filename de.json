@@ -118,6 +118,7 @@
 			"description": "Zeigt Ticket-Befehle",
 			"title": "Ticket"
 		},
+		"unknown": "Unbekannter Befehl/Kategorie!",
 		"usage": "Verwendung"
 	},
 	"hours": "Stunden",
