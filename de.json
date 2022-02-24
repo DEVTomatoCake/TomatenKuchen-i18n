@@ -90,6 +90,7 @@
 			"description": "Zeigt alle Befehle vom Bot",
 			"title": "Alle Befehle"
 		},
+		"category": "Kategorie",
 		"description": "__Legende:__\n**<>** - Muss angegeben werden\n**[]** - Optional\n\nWähle eine Kategorie aus, um die Befehle zu sehen.",
 		"fun": {
 			"description": "Zeigt Fun-Befehle",
@@ -116,9 +117,9 @@
 		"ticket": {
 			"description": "Zeigt Ticket-Befehle",
 			"title": "Ticket"
-		}
+		},
+		"usage": "Verwendung"
 	},
-	"help_unknowncommandcategory": "Unbekannter Befehl/Kategorie!",
 	"hours": "Stunden",
 	"imageloadfail": "Das Bild kann nicht geladen werden",
 	"invaliduser": "Du musst einen Nutzer angeben",
