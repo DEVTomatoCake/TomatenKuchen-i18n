@@ -90,6 +90,7 @@
 			"description": "Shows all bot commands",
 			"title": "All commands"
 		},
+		"category": "Category",
 		"description": "__Command usage:__\n**<>** - Required\n**[]** - Optional\n\nSelect a category to see the commands.",
 		"fun": {
 			"description": "Shows fun commands",
@@ -116,7 +117,9 @@
 		"ticket": {
 			"description": "Shows ticket commands",
 			"title": "Ticket"
-		}
+		},
+		"unknown": "Unknown command/category!",
+		"usage": "Usage"
 	},
 	"hours": "hours",
 	"imageloadfail": "The image couldn't be loaded",
