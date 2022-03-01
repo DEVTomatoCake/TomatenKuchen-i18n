@@ -21,7 +21,7 @@
 		"created": "Kanal erstellt",
 		"members": "Nutzer im Kanal",
 		"notopic": "Kein Thema gesetzt",
-		"title": "Info für {CHANNEL}",
+		"title": "Info für **{CHANNEL}**",
 		"topic": "Beschreibung",
 		"type": "Typ",
 		"userlimit": "Benutzerlimit"
