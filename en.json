@@ -325,6 +325,10 @@
 		"add": "The entry was added",
 		"remove": "The entry was removed"
 	},
+	"translate": {
+		"doyoumean": "Do you mean",
+		"error": "The text cannot be translated"
+	},
 	"unban": {
 		"fail": "The user couldn't be unbanned",
 		"success": "The user has been unbanned"
