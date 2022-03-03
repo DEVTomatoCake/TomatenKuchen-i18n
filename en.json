@@ -262,7 +262,6 @@
 		"unknown": "Unknown role",
 		"usercount": "**{COUNT}** users with the role"
 	},
-	"say_error": "The message couldn't be sent",
 	"server": {
 		"categories": "Categories",
 		"created": "Created",
