@@ -55,7 +55,7 @@
 		"invalidamount": "You must add a valid amount",
 		"job": "Job",
 		"missingamount": "You must add money",
-		"notenough": "You dont have enough money",
+		"notenough": "You don't have enough money",
 		"wallet": "Cash",
 		"withdraw": "You have withdrawn **{AMOUNT}**",
 		"zinsen": "Interest every"
