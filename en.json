@@ -262,6 +262,9 @@
 		"unknown": "Unknown role",
 		"usercount": "**{COUNT}** users with the role"
 	},
+	"say": {
+		"error": "The message couldn't be sent"
+	},
 	"server": {
 		"categories": "Categories",
 		"created": "Created",
@@ -271,6 +274,13 @@
 		"text": "Text channels",
 		"verilvl": "Verification level",
 		"voice": "Voice channels"
+	},
+	"setup": {
+		"deleted": "The ticket category has been deleted",
+		"invalidcategory": "The provided ticket target category id is invalid",
+		"invalidmessage": "The provided ticket embed message id is invalid",
+		"limit": "Servers without premium may not use more than **{AMOUNT}** ticket categories",
+		"missingperms": "I don't have enough permissions for that category"
 	},
 	"slowmode": {
 		"error": "An error occured while setting the slowmode",
