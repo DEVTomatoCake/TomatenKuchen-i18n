@@ -325,6 +325,10 @@
 		"add": "Der Eintrag wurde hinzugefügt",
 		"remove": "Der Eintrag wurde entfernt"
 	},
+	"translate": {
+		"doyoumean": "Meinst du",
+		"error": "Der Text kann nicht übersetzt werden"
+	},
 	"unban": {
 		"fail": "Der Nutzer kann nicht entbannt werden",
 		"success": "Der Nutzer wurde entbannt"
