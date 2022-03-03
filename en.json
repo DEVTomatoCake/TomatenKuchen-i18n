@@ -15,7 +15,6 @@
 		"none": "There are no banned users!",
 		"title": "**{AMOUNT}** users are banned:"
 	},
-	"calculator": "|                         Calculator                        |",
 	"channelinfo": {
 		"bots": "Amount of bots",
 		"created": "Channel created",
