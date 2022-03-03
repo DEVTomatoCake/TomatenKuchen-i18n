@@ -262,7 +262,6 @@
 		"unknown": "Unbekannte Rolle",
 		"usercount": "**{COUNT}** Nutzer mit der Rolle"
 	},
-	"say_error": "Die Nachricht konnte nicht gesendet werden",
 	"server": {
 		"categories": "Kategorien",
 		"created": "Erstellt",
