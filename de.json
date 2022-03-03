@@ -8,14 +8,14 @@
 		"afk": "{USER} ist afk!",
 		"end": "Du bist nicht länger afk!\nDu warst **{TIME}** abwesend.",
 		"reason": "Grund",
-		"set": "Dein AFK-Status wurde gesetzt"
+		"set": "Dein AFK-Status wurde gesetzt",
+		"since": "Seit"
 	},
 	"ban": "**{mod}** hat **{user}** gebannt: {reason}",
 	"banlist": {
 		"none": "Es sind keine Nutzer gebannt!",
 		"title": "**{AMOUNT}** Nutzer sind gebannt:"
 	},
-	"calculator": "|                   Taschenrechner                   |",
 	"channelinfo": {
 		"bots": "Davon Bots",
 		"created": "Kanal erstellt",
@@ -27,10 +27,12 @@
 		"userlimit": "Benutzerlimit"
 	},
 	"channels": "Kanäle",
+	"commanderror": "Während der Ausführung des Befehls `{COMMAND}` ist ein Fehler aufgetreten!",
 	"commands": "Befehle",
 	"cooldown": "Du hast noch einen Cooldown!",
 	"customcommand": {
-		"list": "Liste aller Customcommands"
+		"list": "Liste aller Customcommands",
+		"missingarg": "Du musst Argument {ARG} angeben!"
 	},
 	"dehoist": {
 		"none": "Es wurden keine Nutzer zum Dehoisten gefunden"
