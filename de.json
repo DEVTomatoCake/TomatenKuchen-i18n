@@ -16,6 +16,10 @@
 		"none": "Es sind keine Nutzer gebannt!",
 		"title": "**{AMOUNT}** Nutzer sind gebannt:"
 	},
+	"calc": {
+		"invalid": "Ungültige Syntax",
+		"title": "|                   Taschenrechner                   |"
+	},
 	"channelinfo": {
 		"bots": "Davon Bots",
 		"created": "Kanal erstellt",
@@ -55,6 +59,10 @@
 		"wallet": "Bargeld",
 		"withdraw": "Du hast **{AMOUNT}** von der Bank abgehoben",
 		"zinsen": "Zinsen alle"
+	},
+	"embed": {
+		"error": "Das Embed kann nicht gesendet werden",
+		"missing": "Du musst einen Titel angeben"
 	},
 	"emoji": {
 		"animated": "Animiert",
@@ -193,6 +201,9 @@
 		"resume": "Das Video wurde geresumed",
 		"skip": "Das Video wurde geskippt",
 		"unknownvideo": "Das Video wurde nicht gefunden"
+	},
+	"mute": {
+		"invalidtime": "Du musst eine gültige Dauer angeben"
 	},
 	"noinvites": "Du darfst hier keine Einladungen senden",
 	"none": "Kein",
