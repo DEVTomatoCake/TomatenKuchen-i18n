@@ -203,6 +203,8 @@
 		"unknownvideo": "I don't find this video"
 	},
 	"mute": {
+		"alreadymuted": "The user is already muted",
+		"fail": "The user couldn't be muted",
 		"invalidtime": "You must add a valid time"
 	},
 	"noinvites": "You may not send invites here",
@@ -326,6 +328,10 @@
 	"unban": {
 		"fail": "The user couldn't be unbanned",
 		"success": "The user has been unbanned"
+	},
+	"unmute": {
+		"fail": "The user couldn't be unmuted",
+		"notmuted": "The user isn't muted"
 	},
 	"users": "Users",
 	"warn": {
