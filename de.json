@@ -262,6 +262,9 @@
 		"unknown": "Unbekannte Rolle",
 		"usercount": "**{COUNT}** Nutzer mit der Rolle"
 	},
+	"say": {
+		"error": "Die Nachricht konnte nicht gesendet werden"
+	},
 	"server": {
 		"categories": "Kategorien",
 		"created": "Erstellt",
@@ -271,6 +274,13 @@
 		"text": "Textkanäle",
 		"verilvl": "Verifizierungslevel",
 		"voice": "Sprachkanäle"
+	},
+	"setup": {
+		"deleted": "Die Ticket-Kategorie wurde gelöscht",
+		"invalidcategory": "Die Ticket-Ziel-Kategorie-ID ist ungültig",
+		"invalidmessage": "Die Ticket-Embed-Nachrichten-ID ist ungültig",
+		"limit": "Server ohne Premium dürfen maximal **{AMOUNT}** Ticket-Kategorien erstellen",
+		"missingperms": "Ich habe keine Rechte für die Kategorie"
 	},
 	"slowmode": {
 		"error": "Der Slowmode konnte nicht gesetzt werden",
