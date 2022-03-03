@@ -203,6 +203,8 @@
 		"unknownvideo": "Das Video wurde nicht gefunden"
 	},
 	"mute": {
+		"alreadymuted": "Der Nutzer ist schon gemuted",
+		"fail": "Der Nutzer konnte nicht gemuted werden",
 		"invalidtime": "Du musst eine gültige Dauer angeben"
 	},
 	"noinvites": "Du darfst hier keine Einladungen senden",
@@ -326,6 +328,10 @@
 	"unban": {
 		"fail": "Der Nutzer kann nicht entbannt werden",
 		"success": "Der Nutzer wurde entbannt"
+	},
+	"unmute": {
+		"fail": "Der Nutzer kann nicht entmuted werden",
+		"notmuted": "Der Nutzer ist nicht gemuted"
 	},
 	"users": "Nutzer",
 	"warn": {
