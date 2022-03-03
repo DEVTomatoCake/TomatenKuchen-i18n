@@ -8,12 +8,17 @@
 		"afk": "{USER} is afk!",
 		"end": "You're no longer afk!\nYou were **{TIME}** afk.",
 		"reason": "Reason",
-		"set": "Your afk state has been set"
+		"set": "Your afk state has been set",
+		"since": "Since"
 	},
 	"ban": "**{mod}** banned **{user}**: {reason}",
 	"banlist": {
 		"none": "There are no banned users!",
 		"title": "**{AMOUNT}** users are banned:"
+	},
+	"calc": {
+		"invalid": "Invalid syntax",
+		"title": "|                         Calculator                        |"
 	},
 	"channelinfo": {
 		"bots": "Amount of bots",
@@ -26,10 +31,12 @@
 		"userlimit": "Userlimit"
 	},
 	"channels": "Channels",
+	"commanderror": "Whilst executing the command`{COMMAND}` an error occured!",
 	"commands": "Commands",
 	"cooldown": "You still have a cooldown!",
 	"customcommand": {
-		"list": "List of customcommands"
+		"list": "List of customcommands",
+		"missingarg": "You must add the argument {ARG}!"
 	},
 	"dehoist": {
 		"none": "Couldn't find users to dehoist"
@@ -52,6 +59,10 @@
 		"wallet": "Cash",
 		"withdraw": "You have withdrawn **{AMOUNT}**",
 		"zinsen": "Interest every"
+	},
+	"embed": {
+		"error": "The embed couldn't be sent",
+		"missing": "You must add a title"
 	},
 	"emoji": {
 		"animated": "Animated",
@@ -190,6 +201,9 @@
 		"resume": "The video has been resumed",
 		"skip": "The video has been skipped",
 		"unknownvideo": "I don't find this video"
+	},
+	"mute": {
+		"invalidtime": "You must add a valid time"
 	},
 	"noinvites": "You may not send invites here",
 	"none": "None",
