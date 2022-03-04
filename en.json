@@ -14,7 +14,6 @@
 	"automod": {
 		"mentions": "You may not mention so many users in a message"
 	},
-	"ban": "**{mod}** banned **{user}**: {reason}",
 	"banlist": {
 		"none": "There are no banned users!",
 		"title": "**{AMOUNT}** users are banned:"
