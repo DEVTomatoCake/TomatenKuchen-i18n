@@ -14,6 +14,9 @@
 	"automod": {
 		"mentions": "Du darfst nicht so viele Nutzer in einer Nachricht erwähnen"
 	},
+	"ban": {
+		"success": "**{MOD}** hat **{USER}** gebannt: {REASON}"
+	},
 	"banlist": {
 		"none": "Es sind keine Nutzer gebannt!",
 		"title": "**{AMOUNT}** Nutzer sind gebannt:"
