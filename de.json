@@ -15,6 +15,7 @@
 		"mentions": "Du darfst nicht so viele Nutzer in einer Nachricht erwähnen"
 	},
 	"ban": {
+		"fail": "Der Nutzer konnte nicht gebannt werden",
 		"success": "**{MOD}** hat **{USER}** gebannt: {REASON}"
 	},
 	"banlist": {
@@ -275,6 +276,9 @@
 	},
 	"say": {
 		"error": "Die Nachricht konnte nicht gesendet werden"
+	},
+	"scheresteinpapier": {
+		"title": "Schere Stein Papier"
 	},
 	"server": {
 		"categories": "Kategorien",
