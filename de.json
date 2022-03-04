@@ -226,7 +226,6 @@
 		"bitfield": "Berechtigungen für Bitfield {BITFIELD}",
 		"user": "Berechtigungen von {USER}"
 	},
-	"ping": "Pinge…",
 	"poll": {
 		"ended": "Umfrage ist beendet",
 		"ends": "Umfrage endet",
