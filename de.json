@@ -14,7 +14,6 @@
 	"automod": {
 		"mentions": "Du darfst nicht so viele Nutzer in einer Nachricht erwähnen"
 	},
-	"ban": "**{mod}** hat **{user}** gebannt: {reason}",
 	"banlist": {
 		"none": "Es sind keine Nutzer gebannt!",
 		"title": "**{AMOUNT}** Nutzer sind gebannt:"
@@ -225,6 +224,9 @@
 	"permissions": {
 		"bitfield": "Berechtigungen für Bitfield {BITFIELD}",
 		"user": "Berechtigungen von {USER}"
+	},
+	"ping": {
+		"title": "Pinge…"
 	},
 	"poll": {
 		"ended": "Umfrage ist beendet",
