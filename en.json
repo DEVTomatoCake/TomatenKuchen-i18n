@@ -15,6 +15,7 @@
 		"mentions": "You may not mention so many users in a message"
 	},
 	"ban": {
+		"fail": "The user couldn't be banned",
 		"success": "**{MOD}** banned **{USER}**: {REASON}"
 	},
 	"banlist": {
@@ -275,6 +276,9 @@
 	},
 	"say": {
 		"error": "The message couldn't be sent"
+	},
+	"scheresteinpapier": {
+		"title": "Rock Paper Scissors"
 	},
 	"server": {
 		"categories": "Categories",
