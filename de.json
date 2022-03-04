@@ -11,6 +11,9 @@
 		"set": "Dein AFK-Status wurde gesetzt",
 		"since": "Seit"
 	},
+	"automod": {
+		"mentions": "Du darfst nicht so viele Nutzer in einer Nachricht erwähnen"
+	},
 	"ban": "**{mod}** hat **{user}** gebannt: {reason}",
 	"banlist": {
 		"none": "Es sind keine Nutzer gebannt!",
@@ -153,6 +156,9 @@
 	},
 	"level": {
 		"disabled": "Level sind hier deaktiviert"
+	},
+	"lyrics": {
+		"missing": "Du musst einen Songnamen angeben"
 	},
 	"mcbug": {
 		"fixedinversion": "Behoben in Version",
