@@ -11,6 +11,9 @@
 		"set": "Your afk state has been set",
 		"since": "Since"
 	},
+	"automod": {
+		"mentions": "You may not mention so many users in a message"
+	},
 	"ban": "**{mod}** banned **{user}**: {reason}",
 	"banlist": {
 		"none": "There are no banned users!",
@@ -153,6 +156,9 @@
 	},
 	"level": {
 		"disabled": "Levels are disabled here"
+	},
+	"lyrics": {
+		"missing": "You must add a song name"
 	},
 	"mcbug": {
 		"fixedinversion": "Fixed in version",
