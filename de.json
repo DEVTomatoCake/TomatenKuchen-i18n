@@ -186,7 +186,7 @@
 	"minutes": "Minuten",
 	"missingperms": {
 		"bot": "Ich habe nicht genug Rechte für diesen Befehl",
-		"user": "Keine Rechte"
+		"user": "Du hast nicht genug Rechte für diesen Befehl"
 	},
 	"missingtext": "Du musst einen Text angeben",
 	"modlogs": {
