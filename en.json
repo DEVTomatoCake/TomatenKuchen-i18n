@@ -155,7 +155,8 @@
 		"fail": "I can't kick this user"
 	},
 	"leaderboard": {
-		"fail": "**{USER}** has never sent a message here"
+		"fail": "**{USER}** has never sent a message here",
+		"points": "points"
 	},
 	"level": {
 		"disabled": "Levels are disabled here"
