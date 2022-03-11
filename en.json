@@ -42,7 +42,8 @@
 	"cooldown": "You still have a cooldown!",
 	"customcommand": {
 		"list": "List of customcommands",
-		"missingarg": "You must add the argument {ARG}!"
+		"missingarg": "You must add the argument {ARG}!",
+		"nocategory": "No category"
 	},
 	"dehoist": {
 		"none": "Couldn't find users to dehoist"
@@ -178,6 +179,9 @@
 	},
 	"mcrecipe": {
 		"missing": "You must add a german minecraft item name"
+	},
+	"meme": {
+		"nothingfound": "No meme has been found"
 	},
 	"mention": "Mention",
 	"minecraft": {
@@ -351,7 +355,14 @@
 		"fail": "The user couldn't be unmuted",
 		"notmuted": "The user isn't muted"
 	},
+	"user": {
+		"permissions": "Permissions",
+		"roles": "Roles"
+	},
 	"users": "Users",
+	"usersettings": {
+		"invalidcolor": "You must add a valid color code"
+	},
 	"warn": {
 		"cantwarn": "You may not warn **{USER}**",
 		"missingreason": "You must add a reason",
