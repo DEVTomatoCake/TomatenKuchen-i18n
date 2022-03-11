@@ -42,7 +42,8 @@
 	"cooldown": "Du hast noch einen Cooldown!",
 	"customcommand": {
 		"list": "Liste aller Customcommands",
-		"missingarg": "Du musst Argument {ARG} angeben!"
+		"missingarg": "Du musst Argument {ARG} angeben!",
+		"nocategory": "Keine Kategorie"
 	},
 	"dehoist": {
 		"none": "Es wurden keine Nutzer zum Dehoisten gefunden"
@@ -178,6 +179,9 @@
 	},
 	"mcrecipe": {
 		"missing": "Du musst einen deutschen Minecraft-Item-Namen angeben"
+	},
+	"meme": {
+		"nothingfound": "Es wurde kein Meme gefunden"
 	},
 	"mention": "Erwähnung",
 	"minecraft": {
@@ -351,7 +355,14 @@
 		"fail": "Der Nutzer kann nicht entmuted werden",
 		"notmuted": "Der Nutzer ist nicht gemuted"
 	},
+	"user": {
+		"permissions": "Rechte",
+		"roles": "Rollen"
+	},
 	"users": "Nutzer",
+	"usersettings": {
+		"invalidcolor": "Du musst einen gültigen Farb-Code angeben"
+	},
 	"warn": {
 		"cantwarn": "Du darfst **{USER}** nicht verwarnen",
 		"missingreason": "Du musst einen Grund angeben",
