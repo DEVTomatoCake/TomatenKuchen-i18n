@@ -204,7 +204,7 @@
 			"queue": "Die Queue wird nun wiederholt",
 			"song": "Der aktuelle Song wird nun wiederholt"
 		},
-		"missingpermissions": "Ich habe nicht genug Rechte in deinem Sprachkanal",
+		"missingpermissions": "Ich habe nicht genug Berechtigungen in deinem Sprachkanal",
 		"missingvideo": "Du musst einen Videonamen angeben",
 		"missingvoice": "Du musst in einem Sprachkanal sein",
 		"nothingplaying": "Es wird kein Video gespielt!",
@@ -356,7 +356,7 @@
 		"notmuted": "Der Nutzer ist nicht gemuted"
 	},
 	"user": {
-		"permissions": "Rechte",
+		"permissions": "Berechtigungen",
 		"roles": "Rollen"
 	},
 	"users": "Nutzer",
