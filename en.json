@@ -321,6 +321,7 @@
 	"ticket": {
 		"alreadyclosed": "This ticket is already closed",
 		"alreadyopen": "You already have an open ticket",
+		"closebutton": "Close ticket",
 		"closed": "Ticket has been closed",
 		"created": "✅ The ticket has been created in {CHANNEL}",
 		"createdbutton": "Your ticket has been created!",
