@@ -73,7 +73,6 @@
 	},
 	"emoji": {
 		"animated": "Animiert",
-		"none": "Keine",
 		"notanimated": "Nicht animiert",
 		"of": "Emojis von {GUILD}"
 	},
