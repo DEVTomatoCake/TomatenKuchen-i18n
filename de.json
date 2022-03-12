@@ -322,7 +322,6 @@
 		"alreadyclosed": "Dieses Ticket ist schon geschlossen",
 		"alreadyopen": "Du hast bereits ein offenes Ticket",
 		"closed": "Ticket wurde geschlossen",
-		"createbutton": "Ticket erstellen",
 		"created": "✅ Dein Ticket wurde in {CHANNEL} erstellt",
 		"createdbutton": "Dein Ticket wurde erstellt!",
 		"deletebutton": "Ticket löschen",
