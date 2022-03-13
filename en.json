@@ -375,6 +375,6 @@
 		"lose": {
 			"time": "You were too slow!"
 		},
-		"win": "Well done! Took **{TIME}** seconds.\nYou've got **{AMOUNT}** tomatoes!"
+		"win": "Well done! Took **{TIME}** seconds.\nYou earned **{AMOUNT}** tomatoes!"
 	}
 }
