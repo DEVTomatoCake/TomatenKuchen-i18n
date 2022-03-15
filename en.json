@@ -58,6 +58,7 @@
 	},
 	"djs": "I couldn't find this in the docs",
 	"economy": {
+		"cooldown": "You still have a cooldown for this command: **{COOLDOWN}**",
 		"deposit": "You have deposited **{AMOUNT}**",
 		"invalidamount": "You must add a valid amount",
 		"job": "Job",
@@ -164,6 +165,9 @@
 	"lyrics": {
 		"missing": "You must add a song name"
 	},
+	"mass": {
+		"missing": "You must add a reason and at least one user"
+	},
 	"mcbug": {
 		"fixedinversion": "Fixed in version",
 		"fixversion": "None",
@@ -178,6 +182,9 @@
 	},
 	"mcrecipe": {
 		"missing": "You must add a german minecraft item name"
+	},
+	"mcserver": {
+		"offline": "The server ip is invalid or the server is offline!"
 	},
 	"meme": {
 		"nothingfound": "No meme has been found"
@@ -301,11 +308,19 @@
 		"limit": "Servers without premium may not use more than **{AMOUNT}** ticket categories",
 		"missingperms": "I don't have enough permissions for that category"
 	},
+	"shop": {
+		"notenough": "You don't have enough tomatoes",
+		"shovel": {
+			"fail": "You already have a shovel",
+			"success": "You've bought a shovel"
+		}
+	},
 	"slowmode": {
 		"error": "An error occured while setting the slowmode",
 		"missing": "You must enter a valid slowmode time"
 	},
 	"suggest": {
+		"lastedit": "Last edited",
 		"missingreply": "You musst add a suggestion and a reply",
 		"missingsuggestion": "You must add a suggestion",
 		"nochannel": "There is no suggestion channel set!",
@@ -341,6 +356,7 @@
 	},
 	"todo": {
 		"add": "The entry was added",
+		"none": "Your todo list is empty! Use `{PREFIX}todo add <Entry>` to add new entries",
 		"remove": "The entry was removed"
 	},
 	"translate": {
