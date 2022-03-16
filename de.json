@@ -306,7 +306,7 @@
 		"invalidcategory": "Die Ticket-Ziel-Kategorie-ID ist ungültig",
 		"invalidmessage": "Die Ticket-Embed-Nachrichten-ID ist ungültig",
 		"limit": "Server ohne Premium dürfen maximal **{AMOUNT}** Ticket-Kategorien erstellen",
-		"missingperms": "Ich habe keine Rechte für die Kategorie"
+		"missingperms": "Ich habe nicht genug Berechtigungen in der Kategorie"
 	},
 	"shop": {
 		"notenough": "Du hast nicht genug Tomaten dafür",
