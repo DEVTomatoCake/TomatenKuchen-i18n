@@ -1,3 +1,26 @@
 {
+	"add": {
+		"tutorial": "So bekommst du einen API-Key:"
+	},
+	"customcommand": {
+		"error": "Der Befehl kann nicht ausgeführt werden!",
+		"guildonly": "Dieser Befehl kann nur auf Servern genutzt werden!",
+		"list": "Liste aller Customcommands",
+		"missingperms": "Dazu hast du keine Rechte!",
+		"success": "Der Befehl wurde im Panel **{ALIAS}** ausgeführt: `{COMMAND}`"
+	},
+	"list": {
+		"title": "Deine Panel-Aliase"
+	},
+	"manage": {
+		"noservers": "Keine Server vorhanden"
+	},
+	"nodata": "Du musst zuerst mit **/add** einen Panel-Alias erstellen!",
+	"settings": {
+		"alias": {
+			"delete": "Der Alias **{ALIAS}** wurde gelöscht!"
+		},
+		"default": "Dein Standard-Panel wurde auf **{ALIAS}** gesetzt!"
+	},
 	"unknownalias": "Den Alias **{ALIAS}** gibt es nicht!"
 }
