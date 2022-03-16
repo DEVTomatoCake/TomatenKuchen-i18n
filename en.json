@@ -1,3 +1,6 @@
 {
+	"customcommand": {
+		"list": "List of customcommands"
+	},
 	"unknownalias": "The alias **{ALIAS}** doesn't exist!"
 }
