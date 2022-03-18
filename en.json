@@ -1,6 +1,25 @@
 {
+	"add": {
+		"tutorial": "How to get an API key:"
+	},
 	"customcommand": {
-		"list": "List of customcommands"
+		"error": "There was an error whilst executing the command!",
+		"guildonly": "This command can only be used on servers!",
+		"list": "List of customcommands",
+		"missingperms": "You don't have enough perms for that!",
+		"success": "The command was run in panel **{ALIAS}**: `{COMMAND}`"
+	},
+	"list": {
+		"title": "Your panel aliases"
+	},
+	"manage": {
+		"noservers": "No servers"
+	},
+	"settings": {
+		"alias": {
+			"delete": "The alias **{ALIAS}** was deleted!"
+		},
+		"default": "Your default panel was set to **{ALIAS}**!"
 	},
 	"unknownalias": "The alias **{ALIAS}** doesn't exist!"
 }
