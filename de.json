@@ -236,6 +236,7 @@
 		"missing": "Du musst einen NPM-Package-Namen angeben",
 		"unknown": "Das Package **{PACKAGE}** gibt es nicht"
 	},
+	"onlyattachments": "Du darfst in diesem Kanal nur Anhänge und Bild-URLs senden",
 	"permissions": {
 		"bitfield": "Berechtigungen für Bitfield {BITFIELD}",
 		"user": "Berechtigungen von {USER}"
