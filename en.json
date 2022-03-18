@@ -236,6 +236,7 @@
 		"missing": "You must add a npm package name",
 		"unknown": "The package **{PACKAGE}** doesn't exist"
 	},
+	"onlyattachments": "You may only send attachments and image urls in this channel",
 	"permissions": {
 		"bitfield": "Permissions for Bitfield {BITFIELD}",
 		"user": "Permissions of {USER}"
