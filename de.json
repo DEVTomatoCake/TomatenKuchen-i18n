@@ -94,7 +94,7 @@
 	"hack": {
 		"footer": "Definitiv echt™️",
 		"hacking": "Hacken… {PERCENT}%",
-		"loading": "Hacke **{USER}**...",
+		"loading": "Hacke **{USER}**…",
 		"nobot": "Du darfst keine Bots hacken",
 		"password": "Passwort",
 		"result": "Ergebnis:"
@@ -322,6 +322,7 @@
 		"missing": "Du musst eine Zahl angeben"
 	},
 	"suggest": {
+		"edit": "Der Vorschlag **#{ID}** wurde bearbeitet!",
 		"lastedit": "Zuletzt bearbeitet",
 		"missingreply": "Du musst einen Vorschlag und eine Antwort angeben",
 		"missingsuggestion": "Du musst einen Vorschlag angeben",
@@ -330,6 +331,10 @@
 		"unknownmessage": "Diesen Vorschlag gibt es nicht"
 	},
 	"supportserver": "Support-Server",
+	"template": {
+		"cancel": "Das Laden vom Template wurde abgebrochen",
+		"unknown": "Dieses Template gibt es nicht"
+	},
 	"threads": {
 		"all": "Alle Threads",
 		"description": "Nachrichten | Mitglieder"
@@ -394,5 +399,9 @@
 			"time": "Du warst zu langsam!"
 		},
 		"win": "Gut gemacht! Du hast **{TIME}** Sekunden benötigt.\nDu hast **{AMOUNT}** Tomaten erhalten!"
+	},
+	"ytsearch": {
+		"error": "Die Ergebnisse können nicht abgefragt werden",
+		"missing": "Du musst einen YouTube-Kanal-Namen angeben"
 	}
 }
