@@ -15,6 +15,7 @@
 	"manage": {
 		"noservers": "No servers"
 	},
+	"nodata": "You have to create a panel alias with **/add** first!",
 	"settings": {
 		"alias": {
 			"delete": "The alias **{ALIAS}** was deleted!"
