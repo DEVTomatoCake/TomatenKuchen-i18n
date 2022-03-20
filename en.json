@@ -22,6 +22,9 @@
 		"none": "There are no banned users!",
 		"title": "**{AMOUNT}** users are banned:"
 	},
+	"bot": {
+		"commands": "Commands"
+	},
 	"calc": {
 		"invalid": "Invalid syntax",
 		"title": "|                         Calculator                        |"
@@ -93,6 +96,7 @@
 	"hack": {
 		"footer": "Definitely real™️",
 		"hacking": "Hacking… {PERCENT}%",
+		"loading": "Hacking **{USER}**…",
 		"nobot": "You may not hack bots",
 		"password": "Password",
 		"result": "Result:"
@@ -320,6 +324,7 @@
 		"missing": "You must enter a valid slowmode time"
 	},
 	"suggest": {
+		"edit": "The suggestion **#{ID}** has been edited!",
 		"lastedit": "Last edited",
 		"missingreply": "You musst add a suggestion and a reply",
 		"missingsuggestion": "You must add a suggestion",
@@ -328,6 +333,9 @@
 		"unknownmessage": "This suggestion doesn't exist"
 	},
 	"supportserver": "Support server",
+	"template": {
+		"unknown": "This template doesn't exist"
+	},
 	"threads": {
 		"all": "All threads",
 		"description": "Messages | Members"
@@ -392,5 +400,9 @@
 			"time": "You were too slow!"
 		},
 		"win": "Well done! Took **{TIME}** seconds.\nYou earned **{AMOUNT}** tomatoes!"
+	},
+	"ytsearch": {
+		"error": "The results couldn't be fetched",
+		"missing": "You must add a youtube channel name"
 	}
 }
