@@ -370,7 +370,9 @@
 	},
 	"translate": {
 		"doyoumean": "Meinst du",
-		"error": "Der Text kann nicht übersetzt werden"
+		"error": "Der Text kann nicht übersetzt werden",
+		"errorcorrected": "Fehler korrigiert",
+		"translated": "Der Text ```\n{TEXT}```\nwurde aus der Sprache **{LANGUAGE}** übersetzt:\n```{TRANSLATION}```"
 	},
 	"unban": {
 		"fail": "Der Nutzer kann nicht entbannt werden",
