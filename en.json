@@ -370,7 +370,9 @@
 	},
 	"translate": {
 		"doyoumean": "Do you mean",
-		"error": "The text cannot be translated"
+		"error": "The text cannot be translated",
+		"errorcorrected": "Mistake corrected",
+		"translated": "The text ```\n{TEXT}```\nwas translated from the language **{LANGUAGE}**:\n```{TRANSLATION}```"
 	},
 	"unban": {
 		"fail": "The user couldn't be unbanned",
