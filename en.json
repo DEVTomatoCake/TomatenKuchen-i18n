@@ -38,7 +38,6 @@
 	},
 	"channels": "Channels",
 	"commanderror": "Whilst executing the command `{COMMAND}` an error occured!",
-	"commands": "Commands",
 	"cooldown": "You still have a cooldown!",
 	"customcommand": {
 		"list": "List of customcommands",
