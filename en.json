@@ -334,6 +334,7 @@
 	},
 	"supportserver": "Support server",
 	"template": {
+		"cancel": "The template loading has been cancelled",
 		"unknown": "This template doesn't exist"
 	},
 	"threads": {
