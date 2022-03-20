@@ -22,6 +22,9 @@
 		"none": "Es sind keine Nutzer gebannt!",
 		"title": "**{AMOUNT}** Nutzer sind gebannt:"
 	},
+	"bot": {
+		"commands": "Befehle"
+	},
 	"calc": {
 		"invalid": "Ungültige Syntax",
 		"title": "|                   Taschenrechner                   |"
