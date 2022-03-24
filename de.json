@@ -188,10 +188,12 @@
 		"title": "Rezept von **{ITEM}**"
 	},
 	"mcserver": {
-		"offline": "Die Server-IP ist ungültig oder der Server ist offline!"
+		"offline": "Die Server-IP ist ungültig oder der Server ist offline!",
+		"playersonline": "Spieler online"
 	},
 	"meme": {
-		"nothingfound": "Es wurde kein Meme gefunden"
+		"nothingfound": "Es wurde kein Meme gefunden",
+		"nsfw": "Das Meme wurde als nicht jugendfrei markiert"
 	},
 	"mention": "Erwähnung",
 	"minecraft": {
@@ -333,7 +335,7 @@
 		"missingreply": "Du musst einen Vorschlag und eine Antwort angeben",
 		"missingsuggestion": "Du musst einen Vorschlag angeben",
 		"nochannel": "Es wurde kein Kanal für Vorschläge festgelegt!",
-		"replyfrom": "Antwort von **{USER}**",
+		"replyfrom": "Antwort von {USER}",
 		"title": "Vorschlag",
 		"unknownmessage": "Diesen Vorschlag gibt es nicht"
 	},
@@ -388,8 +390,10 @@
 		"notmuted": "Der Nutzer ist nicht gemuted"
 	},
 	"user": {
+		"joined": "Beigetreten",
 		"permissions": "Berechtigungen",
-		"roles": "Rollen"
+		"roles": "Rollen",
+		"voice": "Sprachkanal"
 	},
 	"users": "Nutzer",
 	"usersettings": {
