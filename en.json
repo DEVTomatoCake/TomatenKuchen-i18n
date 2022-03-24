@@ -183,9 +183,6 @@
 		"missingcommand": "You must enter the command",
 		"noerror": "No error was found in the command"
 	},
-	"mcrecipe": {
-		"missing": "You must add a german minecraft item name"
-	},
 	"mcserver": {
 		"offline": "The server ip is invalid or the server is offline!"
 	},
