@@ -183,6 +183,10 @@
 		"missingcommand": "Du musst einen Befehl angeben",
 		"noerror": "Es wurde kein Fehler in dem Befehl gefunden"
 	},
+	"mcrecipe": {
+		"missing": "Du musst einen deutschen Minecraft-Item-Namen angeben",
+		"title": "Rezept von **{ITEM}**"
+	},
 	"mcserver": {
 		"offline": "Die Server-IP ist ungültig oder der Server ist offline!"
 	},
@@ -329,6 +333,7 @@
 		"missingreply": "Du musst einen Vorschlag und eine Antwort angeben",
 		"missingsuggestion": "Du musst einen Vorschlag angeben",
 		"nochannel": "Es wurde kein Kanal für Vorschläge festgelegt!",
+		"replyfrom": "Antwort von **{USER}**",
 		"title": "Vorschlag",
 		"unknownmessage": "Diesen Vorschlag gibt es nicht"
 	},
