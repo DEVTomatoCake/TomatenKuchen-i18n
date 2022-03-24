@@ -183,11 +183,17 @@
 		"missingcommand": "You must enter the command",
 		"noerror": "No error was found in the command"
 	},
+	"mcrecipe": {
+		"missing": "You must add a german minecraft item name",
+		"title": "Recipe of **{ITEM}**"
+	},
 	"mcserver": {
-		"offline": "The server ip is invalid or the server is offline!"
+		"offline": "The server ip is invalid or the server is offline!",
+		"playersonline": "Players online"
 	},
 	"meme": {
-		"nothingfound": "No meme has been found"
+		"nothingfound": "No meme has been found",
+		"nsfw": "The meme was marked as nsfw"
 	},
 	"mention": "Mention",
 	"minecraft": {
@@ -243,6 +249,9 @@
 	},
 	"ping": {
 		"title": "Pinging…"
+	},
+	"play": {
+		"streamerror": "An error occured while streaming"
 	},
 	"poll": {
 		"ended": "Poll ended",
@@ -326,6 +335,7 @@
 		"missingreply": "You musst add a suggestion and a reply",
 		"missingsuggestion": "You must add a suggestion",
 		"nochannel": "There is no suggestion channel set!",
+		"replyfrom": "Reply from {USER}",
 		"title": "Suggestion",
 		"unknownmessage": "This suggestion doesn't exist"
 	},
@@ -380,8 +390,10 @@
 		"notmuted": "The user isn't muted"
 	},
 	"user": {
+		"joined": "Joined",
 		"permissions": "Permissions",
-		"roles": "Roles"
+		"roles": "Roles",
+		"voice": "Voice channel"
 	},
 	"users": "Users",
 	"usersettings": {
