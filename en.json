@@ -58,6 +58,10 @@
 		"missingshovel": "You need a shovel to use this command",
 		"nothingfound": "You've sadly found nothing"
 	},
+	"discordjs": {
+		"error": "The API is not available",
+		"unknown": "I couldn't find this in the docs"
+	},
 	"economy": {
 		"cooldown": "You still have a cooldown for this command: **{COOLDOWN}**",
 		"deposit": "You have deposited **{AMOUNT}**",
@@ -206,6 +210,7 @@
 	},
 	"missingtext": "You must enter a text",
 	"modlogs": {
+		"date": "Date",
 		"none": "The user doens't has any modlogs"
 	},
 	"music": {
@@ -281,6 +286,7 @@
 	"remove": "{USER} has been removed from the ticket",
 	"role": {
 		"botcount": "**{COUNT}** bots with the role",
+		"list": "List of all roles:",
 		"massadd": {
 			"error": "An error occured while adding the role",
 			"start": "I'll add the role **{ROLE}** to **{MEMBERCOUNT}** members"
