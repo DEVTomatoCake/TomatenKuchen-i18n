@@ -210,6 +210,7 @@
 	},
 	"missingtext": "Du musst einen Text angeben",
 	"modlogs": {
+		"date": "Datum",
 		"none": "Der Nutzer hat noch keine Modlogs"
 	},
 	"music": {
@@ -285,6 +286,7 @@
 	"remove": "{USER} wurde vom Ticket entfernt",
 	"role": {
 		"botcount": "**{COUNT}** Bots mit der Rolle",
+		"list": "Liste aller Rollen:",
 		"massadd": {
 			"error": "Es ist ein Fehler beim Hinzufügen der Rolle aufgetreten",
 			"start": "Ich füge **{MEMBERCOUNT}** Mitgliedern die Rolle **{ROLE}** hinzu"
