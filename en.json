@@ -58,7 +58,6 @@
 		"missingshovel": "You need a shovel to use this command",
 		"nothingfound": "You've sadly found nothing"
 	},
-	"djs": "I couldn't find this in the docs",
 	"economy": {
 		"cooldown": "You still have a cooldown for this command: **{COOLDOWN}**",
 		"deposit": "You have deposited **{AMOUNT}**",
