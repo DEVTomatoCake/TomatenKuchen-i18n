@@ -26,7 +26,8 @@
 		"title": "**{AMOUNT}** Nutzer sind gebannt:"
 	},
 	"bot": {
-		"commands": "Befehle"
+		"commands": "Befehle",
+		"unknownguild": "Unbekannter Server"
 	},
 	"calc": {
 		"invalid": "Ungültige Syntax",
@@ -50,6 +51,7 @@
 		"missingarg": "Du musst Argument {ARG} angeben!",
 		"nocategory": "Keine Kategorie"
 	},
+	"dataexport": "Deine Daten werden dir per PN zugeschickt",
 	"dehoist": {
 		"none": "Es wurden keine Nutzer zum Dehoisten gefunden"
 	},
@@ -151,6 +153,10 @@
 	"imageloadfail": "Das Bild kann nicht geladen werden",
 	"invaliduser": "Du musst einen Nutzer angeben",
 	"invite": "Bot einladen",
+	"inviteinfo": {
+		"missing": "Du musst eine Einladung angeben",
+		"unknown": "Unbekannte Einladung"
+	},
 	"isitdown": {
 		"available": "Website ist erreichbar",
 		"missingurl": "Du musst eine Website angeben",
@@ -172,7 +178,8 @@
 		"disabled": "Level sind hier deaktiviert"
 	},
 	"lyrics": {
-		"missing": "Du musst einen Songnamen angeben"
+		"missing": "Du musst einen Songnamen angeben",
+		"unknown": "Es wurde kein Song gefunden"
 	},
 	"mass": {
 		"missing": "Du musst einen Grund und mindestens einen Nutzer angeben"
@@ -359,6 +366,9 @@
 		"unknownmessage": "Diesen Vorschlag gibt es nicht"
 	},
 	"supportserver": "Support-Server",
+	"tagebis": {
+		"missing": "Du musst Monat und Tag angeben"
+	},
 	"template": {
 		"cancel": "Das Laden vom Template wurde abgebrochen",
 		"unknown": "Dieses Template gibt es nicht"
@@ -420,7 +430,8 @@
 	},
 	"users": "Nutzer",
 	"usersettings": {
-		"invalidcolor": "Du musst einen gültigen Farb-Code angeben"
+		"invalidcolor": "Du musst einen gültigen Farb-Code angeben",
+		"unknown": "Diese Einstellung gibt es nicht"
 	},
 	"warn": {
 		"cantwarn": "Du darfst **{USER}** nicht verwarnen",
