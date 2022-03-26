@@ -1,6 +1,7 @@
 {
 	"add": {
-		"fail": "Der Nutzer konnte nicht zum Kanal hinzugefügt werden"
+		"fail": "Der Nutzer konnte nicht zum Kanal hinzugefügt werden",
+		"success": "{USER} wurde zum Ticket hinzugefügt"
 	},
 	"addemoji": {
 		"missing": "Du musst ein Emoji angeben",
