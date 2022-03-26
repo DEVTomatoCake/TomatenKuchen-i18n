@@ -1,7 +1,7 @@
 {
 	"add": {
 		"fail": "Der Nutzer konnte nicht zum Kanal hinzugefügt werden",
-		"success": "{USER} wurde zum Ticket hinzugefügt"
+		"success": "{USERORROLE} wurde zum Ticket hinzugefügt"
 	},
 	"addemoji": {
 		"missing": "Du musst ein Emoji angeben",
@@ -300,7 +300,7 @@
 	},
 	"remove": {
 		"fail": "Der Nutzer konnte nicht vom Kanal entfernt werden",
-		"success": "{USER} wurde vom Ticket entfernt"
+		"success": "{USERORROLE} wurde vom Ticket entfernt"
 	},
 	"role": {
 		"botcount": "**{COUNT}** Bots mit der Rolle",
