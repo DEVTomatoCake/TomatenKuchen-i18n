@@ -1,5 +1,4 @@
 {
-	"add": "{USER} has been added to the ticket",
 	"addemoji": {
 		"missing": "You need to specify an emoji",
 		"success": "The emoji {EMOJI} was added with the name `{NAME}`!"
@@ -288,7 +287,6 @@
 		"missingtime": "You must enter a valid time",
 		"your": "Your reminder"
 	},
-	"remove": "{USER} has been removed from the ticket",
 	"role": {
 		"botcount": "**{COUNT}** bots with the role",
 		"list": "List of all roles:",
