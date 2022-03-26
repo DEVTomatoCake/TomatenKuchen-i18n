@@ -1,4 +1,8 @@
 {
+	"add": {
+		"fail": "The user couldn't be added to this channel",
+		"success": "{USER} has been added to the ticket"
+	},
 	"addemoji": {
 		"missing": "You need to specify an emoji",
 		"success": "The emoji {EMOJI} was added with the name `{NAME}`!"
@@ -22,7 +26,8 @@
 		"title": "**{AMOUNT}** users are banned:"
 	},
 	"bot": {
-		"commands": "Commands"
+		"commands": "Commands",
+		"unknownguild": "Unknown guild"
 	},
 	"calc": {
 		"invalid": "Invalid syntax",
@@ -46,6 +51,7 @@
 		"missingarg": "You must add the argument {ARG}!",
 		"nocategory": "No category"
 	},
+	"dataexport": "Your data will be send by dm",
 	"dehoist": {
 		"none": "Couldn't find users to dehoist"
 	},
@@ -147,6 +153,10 @@
 	"imageloadfail": "The image couldn't be loaded",
 	"invaliduser": "You must enter a valid user",
 	"invite": "Bot invite",
+	"inviteinfo": {
+		"missing": "You must add an invite",
+		"unknown": "Unknown invite"
+	},
 	"isitdown": {
 		"available": "Website is available",
 		"missingurl": "You need to specify a website",
@@ -168,7 +178,8 @@
 		"disabled": "Levels are disabled here"
 	},
 	"lyrics": {
-		"missing": "You must add a song name"
+		"missing": "You must add a song name",
+		"unknown": "No song has been found"
 	},
 	"mass": {
 		"missing": "You must add a reason and at least one user"
@@ -287,6 +298,10 @@
 		"missingtime": "You must enter a valid time",
 		"your": "Your reminder"
 	},
+	"remove": {
+		"fail": "The user couldn't be removed from this channel",
+		"success": "{USER} has been removed from the ticket"
+	},
 	"role": {
 		"botcount": "**{COUNT}** bots with the role",
 		"list": "List of all roles:",
@@ -351,6 +366,9 @@
 		"unknownmessage": "This suggestion doesn't exist"
 	},
 	"supportserver": "Support server",
+	"tagebis": {
+		"missing": "You must add month and day"
+	},
 	"template": {
 		"cancel": "The template loading has been cancelled",
 		"unknown": "This template doesn't exist"
@@ -412,7 +430,8 @@
 	},
 	"users": "Users",
 	"usersettings": {
-		"invalidcolor": "You must add a valid color code"
+		"invalidcolor": "You must add a valid color code",
+		"unknown": "This setting doesn't exist"
 	},
 	"warn": {
 		"cantwarn": "You may not warn **{USER}**",
