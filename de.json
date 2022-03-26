@@ -1,5 +1,7 @@
 {
-	"add": "{USER} wurde zum Ticket hinzugefügt",
+	"add": {
+		"fail": "Der Nutzer konnte nicht zum Kanal hinzugefügt werden"
+	},
 	"addemoji": {
 		"missing": "Du musst ein Emoji angeben",
 		"success": "Das Emoji {EMOJI} wurde mit dem Namen `{NAME}` hinzugefügt!"
@@ -288,7 +290,9 @@
 		"missingtime": "Du musst eine gültige Zeit angeben",
 		"your": "Deine Erinnerung"
 	},
-	"remove": "{USER} wurde vom Ticket entfernt",
+	"remove": {
+		"fail": "Der Nutzer konnte nicht vom Kanal entfernt werden"
+	},
 	"role": {
 		"botcount": "**{COUNT}** Bots mit der Rolle",
 		"list": "Liste aller Rollen:",
