@@ -68,7 +68,7 @@
 		"invalidamount": "You must add a valid amount",
 		"job": "Job",
 		"missingamount": "You must add money",
-		"notenough": "You don't have enough money",
+		"notenough": "You don't have enough cash",
 		"wallet": "Cash",
 		"withdraw": "You have withdrawn **{AMOUNT}**",
 		"zinsen": "Interest every"
@@ -247,6 +247,10 @@
 		"unknown": "The package **{PACKAGE}** doesn't exist"
 	},
 	"onlyattachments": "You may only send attachments and image urls in this channel",
+	"periodensystem": {
+		"missing": "You must add an element",
+		"unknown": "Unknown element"
+	},
 	"permissions": {
 		"bitfield": "Permissions for Bitfield {BITFIELD}",
 		"user": "Permissions of {USER}"
@@ -280,6 +284,7 @@
 	},
 	"remind": {
 		"endsin": "Ends at",
+		"limit": "You may not have more than **5** reminders at the same time",
 		"missingtime": "You must enter a valid time",
 		"your": "Your reminder"
 	},
@@ -329,6 +334,9 @@
 			"fail": "You already have a shovel",
 			"success": "You've bought a shovel"
 		}
+	},
+	"slots": {
+		"invalid": "The amount must be bigger than 0 and smaller than 100000."
 	},
 	"slowmode": {
 		"error": "An error occured while setting the slowmode",
@@ -380,10 +388,14 @@
 		"none": "Your todo list is empty! Use `{PREFIX}todo add <Entry>` to add new entries",
 		"remove": "The entry was removed"
 	},
+	"transcript": {
+		"done": "**{MESSAGES}** messages were saved:"
+	},
 	"translate": {
 		"doyoumean": "Do you mean",
 		"error": "The text cannot be translated",
 		"errorcorrected": "Mistake corrected",
+		"missing": "You must add the target language and the text",
 		"translated": "The text ```\n{TEXT}```\nwas translated from the language **{LANGUAGE}**:\n```{TRANSLATION}```"
 	},
 	"unban": {
