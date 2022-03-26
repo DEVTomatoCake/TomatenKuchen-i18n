@@ -291,7 +291,8 @@
 		"your": "Deine Erinnerung"
 	},
 	"remove": {
-		"fail": "Der Nutzer konnte nicht vom Kanal entfernt werden"
+		"fail": "Der Nutzer konnte nicht vom Kanal entfernt werden",
+		"success": "{USER} wurde vom Ticket entfernt"
 	},
 	"role": {
 		"botcount": "**{COUNT}** Bots mit der Rolle",
