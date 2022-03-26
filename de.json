@@ -68,7 +68,7 @@
 		"invalidamount": "Du musst einen gültigen Betrag angeben",
 		"job": "Beruf",
 		"missingamount": "Du musst Geld angeben",
-		"notenough": "Du hast nicht so viel Geld",
+		"notenough": "Du hast nicht so viel Bargeld",
 		"wallet": "Bargeld",
 		"withdraw": "Du hast **{AMOUNT}** von der Bank abgehoben",
 		"zinsen": "Zinsen alle"
@@ -247,6 +247,10 @@
 		"unknown": "Das Package **{PACKAGE}** gibt es nicht"
 	},
 	"onlyattachments": "Du darfst in diesem Kanal nur Anhänge und Bild-URLs senden",
+	"periodensystem": {
+		"missing": "Du musst ein Element angeben",
+		"unknown": "Unbekanntes Element"
+	},
 	"permissions": {
 		"bitfield": "Berechtigungen für Bitfield {BITFIELD}",
 		"user": "Berechtigungen von {USER}"
@@ -280,6 +284,7 @@
 	},
 	"remind": {
 		"endsin": "Läuft ab",
+		"limit": "Du darfst nicht mehr als **5** Reminder gleichzeitig haben",
 		"missingtime": "Du musst eine gültige Zeit angeben",
 		"your": "Deine Erinnerung"
 	},
@@ -329,6 +334,9 @@
 			"fail": "Du hast schon eine Schaufel",
 			"success": "Du hast eine Schaufel gekauft"
 		}
+	},
+	"slots": {
+		"invalid": "Die Zahl muss größer als 0 und kleiner als 100000 sein."
 	},
 	"slowmode": {
 		"error": "Der Slowmode konnte nicht gesetzt werden",
@@ -380,10 +388,14 @@
 		"none": "Deine Todo-Liste ist leer! Mit `{PREFIX}todo add <Eintrag>` kannst du neue Einträge hinzufügen",
 		"remove": "Der Eintrag wurde entfernt"
 	},
+	"transcript": {
+		"done": "Es wurden **{MESSAGES}** Nachrichten gespeichert:"
+	},
 	"translate": {
 		"doyoumean": "Meinst du",
 		"error": "Der Text kann nicht übersetzt werden",
 		"errorcorrected": "Fehler korrigiert",
+		"missing": "Du musst eine Zielsprache und einen Text angeben",
 		"translated": "Der Text ```\n{TEXT}```\nwurde aus der Sprache **{LANGUAGE}** übersetzt:\n```{TRANSLATION}```"
 	},
 	"unban": {
