@@ -73,6 +73,7 @@
 		"invalidamount": "Du musst einen gültigen Betrag angeben",
 		"job": "Beruf",
 		"missingamount": "Du musst Geld angeben",
+		"nobot": "Du darfst einem Bot kein Geld geben",
 		"notenough": "Du hast nicht so viel Bargeld",
 		"wallet": "Bargeld",
 		"withdraw": "Du hast **{AMOUNT}** von der Bank abgehoben",
@@ -100,6 +101,12 @@
 		"title": "**{USER}** auf GitHub",
 		"unknown": "Der Nutzer **{USER}** existiert nicht",
 		"username": "Nutzername"
+	},
+	"giveaway": {
+		"deleted": "Giveaway wurde gelöscht",
+		"ended": "Das Giveaway wurde beendet",
+		"invalidwinners": "Die Gewinneranzahl muss eine Zahl sein",
+		"rerolled": "Giveaway wurde erneut ausgerollt"
 	},
 	"hack": {
 		"footer": "Definitiv echt™️",
@@ -332,6 +339,7 @@
 		"emojianimated": "Animierte Emojis",
 		"emojinotanimated": "Normale Emojis",
 		"members": "Mitglieder",
+		"notifications": "Benachrichtigungen",
 		"owner": "Besitzer",
 		"text": "Textkanäle",
 		"verilvl": "Verifizierungslevel",
