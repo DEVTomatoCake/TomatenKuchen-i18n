@@ -73,6 +73,7 @@
 		"invalidamount": "You must add a valid amount",
 		"job": "Job",
 		"missingamount": "You must add money",
+		"nobot": "You can't send money to a bot",
 		"notenough": "You don't have enough cash",
 		"wallet": "Cash",
 		"withdraw": "You have withdrawn **{AMOUNT}**",
@@ -100,6 +101,13 @@
 		"title": "**{USER}** on GitHub",
 		"unknown": "The user **{USER}** doesn't exist",
 		"username": "Username"
+	},
+	"giveaway": {
+		"deleted": "The giveaway was deleted",
+		"edited": "The giveaway was edited",
+		"ended": "The giveaway was ended",
+		"invalidwinners": "The winner count must be a number",
+		"rerolled": "The giveaway was rerolled"
 	},
 	"hack": {
 		"footer": "Definitely real™️",
@@ -198,7 +206,8 @@
 	},
 	"mcrecipe": {
 		"missing": "You must add a german minecraft item name",
-		"title": "Recipe of **{ITEM}**"
+		"title": "Recipe of **{ITEM}**",
+		"unknown": "The item **{ITEM}** couldn't be found"
 	},
 	"mcserver": {
 		"offline": "The server ip is invalid or the server is offline!",
@@ -328,7 +337,10 @@
 		"categories": "Categories",
 		"created": "Created",
 		"description": "Description",
+		"emojianimated": "Animated emojis",
+		"emojinotanimated": "Normal emojis",
 		"members": "Members",
+		"notifications": "Notifications",
 		"owner": "Owner",
 		"text": "Text channels",
 		"verilvl": "Verification level",
