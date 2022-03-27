@@ -198,7 +198,8 @@
 	},
 	"mcrecipe": {
 		"missing": "Du musst einen deutschen Minecraft-Item-Namen angeben",
-		"title": "Rezept von **{ITEM}**"
+		"title": "Rezept von **{ITEM}**",
+		"unknown": "Das Item **{ITEM}** wurde nicht gefunden"
 	},
 	"mcserver": {
 		"offline": "Die Server-IP ist ungültig oder der Server ist offline!",
@@ -328,6 +329,8 @@
 		"categories": "Kategorien",
 		"created": "Erstellt",
 		"description": "Beschreibung",
+		"emojianimated": "Animierte Emojis",
+		"emojinotanimated": "Normale Emojis",
 		"members": "Mitglieder",
 		"owner": "Besitzer",
 		"text": "Textkanäle",
