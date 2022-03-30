@@ -163,7 +163,8 @@
 	"invite": "Bot einladen",
 	"inviteinfo": {
 		"missing": "Du musst eine Einladung angeben",
-		"unknown": "Unbekannte Einladung"
+		"unknown": "Unbekannte Einladung",
+		"uses": "Verwendungen"
 	},
 	"isitdown": {
 		"available": "Website ist erreichbar",
@@ -261,6 +262,7 @@
 	"npm": {
 		"author": "Autor",
 		"edited": "Bearbeitet",
+		"keywords": "Schlagwörter",
 		"maintainer": "Verwaltet von",
 		"missing": "Du musst einen NPM-Package-Namen angeben",
 		"unknown": "Das Package **{PACKAGE}** gibt es nicht"
@@ -368,6 +370,7 @@
 		"missing": "Du musst eine Zahl angeben"
 	},
 	"suggest": {
+		"approved": "Der Vorschlag **#{ID}** wurde angenommen!",
 		"edit": "Der Vorschlag **#{ID}** wurde bearbeitet!",
 		"lastedit": "Zuletzt bearbeitet",
 		"missingreply": "Du musst einen Vorschlag und eine Antwort angeben",
