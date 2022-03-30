@@ -163,7 +163,8 @@
 	"invite": "Bot invite",
 	"inviteinfo": {
 		"missing": "You must add an invite",
-		"unknown": "Unknown invite"
+		"unknown": "Unknown invite",
+		"uses": "Uses"
 	},
 	"isitdown": {
 		"available": "Website is available",
@@ -261,6 +262,7 @@
 	"npm": {
 		"author": "Author",
 		"edited": "Edited",
+		"keywords": "Keywords",
 		"maintainer": "Maintained by",
 		"missing": "You must add a npm package name",
 		"unknown": "The package **{PACKAGE}** doesn't exist"
@@ -368,6 +370,7 @@
 		"missing": "You must enter a valid slowmode time"
 	},
 	"suggest": {
+		"approved": "The suggestion **#{ID}** has been accepted!",
 		"edit": "The suggestion **#{ID}** has been edited!",
 		"lastedit": "Last edited",
 		"missingreply": "You musst add a suggestion and a reply",
