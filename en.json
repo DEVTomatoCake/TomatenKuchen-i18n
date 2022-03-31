@@ -47,6 +47,9 @@
 	"commanderror": "Whilst executing the command `{COMMAND}` an error occured!",
 	"cooldown": "You still have a cooldown!",
 	"customcommand": {
+		"created": "The command **{NAME}** was created",
+		"deleted": "The command **{NAME}** was deleted",
+		"edited": "The command **{NAME}** was edited",
 		"list": "List of customcommands",
 		"missingarg": "You must add the argument {ARG}!",
 		"nocategory": "No category"
@@ -60,6 +63,7 @@
 		"title": "{PERCENT} similar"
 	},
 	"dig": {
+		"found": "You've found **{ITEM}** with the value of **{VALUE}**",
 		"missingshovel": "You need a shovel to use this command",
 		"nothingfound": "You've sadly found nothing"
 	},
@@ -162,6 +166,7 @@
 	"invaliduser": "You must enter a valid user",
 	"invite": "Bot invite",
 	"inviteinfo": {
+		"inviter": "Inviter",
 		"missing": "You must add an invite",
 		"unknown": "Unknown invite",
 		"uses": "Uses"
@@ -360,7 +365,8 @@
 		"shovel": {
 			"fail": "You already have a shovel",
 			"success": "You've bought a shovel"
-		}
+		},
+		"unknown": "This item doesn't exist"
 	},
 	"slots": {
 		"invalid": "The amount must be bigger than 0 and smaller than 100000."
