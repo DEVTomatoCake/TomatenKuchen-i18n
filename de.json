@@ -373,7 +373,8 @@
 	},
 	"slowmode": {
 		"error": "Der Slowmode konnte nicht gesetzt werden",
-		"missing": "Du musst eine Zahl angeben"
+		"missing": "Du musst eine Zahl angeben",
+		"updated": "Der Slowmode wurde auf **{TIME}** Sekunden gesetzt"
 	},
 	"suggest": {
 		"approved": "Der Vorschlag **#{ID}** wurde angenommen!",
