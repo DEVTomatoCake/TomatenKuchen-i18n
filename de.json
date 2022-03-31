@@ -47,6 +47,9 @@
 	"commanderror": "Während der Ausführung des Befehls `{COMMAND}` ist ein Fehler aufgetreten!",
 	"cooldown": "Du hast noch einen Cooldown!",
 	"customcommand": {
+		"created": "Der Befehl **{NAME}** wurde erstellt",
+		"deleted": "Der Befehl **{NAME}** wurde gelöscht",
+		"edited": "Der Befehl **{NAME}** wurde bearbeitet",
 		"list": "Liste aller Customcommands",
 		"missingarg": "Du musst Argument {ARG} angeben!",
 		"nocategory": "Keine Kategorie"
@@ -60,6 +63,7 @@
 		"title": "{PERCENT} ähnlich"
 	},
 	"dig": {
+		"found": "Du hast **{ITEM}** mit dem Wert **{VALUE}** gefunden",
 		"missingshovel": "Du brauchst eine Schaufel, um diesen Befehl nutzen zu können",
 		"nothingfound": "Du hast leider nichts gefunden"
 	},
@@ -162,6 +166,7 @@
 	"invaliduser": "Du musst einen Nutzer angeben",
 	"invite": "Bot einladen",
 	"inviteinfo": {
+		"inviter": "Eingeladen von",
 		"missing": "Du musst eine Einladung angeben",
 		"unknown": "Unbekannte Einladung",
 		"uses": "Verwendungen"
