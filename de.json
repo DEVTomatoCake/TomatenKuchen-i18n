@@ -360,7 +360,8 @@
 		"shovel": {
 			"fail": "Du hast schon eine Schaufel",
 			"success": "Du hast eine Schaufel gekauft"
-		}
+		},
+		"unknown": "Den Gegenstand gibt es nicht"
 	},
 	"slots": {
 		"invalid": "Die Zahl muss größer als 0 und kleiner als 100000 sein."
