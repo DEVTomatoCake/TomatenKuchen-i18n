@@ -1,5 +1,6 @@
 {
 	"add": {
+		"aliastoolong": "The alias is too long!",
 		"tutorial": "How to get an API key:"
 	},
 	"customcommand": {
