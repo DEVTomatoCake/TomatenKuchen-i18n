@@ -373,7 +373,8 @@
 	},
 	"slowmode": {
 		"error": "An error occured while setting the slowmode",
-		"missing": "You must enter a valid slowmode time"
+		"missing": "You must enter a valid slowmode time",
+		"updated": "The slowmode has been set to **{TIME}** seconds"
 	},
 	"suggest": {
 		"approved": "The suggestion **#{ID}** has been accepted!",
