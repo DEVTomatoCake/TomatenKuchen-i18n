@@ -203,6 +203,7 @@
 		"fixversion": "Keine",
 		"linked": "Verlinkt",
 		"missing": "Du musst eine Minecraft-Bugreport-ID angeben",
+		"more": "...und **{AMOUNT}** weitere",
 		"unknown": "Diesen Minecraft-Bugreport gibt es nicht"
 	},
 	"mclint": {
