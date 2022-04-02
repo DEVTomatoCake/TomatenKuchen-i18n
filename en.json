@@ -203,6 +203,8 @@
 		"fixversion": "None",
 		"linked": "Linked",
 		"missing": "You must add a minecraft bugreport id",
+		"more": "…and **{AMOUNT}** more",
+		"solution": "Solution",
 		"unknown": "This minecraft bugreport doesn't exist"
 	},
 	"mclint": {
@@ -277,6 +279,12 @@
 		"missing": "You must add an element",
 		"unknown": "Unknown element"
 	},
+	"permission": {
+		"closed": "Your private voice channel was closed",
+		"notprivatevoice": "You're not in your own private voice channel",
+		"opened": "Your private voice channel was opened",
+		"reset": "The permissions of your private voice channel was reset"
+	},
 	"permissions": {
 		"bitfield": "Permissions for Bitfield {BITFIELD}",
 		"user": "Permissions of {USER}"
@@ -347,7 +355,9 @@
 		"emojianimated": "Animated emojis",
 		"emojinotanimated": "Normal emojis",
 		"members": "Members",
+		"newestuser": "Newest account",
 		"notifications": "Notifications",
+		"oldestuser": "Oldest account",
 		"owner": "Owner",
 		"text": "Text channels",
 		"verilvl": "Verification level",
