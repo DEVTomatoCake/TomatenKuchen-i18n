@@ -203,7 +203,8 @@
 		"fixversion": "Keine",
 		"linked": "Verlinkt",
 		"missing": "Du musst eine Minecraft-Bugreport-ID angeben",
-		"more": "...und **{AMOUNT}** weitere",
+		"more": "…und **{AMOUNT}** weitere",
+		"solution": "Lösung",
 		"unknown": "Diesen Minecraft-Bugreport gibt es nicht"
 	},
 	"mclint": {
@@ -278,6 +279,12 @@
 		"missing": "Du musst ein Element angeben",
 		"unknown": "Unbekanntes Element"
 	},
+	"permission": {
+		"closed": "Dein privater Sprachkanal wurde geschlossen",
+		"notprivatevoice": "Du bist nicht in deinem privaten Sprachkanal",
+		"opened": "Dein privater Sprachkanal wurde geöffnet",
+		"reset": "Die Rechte für deinen privaten Kanal wurden zurückgesetzt"
+	},
 	"permissions": {
 		"bitfield": "Berechtigungen für Bitfield {BITFIELD}",
 		"user": "Berechtigungen von {USER}"
@@ -348,7 +355,9 @@
 		"emojianimated": "Animierte Emojis",
 		"emojinotanimated": "Normale Emojis",
 		"members": "Mitglieder",
+		"newestuser": "Neuster Account",
 		"notifications": "Benachrichtigungen",
+		"oldestuser": "Ältester Account",
 		"owner": "Besitzer",
 		"text": "Textkanäle",
 		"verilvl": "Verifizierungslevel",
