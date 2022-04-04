@@ -311,6 +311,10 @@
 		"single": "**One** message was deleted:{MESSAGES}"
 	},
 	"reactionrole": {
+		"created": "The reactionrole was created",
+		"deleted": "The reactionrole was deleted",
+		"missing": "You must add the message id of the reactionrole",
+		"unknown": "This reactionrole doesn't exist",
 		"unknownchannel": "Unknown channel!",
 		"unknownemoji": "Unknown emoji!",
 		"unknownmessage": "Unknown message!",
@@ -388,11 +392,13 @@
 	},
 	"suggest": {
 		"approved": "The suggestion **#{ID}** has been accepted!",
+		"denied": "The suggestion **#{ID}** has been denied!",
 		"edit": "The suggestion **#{ID}** has been edited!",
 		"lastedit": "Last edited",
 		"missingreply": "You musst add a suggestion and a reply",
 		"missingsuggestion": "You must add a suggestion",
 		"nochannel": "There is no suggestion channel set!",
+		"replied": "The reply on the suggestion **#{ID}** was saved!",
 		"replyfrom": "Reply from {USER}",
 		"title": "Suggestion",
 		"unknownmessage": "This suggestion doesn't exist"
@@ -429,6 +435,11 @@
 	"ticketembed": {
 		"button": "Create Ticket",
 		"description": "To create a ticket click on \"Create Ticket\""
+	},
+	"tickets": {
+		"nosaved": "There are no saved tickets!",
+		"sendchannel": "The ticket logs are shown here:",
+		"senddm": "The ticket logs were sent to you by dm if the bot could dm you!"
 	},
 	"todo": {
 		"add": "The entry was added",
