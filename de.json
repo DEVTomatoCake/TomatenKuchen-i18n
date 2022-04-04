@@ -73,7 +73,7 @@
 	},
 	"economy": {
 		"cooldown": "Du hast noch einen Cooldown für diesen Befehl: **{COOLDOWN}**",
-		"day": "jeden Tag",
+		"day": "pro Tag",
 		"deposit": "Du hast **{AMOUNT}** auf die Bank eingezahlt",
 		"invalidamount": "Du musst einen gültigen Betrag angeben",
 		"job": "Beruf",
@@ -162,7 +162,6 @@
 		"unknown": "Unbekannter Befehl/Kategorie!",
 		"usage": "Verwendung"
 	},
-	"hours": "Stunden",
 	"imageloadfail": "Das Bild kann nicht geladen werden",
 	"invaliduser": "Du musst einen Nutzer angeben",
 	"invite": "Bot einladen",
