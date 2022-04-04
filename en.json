@@ -81,7 +81,7 @@
 		"notenough": "You don't have enough cash",
 		"wallet": "Cash",
 		"withdraw": "You have withdrawn **{AMOUNT}**",
-		"zinsen": "Interest every"
+		"zinsen": "Interest per day"
 	},
 	"embed": {
 		"error": "The embed couldn't be sent",
