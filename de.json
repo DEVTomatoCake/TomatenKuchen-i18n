@@ -393,6 +393,7 @@
 		"missingreply": "Du musst einen Vorschlag und eine Antwort angeben",
 		"missingsuggestion": "Du musst einen Vorschlag angeben",
 		"nochannel": "Es wurde kein Kanal für Vorschläge festgelegt!",
+		"replied": "Die Antwort auf den Vorschlag **#{ID}** wurde gespeichert!",
 		"replyfrom": "Antwort von {USER}",
 		"title": "Vorschlag",
 		"unknownmessage": "Diesen Vorschlag gibt es nicht"
@@ -418,7 +419,6 @@
 		"createdbutton": "Dein Ticket wurde erstellt!",
 		"deletebutton": "Ticket löschen",
 		"deleting": "#{CHANNEL} wurde gelöscht",
-		"nosaved": "Es sind keine Tickets gespeichert!",
 		"notclosed": "Dieser Kanal ist kein geschlossenes Ticket",
 		"noticket": "Dieser Kanal ist kein Ticket",
 		"notranscript": "Es wurde kein automatisches Transcript erstellt, da zu wenig Nachrichten in dem Ticket gesendet wurden. Solltest du dennoch eins brauchen, nutze `{PREFIX}transcript`.",
@@ -430,6 +430,10 @@
 	"ticketembed": {
 		"button": "Ticket erstellen",
 		"description": "Um ein Ticket zu erstellen klicke auf \"Ticket erstellen\""
+	},
+	"tickets": {
+		"sendchannel": "Die Ticketlogs werden hier angezeigt:",
+		"senddm": "Die Ticketlogs wurden dir per PN zugeschickt, wenn der Bot dich anschreiben kann!"
 	},
 	"todo": {
 		"add": "Der Eintrag wurde hinzugefügt",
