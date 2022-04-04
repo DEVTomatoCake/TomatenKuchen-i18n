@@ -161,7 +161,6 @@
 		"unknown": "Unknown command/category!",
 		"usage": "Usage"
 	},
-	"hours": "hours",
 	"imageloadfail": "The image couldn't be loaded",
 	"invaliduser": "You must enter a valid user",
 	"invite": "Bot invite",
