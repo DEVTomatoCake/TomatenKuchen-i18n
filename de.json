@@ -73,6 +73,7 @@
 	},
 	"economy": {
 		"cooldown": "Du hast noch einen Cooldown für diesen Befehl: **{COOLDOWN}**",
+		"day": "jeden Tag",
 		"deposit": "Du hast **{AMOUNT}** auf die Bank eingezahlt",
 		"invalidamount": "Du musst einen gültigen Betrag angeben",
 		"job": "Beruf",
