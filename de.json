@@ -358,11 +358,13 @@
 		"emojianimated": "Animierte Emojis",
 		"emojinotanimated": "Normale Emojis",
 		"members": "Mitglieder",
+		"newestmember": "Neustes Mitglied",
 		"newestuser": "Neuster Account",
 		"notifications": "Benachrichtigungen",
 		"oldestuser": "Ältester Account",
 		"owner": "Besitzer",
 		"text": "Textkanäle",
+		"toomanyroles": "*Zu viele Rollen*",
 		"verilvl": "Verifizierungslevel",
 		"voice": "Sprachkanäle"
 	},
