@@ -73,7 +73,6 @@
 	},
 	"economy": {
 		"cooldown": "Du hast noch einen Cooldown für diesen Befehl: **{COOLDOWN}**",
-		"day": "pro Tag",
 		"deposit": "Du hast **{AMOUNT}** auf die Bank eingezahlt",
 		"invalidamount": "Du musst einen gültigen Betrag angeben",
 		"job": "Beruf",
@@ -82,7 +81,7 @@
 		"notenough": "Du hast nicht so viel Bargeld",
 		"wallet": "Bargeld",
 		"withdraw": "Du hast **{AMOUNT}** von der Bank abgehoben",
-		"zinsen": "Zinsen alle"
+		"zinsen": "Zinsen pro Tag"
 	},
 	"embed": {
 		"error": "Das Embed kann nicht gesendet werden",
