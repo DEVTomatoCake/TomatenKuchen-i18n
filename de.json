@@ -311,6 +311,10 @@
 		"single": "Es wurde **eine** Nachricht gelöscht:{MESSAGES}"
 	},
 	"reactionrole": {
+		"created": "Die Reactionrole wurde erstellt",
+		"deleted": "Die Reactionrole wurde gelöscht",
+		"missing": "Du musst die Nachrichten-ID der Reactionrole angeben",
+		"unknown": "Diese Reactionrole gibt es nicht",
 		"unknownchannel": "Unbekannter Kanal!",
 		"unknownemoji": "Unbekanntes Emoji!",
 		"unknownmessage": "Unbekannte Nachricht!",
@@ -388,6 +392,7 @@
 	},
 	"suggest": {
 		"approved": "Der Vorschlag **#{ID}** wurde angenommen!",
+		"denied": "Der Vorschlag **#{ID}** wurde abgelehnt!",
 		"edit": "Der Vorschlag **#{ID}** wurde bearbeitet!",
 		"lastedit": "Zuletzt bearbeitet",
 		"missingreply": "Du musst einen Vorschlag und eine Antwort angeben",
@@ -432,6 +437,7 @@
 		"description": "Um ein Ticket zu erstellen klicke auf \"Ticket erstellen\""
 	},
 	"tickets": {
+		"nosaved": "Es sind keine Tickets gespeichert!",
 		"sendchannel": "Die Ticketlogs werden hier angezeigt:",
 		"senddm": "Die Ticketlogs wurden dir per PN zugeschickt, wenn der Bot dich anschreiben kann!"
 	},
