@@ -78,6 +78,7 @@
 		"job": "Beruf",
 		"missingamount": "Du musst Geld angeben",
 		"nobot": "Du darfst einem Bot kein Geld geben",
+		"nojob": "Keiner",
 		"notenough": "Du hast nicht so viel Bargeld",
 		"wallet": "Bargeld",
 		"withdraw": "Du hast **{AMOUNT}** von der Bank abgehoben",
