@@ -370,11 +370,13 @@
 		"voice": "Voice channels"
 	},
 	"setup": {
+		"created": "The ticket category was created",
 		"deleted": "The ticket category has been deleted",
 		"invalidcategory": "The provided ticket target category id is invalid",
 		"invalidmessage": "The provided ticket embed message id is invalid",
 		"limit": "Servers without premium may not use more than **{AMOUNT}** ticket categories",
-		"missingperms": "I don't have enough permissions for that category"
+		"missingperms": "I don't have enough permissions for that category",
+		"unknown": "The ticket category **{ID}** couldn't be found"
 	},
 	"shop": {
 		"notenough": "You don't have enough tomatoes",
