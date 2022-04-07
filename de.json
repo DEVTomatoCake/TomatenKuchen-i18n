@@ -370,11 +370,13 @@
 		"voice": "Sprachkanäle"
 	},
 	"setup": {
+		"created": "Die Ticket-Kategorie wurde erstellt",
 		"deleted": "Die Ticket-Kategorie wurde gelöscht",
 		"invalidcategory": "Die Ticket-Ziel-Kategorie-ID ist ungültig",
 		"invalidmessage": "Die Ticket-Embed-Nachrichten-ID ist ungültig",
 		"limit": "Server ohne Premium dürfen maximal **{AMOUNT}** Ticket-Kategorien erstellen",
-		"missingperms": "Ich habe nicht genug Berechtigungen in der Kategorie"
+		"missingperms": "Ich habe nicht genug Berechtigungen in der Kategorie",
+		"unknown": "Die Ticketkategorie **{ID}** wurde nicht gefunden"
 	},
 	"shop": {
 		"notenough": "Du hast nicht genug Tomaten dafür",
