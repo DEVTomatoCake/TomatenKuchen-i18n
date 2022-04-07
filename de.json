@@ -10,6 +10,7 @@
 	"afk": {
 		"afk": "{USER} ist afk!",
 		"end": "Du bist nicht länger afk!\nDu warst **{TIME}** abwesend.",
+		"mentions": "Erwähnungen",
 		"reason": "Grund",
 		"set": "Dein AFK-Status wurde gesetzt",
 		"since": "Seit"
@@ -376,7 +377,7 @@
 		"invalidmessage": "Die Ticket-Embed-Nachrichten-ID ist ungültig",
 		"limit": "Server ohne Premium dürfen maximal **{AMOUNT}** Ticket-Kategorien erstellen",
 		"missingperms": "Ich habe nicht genug Berechtigungen in der Kategorie",
-		"unknown": "Die Ticketkategorie **{ID}** wurde nicht gefunden"
+		"unknown": "Die Ticket-Kategorie **{ID}** wurde nicht gefunden"
 	},
 	"shop": {
 		"notenough": "Du hast nicht genug Tomaten dafür",
