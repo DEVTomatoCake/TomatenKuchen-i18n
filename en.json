@@ -10,6 +10,7 @@
 	"afk": {
 		"afk": "{USER} is afk!",
 		"end": "You're no longer afk!\nYou were **{TIME}** afk.",
+		"mentions": "Mentions",
 		"reason": "Reason",
 		"set": "Your afk state has been set",
 		"since": "Since"
