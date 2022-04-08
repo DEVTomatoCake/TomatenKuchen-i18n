@@ -325,7 +325,7 @@
 		"endsin": "Ends at",
 		"limit": "You may not have more than **5** reminders at the same time",
 		"missingtime": "You must enter a valid time",
-		"your": "Your reminder"
+		"your": "Your reminders"
 	},
 	"remove": {
 		"fail": "The user couldn't be removed from this channel",
