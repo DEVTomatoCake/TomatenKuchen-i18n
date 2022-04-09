@@ -322,6 +322,7 @@
 		"unknownrole": "Unknown role!"
 	},
 	"remind": {
+		"deleted": "Your reminders have been deleted",
 		"endsin": "Ends at",
 		"limit": "You may not have more than **5** reminders at the same time",
 		"missingtime": "You must enter a valid time",
@@ -492,7 +493,7 @@
 		"lose": {
 			"time": "You were too slow!"
 		},
-		"win": "Well done! Took **{TIME}** seconds.\nYou earned **{AMOUNT}** tomatoes!"
+		"win": "Well done! Took **{TIME}** seconds and you earned **{AMOUNT}** tomatoes!"
 	},
 	"ytsearch": {
 		"error": "The results couldn't be fetched",
