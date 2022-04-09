@@ -493,7 +493,7 @@
 		"lose": {
 			"time": "Du warst zu langsam!"
 		},
-		"win": "Gut gemacht! Du hast **{TIME}** Sekunden benötigt.\nDu hast **{AMOUNT}** Tomaten erhalten!"
+		"win": "Gut gemacht! Du hast **{TIME}** Sekunden benötigt und **{AMOUNT}** Tomaten erhalten!"
 	},
 	"ytsearch": {
 		"error": "Die Ergebnisse können nicht abgefragt werden",
