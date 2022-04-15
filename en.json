@@ -311,6 +311,7 @@
 		"nonedeleted": "No messages have been deleted",
 		"single": "**One** message was deleted:{MESSAGES}"
 	},
+	"quoted": "Message sent by **{AUTHOR}** on **{GUILD}** on {DATE} :",
 	"reactionrole": {
 		"created": "The reactionrole was created",
 		"deleted": "The reactionrole was deleted",
