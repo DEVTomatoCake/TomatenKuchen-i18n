@@ -27,6 +27,7 @@
 		"title": "**{AMOUNT}** users are banned:"
 	},
 	"bot": {
+		"cached": "Cached",
 		"commands": "Commands",
 		"unknownguild": "Unknown guild"
 	},
@@ -57,6 +58,7 @@
 	},
 	"dataexport": "Your data will be send by dm",
 	"dehoist": {
+		"found": "**{AMOUNT}** users were found with a hoist-name, renaming…",
 		"none": "Couldn't find users to dehoist"
 	},
 	"diff": {
@@ -78,6 +80,7 @@
 		"invalidamount": "You must add a valid amount",
 		"job": "Job",
 		"missingamount": "You must add money",
+		"missinguservalue": "You must add a user and a value",
 		"nobot": "You can't send money to a bot",
 		"nojob": "None",
 		"notenough": "You don't have enough cash",
@@ -162,6 +165,9 @@
 		},
 		"unknown": "Unknown command/category!",
 		"usage": "Usage"
+	},
+	"http": {
+		"unknown": "Unknown code/header"
 	},
 	"imageloadfail": "The image couldn't be loaded",
 	"invaliduser": "You must enter a valid user",
@@ -382,6 +388,7 @@
 		"unknown": "The ticket category **{ID}** couldn't be found"
 	},
 	"shop": {
+		"footer": "Use {PREFIX}shop <Name> to buy an item",
 		"notenough": "You don't have enough tomatoes",
 		"shovel": {
 			"fail": "You already have a shovel",
@@ -479,8 +486,10 @@
 	},
 	"users": "Users",
 	"usersettings": {
+		"deleted": "The setting **{SETTING}** was deleted",
 		"invalidcolor": "You must add a valid color code",
-		"unknown": "This setting doesn't exist"
+		"unknown": "This setting doesn't exist",
+		"updated": "The settings **{SETTING}** was updated:"
 	},
 	"warn": {
 		"cantwarn": "You may not warn **{USER}**",
