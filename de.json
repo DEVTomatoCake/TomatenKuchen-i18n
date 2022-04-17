@@ -27,6 +27,7 @@
 		"title": "**{AMOUNT}** Nutzer sind gebannt:"
 	},
 	"bot": {
+		"cached": "Im Cache",
 		"commands": "Befehle",
 		"unknownguild": "Unbekannter Server"
 	},
@@ -57,7 +58,7 @@
 	},
 	"dataexport": "Deine Daten werden dir per PN zugeschickt",
 	"dehoist": {
-		"found": "Es wurden **{AMOUNT}** Nutzer mit einem Hoist-Namen gefunden, Umbenennung wird gestartet...",
+		"found": "Es wurden **{AMOUNT}** Nutzer mit einem Hoist-Namen gefunden, Umbenennung wird gestartet…",
 		"none": "Es wurden keine Nutzer zum Dehoisten gefunden"
 	},
 	"diff": {
@@ -164,6 +165,9 @@
 		},
 		"unknown": "Unbekannter Befehl/Kategorie!",
 		"usage": "Verwendung"
+	},
+	"http": {
+		"unknown": "Unbekannter Code/Header"
 	},
 	"imageloadfail": "Das Bild kann nicht geladen werden",
 	"invaliduser": "Du musst einen Nutzer angeben",
