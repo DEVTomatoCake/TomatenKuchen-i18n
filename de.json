@@ -57,6 +57,7 @@
 	},
 	"dataexport": "Deine Daten werden dir per PN zugeschickt",
 	"dehoist": {
+		"found": "Es wurden **{AMOUNT}** Nutzer mit einem Hoist-Namen gefunden, Umbenennung wird gestartet...",
 		"none": "Es wurden keine Nutzer zum Dehoisten gefunden"
 	},
 	"diff": {
@@ -78,6 +79,7 @@
 		"invalidamount": "Du musst einen gültigen Betrag angeben",
 		"job": "Beruf",
 		"missingamount": "Du musst Geld angeben",
+		"missinguservalue": "Du musst einen Nutzer und einen Betrag angeben",
 		"nobot": "Du darfst einem Bot kein Geld geben",
 		"nojob": "Keiner",
 		"notenough": "Du hast nicht so viel Bargeld",
@@ -382,6 +384,7 @@
 		"unknown": "Die Ticket-Kategorie **{ID}** wurde nicht gefunden"
 	},
 	"shop": {
+		"footer": "Nutze {PREFIX}shop <Name>, um einen Gegenstand zu kaufen",
 		"notenough": "Du hast nicht genug Tomaten dafür",
 		"shovel": {
 			"fail": "Du hast schon eine Schaufel",
@@ -479,8 +482,10 @@
 	},
 	"users": "Nutzer",
 	"usersettings": {
+		"deleted": "Die Einstellung **{SETTING}** wurde gelöscht",
 		"invalidcolor": "Du musst einen gültigen Farb-Code angeben",
-		"unknown": "Diese Einstellung gibt es nicht"
+		"unknown": "Diese Einstellung gibt es nicht",
+		"updated": "Die Einstellung **{SETTING}** wurde aktualisiert:"
 	},
 	"warn": {
 		"cantwarn": "Du darfst **{USER}** nicht verwarnen",
