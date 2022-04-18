@@ -397,7 +397,7 @@
 		"unknown": "Den Gegenstand gibt es nicht"
 	},
 	"slots": {
-		"invalid": "Die Zahl muss größer als 0 und kleiner als 100000 sein."
+		"invalid": "Die Zahl muss größer als 0 und kleiner als 50000 sein."
 	},
 	"slowmode": {
 		"error": "Der Slowmode konnte nicht gesetzt werden",
