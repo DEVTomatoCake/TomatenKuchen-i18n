@@ -397,7 +397,7 @@
 		"unknown": "This item doesn't exist"
 	},
 	"slots": {
-		"invalid": "The amount must be bigger than 0 and smaller than 100000."
+		"invalid": "The amount must be bigger than 0 and smaller than 50000."
 	},
 	"slowmode": {
 		"error": "An error occured while setting the slowmode",
