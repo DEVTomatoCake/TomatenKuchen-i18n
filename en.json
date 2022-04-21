@@ -388,7 +388,7 @@
 		"unknown": "The ticket category **{ID}** couldn't be found"
 	},
 	"shop": {
-		"footer": "Use {PREFIX}shop <Name> to buy an item",
+		"footer": "Use {PREFIX}shop buy <Name> to buy an item",
 		"notenough": "You don't have enough tomatoes",
 		"shovel": {
 			"fail": "You already have a shovel",
