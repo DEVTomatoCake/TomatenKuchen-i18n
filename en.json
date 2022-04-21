@@ -233,6 +233,10 @@
 		"nsfw": "The meme was marked as nsfw"
 	},
 	"mention": "Mention",
+	"message": {
+		"noreference": "You must reply to a message",
+		"noslash": "You can't use this command with slashcommands"
+	},
 	"minecraft": {
 		"missing": "You must add a player name",
 		"unknown": "Unknown player"
@@ -246,6 +250,10 @@
 	"modlogs": {
 		"date": "Date",
 		"none": "The user doens't has any modlogs"
+	},
+	"moneydrop": {
+		"invalid": "The value must be bigger than 0",
+		"invalidmin": "You must add a valid minimum value"
 	},
 	"music": {
 		"by": "by",
@@ -397,7 +405,7 @@
 		"unknown": "This item doesn't exist"
 	},
 	"slots": {
-		"invalid": "The amount must be bigger than 0 and smaller than 50000."
+		"invalid": "The amount must be greater than 0 and less than 50000."
 	},
 	"slowmode": {
 		"error": "An error occured while setting the slowmode",
