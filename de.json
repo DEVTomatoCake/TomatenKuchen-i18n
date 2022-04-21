@@ -233,6 +233,10 @@
 		"nsfw": "Das Meme wurde als nicht jugendfrei markiert"
 	},
 	"mention": "Erwähnung",
+	"message": {
+		"noreference": "Du musst auf eine Nachricht antworten",
+		"noslash": "Diesen Befehl kannst du nicht mit Slashcommands nutzen"
+	},
 	"minecraft": {
 		"missing": "Du musst einen Spielernamen angeben",
 		"unknown": "Unbekannter Spieler"
@@ -246,6 +250,10 @@
 	"modlogs": {
 		"date": "Datum",
 		"none": "Der Nutzer hat noch keine Modlogs"
+	},
+	"moneydrop": {
+		"invalid": "Der Betrag muss größer als 0 sein",
+		"invalidmin": "Du musst einen gültigen Mindest-Betrag angeben"
 	},
 	"music": {
 		"by": "von",
@@ -397,7 +405,7 @@
 		"unknown": "Den Gegenstand gibt es nicht"
 	},
 	"slots": {
-		"invalid": "Die Zahl muss größer als 0 und kleiner als 50000 sein."
+		"invalid": "Der Betrag muss größer als 0 und kleiner als 50000 sein."
 	},
 	"slowmode": {
 		"error": "Der Slowmode konnte nicht gesetzt werden",
