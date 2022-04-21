@@ -388,7 +388,7 @@
 		"unknown": "Die Ticket-Kategorie **{ID}** wurde nicht gefunden"
 	},
 	"shop": {
-		"footer": "Nutze {PREFIX}shop <Name>, um einen Gegenstand zu kaufen",
+		"footer": "Nutze {PREFIX}shop buy <Name>, um einen Gegenstand zu kaufen",
 		"notenough": "Du hast nicht genug Tomaten dafür",
 		"shovel": {
 			"fail": "Du hast schon eine Schaufel",
