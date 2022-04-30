@@ -5,7 +5,8 @@
 	},
 	"addemoji": {
 		"missing": "Du musst ein Emoji angeben",
-		"success": "Das Emoji {EMOJI} wurde mit dem Namen `{NAME}` hinzugefügt!"
+		"success": "Das Emoji {EMOJI} wurde mit dem Namen `{NAME}` hinzugefügt!",
+		"successnoname": "Das Emoji {EMOJI} wurde hinzugefügt!"
 	},
 	"afk": {
 		"afk": "{USER} ist afk!",
