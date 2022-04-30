@@ -96,7 +96,7 @@
 	"emoji": {
 		"animated": "Animiert",
 		"notanimated": "Nicht animiert",
-		"of": "Emojis von {GUILD}"
+		"of": "Emojis von **{GUILD}**"
 	},
 	"eval": {
 		"error": "Fehler",
