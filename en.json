@@ -5,7 +5,8 @@
 	},
 	"addemoji": {
 		"missing": "You need to specify an emoji",
-		"success": "The emoji {EMOJI} was added with the name `{NAME}`!"
+		"success": "The emoji {EMOJI} was added with the name `{NAME}`!",
+		"successnoname": "The emoji {EMOJI} was added!"
 	},
 	"afk": {
 		"afk": "{USER} is afk!",
@@ -95,7 +96,7 @@
 	"emoji": {
 		"animated": "Animated",
 		"notanimated": "Not animated",
-		"of": "Emojis of {GUILD}"
+		"of": "Emojis of **{GUILD}**"
 	},
 	"eval": {
 		"error": "Error",
