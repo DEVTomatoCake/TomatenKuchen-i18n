@@ -71,9 +71,6 @@
 		"missingshovel": "You need a shovel to use this command",
 		"nothingfound": "You've sadly found nothing"
 	},
-	"discordjs": {
-		"error": "The API is not available"
-	},
 	"economy": {
 		"cooldown": "You still have a cooldown for this command: **{COOLDOWN}**",
 		"deposit": "You have deposited **{AMOUNT}**",
