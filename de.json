@@ -72,8 +72,7 @@
 		"nothingfound": "Du hast leider nichts gefunden"
 	},
 	"discordjs": {
-		"error": "Die API ist nicht erreichbar",
-		"unknown": "Es wurden keine Einträge in den Docs gefunden"
+		"error": "Die API ist nicht erreichbar"
 	},
 	"economy": {
 		"cooldown": "Du hast noch einen Cooldown für diesen Befehl: **{COOLDOWN}**",
