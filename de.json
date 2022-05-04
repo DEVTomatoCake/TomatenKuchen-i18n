@@ -71,9 +71,6 @@
 		"missingshovel": "Du brauchst eine Schaufel, um diesen Befehl nutzen zu können",
 		"nothingfound": "Du hast leider nichts gefunden"
 	},
-	"discordjs": {
-		"error": "Die API ist nicht erreichbar"
-	},
 	"economy": {
 		"cooldown": "Du hast noch einen Cooldown für diesen Befehl: **{COOLDOWN}**",
 		"deposit": "Du hast **{AMOUNT}** auf die Bank eingezahlt",
