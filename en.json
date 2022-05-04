@@ -72,8 +72,7 @@
 		"nothingfound": "You've sadly found nothing"
 	},
 	"discordjs": {
-		"error": "The API is not available",
-		"unknown": "I couldn't find this in the docs"
+		"error": "The API is not available"
 	},
 	"economy": {
 		"cooldown": "You still have a cooldown for this command: **{COOLDOWN}**",
