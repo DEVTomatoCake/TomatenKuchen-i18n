@@ -305,6 +305,7 @@
 		"title": "Pinge…"
 	},
 	"play": {
+		"queueended": "Die Queue wurde beendet!",
 		"streamerror": "Beim Streamen ist ein Fehler aufgetreten"
 	},
 	"poll": {
@@ -429,6 +430,9 @@
 	"template": {
 		"cancel": "Das Laden vom Template wurde abgebrochen",
 		"unknown": "Dieses Template gibt es nicht"
+	},
+	"text": {
+		"failed": "Der Webhook konnte nicht erstellt werden (Limit von 10 Webhooks erreicht?)"
 	},
 	"threads": {
 		"all": "Alle Threads",
