@@ -305,6 +305,7 @@
 		"title": "Pinging…"
 	},
 	"play": {
+		"queueended": "The queue has ended!",
 		"streamerror": "An error occured while streaming"
 	},
 	"poll": {
@@ -429,6 +430,9 @@
 	"template": {
 		"cancel": "The template loading has been cancelled",
 		"unknown": "This template doesn't exist"
+	},
+	"text": {
+		"failed": "The webhook couldn't be created (limit of 10 webhooks reached?)"
 	},
 	"threads": {
 		"all": "All threads",
