@@ -30,7 +30,12 @@
 	"bot": {
 		"cached": "Cached",
 		"commands": "Commands",
-		"unknownguild": "Unknown guild"
+		"commandsused": "Used commands",
+		"mostused": "Most used commands",
+		"shortuptimeformat": "D [days], H [hours], m [minutes]",
+		"speed": "Speed",
+		"unknownguild": "Unknown guild",
+		"uptimeformat": "D [days], H [hours], m [minutes], s [seconds]"
 	},
 	"calc": {
 		"invalid": "Invalid syntax",
@@ -92,7 +97,10 @@
 	"emoji": {
 		"animated": "Animated",
 		"notanimated": "Not animated",
-		"of": "Emojis of **{GUILD}**"
+		"of": "Emojis of **{GUILD}**",
+		"search": {
+			"notfound": "No emojis were found"
+		}
 	},
 	"eval": {
 		"error": "Error",
@@ -208,6 +216,7 @@
 		"linked": "Linked",
 		"missing": "You must add a minecraft bugreport id",
 		"more": "…and **{AMOUNT}** more",
+		"sinceversion": "Since version",
 		"solution": "Solution",
 		"unknown": "This minecraft bugreport doesn't exist"
 	},
@@ -491,6 +500,7 @@
 		"joined": "Joined",
 		"permissions": "Permissions",
 		"roles": "Roles",
+		"user": "User",
 		"voice": "Voice channel"
 	},
 	"users": "Users",
