@@ -30,7 +30,12 @@
 	"bot": {
 		"cached": "Im Cache",
 		"commands": "Befehle",
-		"unknownguild": "Unbekannter Server"
+		"commandsused": "Befehle genutzt",
+		"mostused": "Oft genutzte Befehle",
+		"shortuptimeformat": "D [Tage], H [Stunden], m [Minuten]",
+		"speed": "Geschwindigkeit",
+		"unknownguild": "Unbekannter Server",
+		"uptimeformat": "D [Tage], H [Stunden], m [Minuten], s [Sekunden]"
 	},
 	"calc": {
 		"invalid": "Ungültige Syntax",
@@ -211,6 +216,7 @@
 		"linked": "Verlinkt",
 		"missing": "Du musst eine Minecraft-Bugreport-ID angeben",
 		"more": "…und **{AMOUNT}** weitere",
+		"sinceversion": "Seit Version",
 		"solution": "Lösung",
 		"unknown": "Diesen Minecraft-Bugreport gibt es nicht"
 	},
@@ -494,6 +500,7 @@
 		"joined": "Beigetreten",
 		"permissions": "Berechtigungen",
 		"roles": "Rollen",
+		"user": "Nutzer",
 		"voice": "Sprachkanal"
 	},
 	"users": "Nutzer",
