@@ -20,6 +20,7 @@
 		"mentions": "Du darfst nicht so viele Nutzer in einer Nachricht erwähnen"
 	},
 	"ban": {
+		"alreadybanned": "Der Nutzer ist bereits gebannt",
 		"fail": "Der Nutzer konnte nicht gebannt werden",
 		"success": "**{MOD}** hat **{USER}** gebannt: {REASON}"
 	},
@@ -83,7 +84,9 @@
 		"job": "Beruf",
 		"missingamount": "Du musst Geld angeben",
 		"missinguservalue": "Du musst einen Nutzer und einen Betrag angeben",
+		"nobank": "Du kannst nichts von der Bank abheben, weil du dort kein Geld hast",
 		"nobot": "Du darfst einem Bot kein Geld geben",
+		"nocash": "Du kannst nichts einzahlen, weil du kein Bargeld hast",
 		"nojob": "Keiner",
 		"notenough": "Du hast nicht so viel Bargeld",
 		"wallet": "Bargeld",
