@@ -364,7 +364,6 @@
 			"start": "Ich füge **{MEMBERCOUNT}** Mitgliedern die Rolle **{ROLE}** hinzu"
 		},
 		"massremove": {
-			"error": "Es ist ein Fehler beim Entfernen der Rolle aufgetreten",
 			"start": "Ich entferne von **{MEMBERCOUNT}** Mitgliedern die Rolle **{ROLE}**"
 		},
 		"missing": "Du musst eine Aktion und eine Rolle angeben",
