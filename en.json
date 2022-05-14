@@ -20,6 +20,7 @@
 		"mentions": "You may not mention so many users in a message"
 	},
 	"ban": {
+		"alreadybanned": "The user is already banned",
 		"fail": "The user couldn't be banned",
 		"success": "**{MOD}** banned **{USER}**: {REASON}"
 	},
@@ -83,7 +84,9 @@
 		"job": "Job",
 		"missingamount": "You must add money",
 		"missinguservalue": "You must add a user and a value",
+		"nobank": "You can't withdraw from the bank because you don't have money there",
 		"nobot": "You can't send money to a bot",
+		"nocash": "You can't deposit money because you dont have any cash",
 		"nojob": "None",
 		"notenough": "You don't have enough cash",
 		"wallet": "Cash",
