@@ -361,9 +361,11 @@
 		"botcount": "**{COUNT}** bots with the role",
 		"list": "List of all roles:",
 		"massadd": {
+			"finish": "**{MEMBERCOUNT}** users were added to **{ROLE}**, but the role couldn't be added to **{FAILED}** users",
 			"start": "I'll add the role **{ROLE}** to **{MEMBERCOUNT}** members"
 		},
 		"massremove": {
+			"finish": "The role **{ROLE}** was added to **{MEMBERCOUNT}** users, but it couldn't be removed from **{FAILED}** users",
 			"start": "I'll remove the role **{ROLE}** from **{MEMBERCOUNT}** members"
 		},
 		"missing": "You must enter an action and a role",
