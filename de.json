@@ -361,9 +361,11 @@
 		"botcount": "**{COUNT}** Bots mit der Rolle",
 		"list": "Liste aller Rollen:",
 		"massadd": {
+			"finish": "**{MEMBERCOUNT}** Nutzern wurde die Rolle **{ROLE}** hinzugefügt, **{FAILED}** Nutzern konnte sie nicht hinzugefügt werden",
 			"start": "Ich füge **{MEMBERCOUNT}** Mitgliedern die Rolle **{ROLE}** hinzu"
 		},
 		"massremove": {
+			"finish": "**{MEMBERCOUNT}** Nutzern wurde die Rolle **{ROLE}** entfernt, **{FAILED}** Nutzern konnte sie nicht entfernt werden",
 			"start": "Ich entferne von **{MEMBERCOUNT}** Mitgliedern die Rolle **{ROLE}**"
 		},
 		"missing": "Du musst eine Aktion und eine Rolle angeben",
