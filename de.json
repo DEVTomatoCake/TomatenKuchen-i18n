@@ -361,7 +361,6 @@
 		"botcount": "**{COUNT}** Bots mit der Rolle",
 		"list": "Liste aller Rollen:",
 		"massadd": {
-			"error": "Es ist ein Fehler beim Hinzufügen der Rolle aufgetreten",
 			"start": "Ich füge **{MEMBERCOUNT}** Mitgliedern die Rolle **{ROLE}** hinzu"
 		},
 		"massremove": {
