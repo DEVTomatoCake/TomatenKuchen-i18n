@@ -206,6 +206,11 @@
 	"level": {
 		"disabled": "Level sind hier deaktiviert"
 	},
+	"lock": {
+		"channel": {
+			"unlock": "Der Kanal wurde entlockt"
+		}
+	},
 	"lyrics": {
 		"missing": "Du musst einen Songnamen angeben",
 		"unknown": "Es wurde kein Song gefunden"
