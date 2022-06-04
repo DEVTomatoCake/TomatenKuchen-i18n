@@ -53,7 +53,7 @@
 		"userlimit": "Userlimit"
 	},
 	"channels": "Channels",
-	"commanderror": "Whilst executing the command `{COMMAND}` an error occured!",
+	"commanderror": "Whilst executing the command `{COMMAND}` an error occurred!",
 	"cooldown": "You still have a cooldown!",
 	"customcommand": {
 		"created": "The command **{NAME}** was created",
@@ -318,7 +318,7 @@
 	},
 	"play": {
 		"queueended": "The queue has ended!",
-		"streamerror": "An error occured while streaming"
+		"streamerror": "An error occurred while streaming"
 	},
 	"poll": {
 		"ended": "Poll ended",
@@ -418,7 +418,7 @@
 		"invalid": "The amount must be greater than 0 and less than 50000."
 	},
 	"slowmode": {
-		"error": "An error occured while setting the slowmode",
+		"error": "An error occurred while setting the slowmode",
 		"missing": "You must enter a valid slowmode time",
 		"updated": "The slowmode has been set to **{TIME}** seconds"
 	},
@@ -427,7 +427,7 @@
 		"denied": "The suggestion **#{ID}** has been denied!",
 		"edit": "The suggestion **#{ID}** has been edited!",
 		"lastedit": "Last edited",
-		"missingreply": "You musst add a suggestion and a reply",
+		"missingreply": "You must add a suggestion and a reply",
 		"missingsuggestion": "You must add a suggestion",
 		"nochannel": "There is no suggestion channel set!",
 		"replied": "The reply on the suggestion **#{ID}** was saved!",
