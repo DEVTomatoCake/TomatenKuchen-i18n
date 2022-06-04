@@ -208,7 +208,11 @@
 	},
 	"lock": {
 		"channel": {
+			"lock": "Der Kanal wurde gelockt",
 			"unlock": "Der Kanal wurde entlockt"
+		},
+		"server": {
+			"lock": "Der Server wurde gelockt"
 		}
 	},
 	"lyrics": {
@@ -292,6 +296,9 @@
 		"fail": "Der Nutzer konnte nicht gemuted werden",
 		"invalidtime": "Du musst eine gültige Dauer angeben"
 	},
+	"nitroverify": {
+		"disabled": "Auf diesem Server ist keine Nitro-Verifizierung aktiviert"
+	},
 	"noinvites": "Du darfst hier keine Einladungen senden",
 	"none": "Kein",
 	"noreason": "Kein Grund angegeben",
@@ -312,7 +319,12 @@
 		"closed": "Dein privater Sprachkanal wurde geschlossen",
 		"notprivatevoice": "Du bist nicht in deinem privaten Sprachkanal",
 		"opened": "Dein privater Sprachkanal wurde geöffnet",
-		"reset": "Die Rechte für deinen privaten Kanal wurden zurückgesetzt"
+		"reset": "Die Rechte für deinen privaten Kanal wurden zurückgesetzt",
+		"userlimit": {
+			"missing": "Du musst ein Limit angeben",
+			"remove": "Das Nutzerlimit wurde entfernt",
+			"set": "Das Nutzerlimit wurde auf **{LIMIT}** gesetzt"
+		}
 	},
 	"permissions": {
 		"bitfield": "Berechtigungen für Bitfield {BITFIELD}",
@@ -426,6 +438,11 @@
 		"error": "Der Slowmode konnte nicht gesetzt werden",
 		"missing": "Du musst eine Zahl angeben",
 		"updated": "Der Slowmode wurde auf **{TIME}** Sekunden gesetzt"
+	},
+	"stats": {
+		"disabled": "Die Statistiken sind hier deaktiviert",
+		"messagesperday": "Nachrichten pro Tag",
+		"title": "Statistiken für {GUILD}"
 	},
 	"suggest": {
 		"approved": "Der Vorschlag **#{ID}** wurde angenommen!",
