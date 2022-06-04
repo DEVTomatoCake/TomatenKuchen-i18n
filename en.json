@@ -287,6 +287,9 @@
 		"fail": "The user couldn't be muted",
 		"invalidtime": "You must add a valid time"
 	},
+	"nitroverify": {
+		"disabled": "There is no nitro verification enabled on this server"
+	},
 	"noinvites": "You may not send invites here",
 	"none": "None",
 	"noreason": "No reason",
@@ -307,7 +310,12 @@
 		"closed": "Your private voice channel was closed",
 		"notprivatevoice": "You're not in your own private voice channel",
 		"opened": "Your private voice channel was opened",
-		"reset": "The permissions of your private voice channel was reset"
+		"reset": "The permissions of your private voice channel was reset",
+		"userlimit": {
+			"missing": "You must add a limit",
+			"remove": "The user limit was removed",
+			"set": "The user limit was set to **{LIMIT}**"
+		}
 	},
 	"permissions": {
 		"bitfield": "Permissions for Bitfield {BITFIELD}",
@@ -421,6 +429,11 @@
 		"error": "An error occurred while setting the slowmode",
 		"missing": "You must enter a valid slowmode time",
 		"updated": "The slowmode has been set to **{TIME}** seconds"
+	},
+	"stats": {
+		"disabled": "Stats aren't enabled on this server",
+		"messagesperday": "Messages per day",
+		"title": "Stats for {GUILD}"
 	},
 	"suggest": {
 		"approved": "The suggestion **#{ID}** has been accepted!",
