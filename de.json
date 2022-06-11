@@ -29,12 +29,14 @@
 		"title": "**{AMOUNT}** Nutzer sind gebannt:"
 	},
 	"bot": {
+		"amount": "Insgesamt",
 		"cached": "Im Cache",
 		"commands": "Befehle",
 		"commandsused": "Befehle genutzt",
 		"mostused": "Oft genutzte Befehle",
 		"shortuptimeformat": "D [Tage], H [Stunden], m [Minuten]",
 		"speed": "Geschwindigkeit",
+		"statcorderror": "Die Informationen von Statcord können nicht abgefragt werden, bitte versuche es später nochmal",
 		"unknownguild": "Unbekannter Server",
 		"uptimeformat": "D [Tage], H [Stunden], m [Minuten], s [Sekunden]"
 	},
@@ -352,6 +354,7 @@
 		"nonedeleted": "Es wurden keine Nachrichten gelöscht",
 		"single": "Es wurde **eine** Nachricht gelöscht:{MESSAGES}"
 	},
+	"quoted": "Zitiert von {USER}",
 	"reactionrole": {
 		"created": "Die Reactionrole wurde erstellt",
 		"deleted": "Die Reactionrole wurde gelöscht",
@@ -372,6 +375,10 @@
 	"remove": {
 		"fail": "Der Nutzer konnte nicht vom Kanal entfernt werden",
 		"success": "{USERORROLE} wurde vom Ticket entfernt"
+	},
+	"report": {
+		"received": "Deine Meldung wurde empfangen",
+		"title": "Meldung"
 	},
 	"role": {
 		"botcount": "**{COUNT}** Bots mit der Rolle",
@@ -459,6 +466,9 @@
 	"supportserver": "Support-Server",
 	"tagebis": {
 		"missing": "Du musst Monat und Tag angeben"
+	},
+	"tempban": {
+		"success": "**{MOD}** hat **{USER}** für **{DURATION}** gebannt: {REASON}"
 	},
 	"template": {
 		"cancel": "Das Laden vom Template wurde abgebrochen",
