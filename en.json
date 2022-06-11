@@ -29,12 +29,14 @@
 		"title": "**{AMOUNT}** users are banned:"
 	},
 	"bot": {
+		"amount": "Amount",
 		"cached": "Cached",
 		"commands": "Commands",
 		"commandsused": "Used commands",
 		"mostused": "Most used commands",
 		"shortuptimeformat": "D [days], H [hours], m [minutes]",
 		"speed": "Speed",
+		"statcorderror": "The data from statcord couldn't be fetched, please try again later",
 		"unknownguild": "Unknown guild",
 		"uptimeformat": "D [days], H [hours], m [minutes], s [seconds]"
 	},
@@ -206,6 +208,15 @@
 	"level": {
 		"disabled": "Levels are disabled here"
 	},
+	"lock": {
+		"channel": {
+			"lock": "The channel was locked",
+			"unlock": "The channel was unlocked"
+		},
+		"server": {
+			"lock": "The server was locked"
+		}
+	},
 	"lyrics": {
 		"missing": "You must add a song name",
 		"unknown": "No song has been found"
@@ -343,6 +354,7 @@
 		"nonedeleted": "No messages have been deleted",
 		"single": "**One** message was deleted:{MESSAGES}"
 	},
+	"quoted": "Quoted by {USER}",
 	"reactionrole": {
 		"created": "The reactionrole was created",
 		"deleted": "The reactionrole was deleted",
@@ -363,6 +375,10 @@
 	"remove": {
 		"fail": "The user couldn't be removed from this channel",
 		"success": "{USERORROLE} has been removed from the ticket"
+	},
+	"report": {
+		"received": "Your report was received",
+		"title": "Report"
 	},
 	"role": {
 		"botcount": "**{COUNT}** bots with the role",
@@ -451,6 +467,9 @@
 	"tagebis": {
 		"missing": "You must add month and day"
 	},
+	"tempban": {
+		"success": "**{MOD}** banned **{USER}** for **{DURATION}**: {REASON}"
+	},
 	"template": {
 		"cancel": "The template loading has been cancelled",
 		"unknown": "This template doesn't exist"
@@ -491,7 +510,8 @@
 	"todo": {
 		"add": "The entry was added",
 		"none": "Your todo list is empty! Use `{PREFIX}todo add <Entry>` to add new entries",
-		"remove": "The entry was removed"
+		"remove": "The entry was removed",
+		"title": "Your todo list"
 	},
 	"transcript": {
 		"done": "**{MESSAGES}** messages were saved:"
