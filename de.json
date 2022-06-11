@@ -510,7 +510,8 @@
 	"todo": {
 		"add": "Der Eintrag wurde hinzugefügt",
 		"none": "Deine Todo-Liste ist leer! Mit `{PREFIX}todo add <Eintrag>` kannst du neue Einträge hinzufügen",
-		"remove": "Der Eintrag wurde entfernt"
+		"remove": "Der Eintrag wurde entfernt",
+		"title": "Deine Todo-Liste"
 	},
 	"transcript": {
 		"done": "Es wurden **{MESSAGES}** Nachrichten gespeichert:"
