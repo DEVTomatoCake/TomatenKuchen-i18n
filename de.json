@@ -352,7 +352,6 @@
 		"nonedeleted": "Es wurden keine Nachrichten gelöscht",
 		"single": "Es wurde **eine** Nachricht gelöscht:{MESSAGES}"
 	},
-	"quoted": "Nachricht am {DATE} gesendet von **{AUTHOR}** auf **{GUILD}**:",
 	"reactionrole": {
 		"created": "Die Reactionrole wurde erstellt",
 		"deleted": "Die Reactionrole wurde gelöscht",
