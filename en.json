@@ -366,11 +366,13 @@
 		"unknownrole": "Unknown role!"
 	},
 	"remind": {
+		"created": "The reminder will remind you {TIME} for:\n{TEXT}",
 		"deleted": "Your reminders have been deleted",
 		"endsin": "Ends at",
 		"limit": "You may not have more than **5** reminders at the same time",
 		"missingtime": "You must enter a valid time",
-		"your": "Your reminders"
+		"title": "Your reminders",
+		"your": "Your reminder"
 	},
 	"remove": {
 		"fail": "The user couldn't be removed from this channel",
