@@ -366,11 +366,13 @@
 		"unknownrole": "Unbekannte Rolle!"
 	},
 	"remind": {
+		"created": "Der Reminder wird dich {TIME} erinnern an:\n{TEXT}",
 		"deleted": "Deine Reminder wurden gelöscht",
 		"endsin": "Läuft ab",
 		"limit": "Du darfst nicht mehr als **5** Reminder gleichzeitig haben",
 		"missingtime": "Du musst eine gültige Zeit angeben",
-		"your": "Deine Reminder"
+		"title": "Deine Reminder",
+		"your": "Dein Reminder"
 	},
 	"remove": {
 		"fail": "Der Nutzer konnte nicht vom Kanal entfernt werden",
