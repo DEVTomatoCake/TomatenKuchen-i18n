@@ -225,6 +225,7 @@
 		"missing": "You must add a reason and at least one user"
 	},
 	"mcbug": {
+		"attachments": "Attachments",
 		"fixedinversion": "Fixed in version",
 		"fixversion": "None",
 		"linked": "Linked",
@@ -254,6 +255,9 @@
 	},
 	"mention": "Mention",
 	"message": {
+		"edited": "The message has been edited!",
+		"editfailed": "The message can't be edited",
+		"msgid": "The message id is `{ID}`",
 		"noreference": "You must reply to a message",
 		"noslash": "You can't use this command with slashcommands"
 	},
@@ -322,11 +326,13 @@
 		"notprivatevoice": "You're not in your own private voice channel",
 		"opened": "Your private voice channel was opened",
 		"reset": "The permissions of your private voice channel was reset",
+		"useradd": "You gave {USER} permissions to join your private voice channel",
 		"userlimit": {
 			"missing": "You must add a limit",
 			"remove": "The user limit was removed",
 			"set": "The user limit was set to **{LIMIT}**"
-		}
+		},
+		"userremove": "You removed permissions of {USER} to join your private voice channel"
 	},
 	"permissions": {
 		"bitfield": "Permissions for Bitfield {BITFIELD}",
