@@ -257,7 +257,7 @@
 	"message": {
 		"edited": "Die Nachricht wurde bearbeitet!",
 		"editfailed": "Die Nachricht kann nicht bearbeitet werden",
-		"msgid": "Die Nachrichten-ID der Nachricht ist `{ID}`, **\" + message.member.displayName + \"**!",
+		"msgid": "Die Nachrichten-ID der Nachricht ist `{ID}`",
 		"noreference": "Du musst auf eine Nachricht antworten",
 		"noslash": "Diesen Befehl kannst du nicht mit Slashcommands nutzen"
 	},
