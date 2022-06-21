@@ -225,6 +225,7 @@
 		"missing": "Du musst einen Grund und mindestens einen Nutzer angeben"
 	},
 	"mcbug": {
+		"attachments": "Anhänge",
 		"fixedinversion": "Behoben in Version",
 		"fixversion": "Keine",
 		"linked": "Verlinkt",
@@ -254,6 +255,9 @@
 	},
 	"mention": "Erwähnung",
 	"message": {
+		"edited": "Die Nachricht wurde bearbeitet!",
+		"editfailed": "Die Nachricht kann nicht bearbeitet werden",
+		"msgid": "Die Nachrichten-ID der Nachricht ist `{ID}`, **\" + message.member.displayName + \"**!",
 		"noreference": "Du musst auf eine Nachricht antworten",
 		"noslash": "Diesen Befehl kannst du nicht mit Slashcommands nutzen"
 	},
@@ -322,11 +326,13 @@
 		"notprivatevoice": "Du bist nicht in deinem privaten Sprachkanal",
 		"opened": "Dein privater Sprachkanal wurde geöffnet",
 		"reset": "Die Rechte für deinen privaten Kanal wurden zurückgesetzt",
+		"useradd": "Du hast {USER} Zugriff auf deinen privaten Sprachkanal gegeben",
 		"userlimit": {
 			"missing": "Du musst ein Limit angeben",
 			"remove": "Das Nutzerlimit wurde entfernt",
 			"set": "Das Nutzerlimit wurde auf **{LIMIT}** gesetzt"
-		}
+		},
+		"userremove": "Du hast {USER} den Zugriff auf deinen privaten Sprachkanal genommen"
 	},
 	"permissions": {
 		"bitfield": "Berechtigungen für Bitfield {BITFIELD}",
