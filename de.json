@@ -26,7 +26,8 @@
 	},
 	"banlist": {
 		"none": "Es sind keine Nutzer gebannt!",
-		"title": "**{AMOUNT}** Nutzer sind gebannt:"
+		"title": "**{AMOUNT}** Nutzer sind gebannt:",
+		"unknown": "Der Nutzer ist nicht gebannt"
 	},
 	"bot": {
 		"amount": "Insgesamt",
@@ -534,7 +535,8 @@
 			"relative": "Relative Zeit",
 			"shortdate": "Kurzes Datum",
 			"shorttime": "Kurze Zeit",
-			"shorttimedate": "Kurze Zeit und Datum"
+			"shorttimedate": "Kurze Zeit und Datum",
+			"title": "Discord-Zeitformatierung"
 		}
 	},
 	"translate": {
