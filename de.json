@@ -33,6 +33,13 @@
 		"cached": "Im Cache",
 		"commands": "Befehle",
 		"commandsused": "Befehle genutzt",
+		"lang": {
+			"transform": {
+				"time": {
+					"title": "Discord-Zeitformatierung"
+				}
+			}
+		},
 		"mostused": "Oft genutzte Befehle",
 		"shortuptimeformat": "D [Tage], H [Stunden], m [Minuten]",
 		"speed": "Geschwindigkeit",
@@ -468,6 +475,7 @@
 		"nochannel": "Es wurde kein Kanal für Vorschläge festgelegt!",
 		"replied": "Die Antwort auf den Vorschlag **#{ID}** wurde gespeichert!",
 		"replyfrom": "Antwort von {USER}",
+		"sent": "Der Vorschlag wurde abgesendet!",
 		"title": "Vorschlag",
 		"unknownmessage": "Diesen Vorschlag gibt es nicht"
 	},
@@ -523,6 +531,17 @@
 	},
 	"transcript": {
 		"done": "Es wurden **{MESSAGES}** Nachrichten gespeichert:"
+	},
+	"transform": {
+		"time": {
+			"longdate": "Langes Datum",
+			"longtime": "Lange Zeit",
+			"longtimedate": "Lange Zeit und Datum",
+			"relative": "Relative Zeit",
+			"shortdate": "Kurzes Datum",
+			"shorttime": "Kurze Zeit",
+			"shorttimedate": "Kurze Zeit und Datum"
+		}
 	},
 	"translate": {
 		"doyoumean": "Meinst du",
