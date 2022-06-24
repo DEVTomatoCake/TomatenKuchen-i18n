@@ -33,13 +33,6 @@
 		"cached": "Im Cache",
 		"commands": "Befehle",
 		"commandsused": "Befehle genutzt",
-		"lang": {
-			"transform": {
-				"time": {
-					"title": "Discord-Zeitformatierung"
-				}
-			}
-		},
 		"mostused": "Oft genutzte Befehle",
 		"shortuptimeformat": "D [Tage], H [Stunden], m [Minuten]",
 		"speed": "Geschwindigkeit",
@@ -470,6 +463,7 @@
 		"denied": "Der Vorschlag **#{ID}** wurde abgelehnt!",
 		"edit": "Der Vorschlag **#{ID}** wurde bearbeitet!",
 		"lastedit": "Zuletzt bearbeitet",
+		"missingperms": "Der Bot hat nicht genug Rechte (Nachrichten senden/Reaktionen hinzufügen) in {CHANNEL}",
 		"missingreply": "Du musst einen Vorschlag und eine Antwort angeben",
 		"missingsuggestion": "Du musst einen Vorschlag angeben",
 		"nochannel": "Es wurde kein Kanal für Vorschläge festgelegt!",
