@@ -29,6 +29,10 @@
 		"title": "**{AMOUNT}** Nutzer sind gebannt:",
 		"unknown": "Der Nutzer ist nicht gebannt"
 	},
+	"birthday": {
+		"deleted": "Dein gespeicherter Geburtstag wurde gelöscht",
+		"updated": "Dein Geburtstag wurde aktualisiert"
+	},
 	"bot": {
 		"amount": "Insgesamt",
 		"cached": "Im Cache",
@@ -45,6 +49,7 @@
 		"invalid": "Ungültige Syntax",
 		"title": "|                   Taschenrechner                   |"
 	},
+	"cantusebutton": "Nur **{USER}** kann Buttons auf dieser Nachricht nutzen!",
 	"channelinfo": {
 		"bots": "Davon Bots",
 		"created": "Kanal erstellt",
@@ -106,7 +111,8 @@
 		"of": "Emojis von **{GUILD}**",
 		"search": {
 			"notfound": "Es wurden keine Emojis gefunden"
-		}
+		},
+		"title": "Zeige **{CURRENT}** von insgesamt **{TOTAL}** Emojis"
 	},
 	"eval": {
 		"error": "Fehler",
@@ -142,6 +148,7 @@
 			"description": "Zeigt Befehle zur Serververwaltung",
 			"title": "Admin"
 		},
+		"aliases": "Aliase",
 		"all": {
 			"description": "Zeigt alle Befehle vom Bot",
 			"title": "Alle Befehle"
@@ -343,6 +350,7 @@
 		"title": "Pinge…"
 	},
 	"play": {
+		"cantusebutton": "Du darfst die Buttons nicht bedienen!",
 		"queueended": "Die Queue wurde beendet!",
 		"streamerror": "Beim Streamen ist ein Fehler aufgetreten"
 	},
