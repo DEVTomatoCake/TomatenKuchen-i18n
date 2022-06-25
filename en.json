@@ -26,7 +26,12 @@
 	},
 	"banlist": {
 		"none": "There are no banned users!",
-		"title": "**{AMOUNT}** users are banned:"
+		"title": "**{AMOUNT}** users are banned:",
+		"unknown": "The user isn't banned"
+	},
+	"birthday": {
+		"deleted": "Your saved birthday has been deleted",
+		"updated": "Your new birthday was saved"
 	},
 	"bot": {
 		"amount": "Amount",
@@ -44,6 +49,7 @@
 		"invalid": "Invalid syntax",
 		"title": "|                         Calculator                        |"
 	},
+	"cantusebutton": "Only **{USER}** can use buttons on this message!",
 	"channelinfo": {
 		"bots": "Amount of bots",
 		"created": "Channel created",
@@ -105,7 +111,8 @@
 		"of": "Emojis of **{GUILD}**",
 		"search": {
 			"notfound": "No emojis were found"
-		}
+		},
+		"title": "Showing **{CURRENT}** of **{TOTAL}** emojis"
 	},
 	"eval": {
 		"error": "Error",
@@ -141,6 +148,7 @@
 			"description": "Shows commands for server administration",
 			"title": "Admin"
 		},
+		"aliases": "Aliases",
 		"all": {
 			"description": "Shows all bot commands",
 			"title": "All commands"
@@ -342,6 +350,7 @@
 		"title": "Pinging…"
 	},
 	"play": {
+		"cantusebutton": "You may not use these buttons!",
 		"queueended": "The queue has ended!",
 		"streamerror": "An error occurred while streaming"
 	},
@@ -463,11 +472,13 @@
 		"denied": "The suggestion **#{ID}** has been denied!",
 		"edit": "The suggestion **#{ID}** has been edited!",
 		"lastedit": "Last edited",
+		"missingperms": "The bot doesn't has enough perms (Send message/Add reactions) in {CHANNEL}",
 		"missingreply": "You must add a suggestion and a reply",
 		"missingsuggestion": "You must add a suggestion",
 		"nochannel": "There is no suggestion channel set!",
 		"replied": "The reply on the suggestion **#{ID}** was saved!",
 		"replyfrom": "Reply from {USER}",
+		"sent": "The suggestion was sent!",
 		"title": "Suggestion",
 		"unknownmessage": "This suggestion doesn't exist"
 	},
@@ -523,6 +534,18 @@
 	},
 	"transcript": {
 		"done": "**{MESSAGES}** messages were saved:"
+	},
+	"transform": {
+		"time": {
+			"longdate": "Long date",
+			"longtime": "Long time",
+			"longtimedate": "Long time and date",
+			"relative": "Relative time",
+			"shortdate": "Short date",
+			"shorttime": "Short time",
+			"shorttimedate": "Short time and date",
+			"title": "Discord time formatting"
+		}
 	},
 	"translate": {
 		"doyoumean": "Do you mean",
