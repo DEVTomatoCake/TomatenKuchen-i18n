@@ -61,7 +61,7 @@
 		"userlimit": "Userlimit"
 	},
 	"channels": "Channels",
-	"commanderror": "Whilst executing the command `{COMMAND}` an error occurred!",
+	"commanderror": "An error occurred while executing the command `{COMMAND}`!",
 	"cooldown": "You still have a cooldown!",
 	"customcommand": {
 		"created": "The command **{NAME}** was created",
@@ -71,7 +71,7 @@
 		"missingarg": "You must add the argument {ARG}!",
 		"nocategory": "No category"
 	},
-	"dataexport": "Your data will be send by dm",
+	"dataexport": "Your data will be send to you by dm",
 	"dehoist": {
 		"found": "**{AMOUNT}** users were found with a hoist-name, renaming…",
 		"none": "Couldn't find users to dehoist"
@@ -92,7 +92,7 @@
 		"job": "Job",
 		"missingamount": "You must add money",
 		"missinguservalue": "You must add a user and a value",
-		"nobank": "You can't withdraw any money from an empty account",
+		"nobank": "You can't withdraw from the bank because you don't have money there",
 		"nobot": "You can't send money to a bot",
 		"nocash": "You can't deposit money because you dont have any cash",
 		"nojob": "None",
@@ -153,7 +153,7 @@
 			"title": "All commands"
 		},
 		"category": "Category",
-		"description": "__Command usage:__\n**<>** - Required\n**[]** - Optional\n\nSelect a category to see the commands.",
+		"description": "__Command usage:__\n**<>** - Required\n**[]** - Optional\n\nSelect a category to see it's commands.",
 		"fun": {
 			"description": "Shows fun commands",
 			"title": "Fun"
@@ -229,7 +229,7 @@
 		"unknown": "No song has been found"
 	},
 	"mass": {
-		"missing": "You must add a reason and at least one user"
+		"missing": "You must specify a reason and at least one user"
 	},
 	"mcbug": {
 		"attachments": "Attachments",
@@ -244,11 +244,11 @@
 	},
 	"mclint": {
 		"errorfound": "There is at least one error in the command:",
-		"missingcommand": "You must enter the command",
+		"missingcommand": "You must enter a command",
 		"noerror": "No error was found in the command"
 	},
 	"mcrecipe": {
-		"missing": "You must add a german minecraft item name",
+		"missing": "You must add a German minecraft item name",
 		"title": "Recipe of **{ITEM}**",
 		"unknown": "The item **{ITEM}** couldn't be found"
 	},
@@ -283,7 +283,7 @@
 		"none": "The user has no modlogs"
 	},
 	"moneydrop": {
-		"invalid": "The value must be bigger than 0",
+		"invalid": "The value must be greater than 0",
 		"invalidmin": "You must add a valid minimum value"
 	},
 	"music": {
@@ -471,7 +471,7 @@
 		"denied": "The suggestion **#{ID}** has been denied!",
 		"edit": "The suggestion **#{ID}** has been edited!",
 		"lastedit": "Last edited",
-		"missingperms": "The bot has not enough perms (Send message/Add reactions) in {CHANNEL}",
+		"missingperms": "The bot has not enough perms (Send messages/Add reactions) in {CHANNEL}",
 		"missingreply": "You must add a suggestion and a reply",
 		"missingsuggestion": "You must add a suggestion",
 		"nochannel": "There is no suggestion channel set!",
@@ -483,7 +483,7 @@
 	},
 	"supportserver": "Support server",
 	"tagebis": {
-		"missing": "You must add month and day"
+		"missing": "You must specify a month and a day"
 	},
 	"tempban": {
 		"success": "**{MOD}** banned **{USER}** for **{DURATION}**: {REASON}"
@@ -577,7 +577,7 @@
 	},
 	"warn": {
 		"cantwarn": "You may not warn **{USER}**",
-		"missingreason": "You must add a reason",
+		"missingreason": "You must specify a reason",
 		"warned": "{USER} has been warned"
 	},
 	"work": {
