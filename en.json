@@ -17,7 +17,7 @@
 		"since": "Since"
 	},
 	"automod": {
-		"mentions": "You may not mention so many users in a message"
+		"mentions": "You may not mention that many users in a message"
 	},
 	"ban": {
 		"alreadybanned": "The user is already banned",
@@ -92,7 +92,7 @@
 		"job": "Job",
 		"missingamount": "You must add money",
 		"missinguservalue": "You must add a user and a value",
-		"nobank": "You can't withdraw from the bank because you don't have money there",
+		"nobank": "You can't withdraw any money from an empty account",
 		"nobot": "You can't send money to a bot",
 		"nocash": "You can't deposit money because you dont have any cash",
 		"nojob": "None",
@@ -132,7 +132,6 @@
 		"deleted": "The giveaway was deleted",
 		"edited": "The giveaway was edited",
 		"ended": "The giveaway was ended",
-		"invalidwinners": "The winner count must be a number",
 		"rerolled": "The giveaway was rerolled"
 	},
 	"hack": {
@@ -281,7 +280,7 @@
 	"missingtext": "You must enter a text",
 	"modlogs": {
 		"date": "Date",
-		"none": "The user doens't has any modlogs"
+		"none": "The user has no modlogs"
 	},
 	"moneydrop": {
 		"invalid": "The value must be bigger than 0",
@@ -296,14 +295,14 @@
 		},
 		"missingpermissions": "I don't have enough permissions in your voice channel",
 		"missingvideo": "You must add a video name",
-		"missingvoice": "You need to be in a voice channel",
+		"missingvoice": "You have to be in a voice channel",
 		"nothingplaying": "There is nothing playing!",
 		"nowplaying": "Now playing",
 		"pause": "The video has been paused",
 		"queueempty": "The queue is empty, I'll leave the voice channel!",
 		"resume": "The video has been resumed",
 		"skip": "The video has been skipped",
-		"unknownvideo": "I don't find this video"
+		"unknownvideo": "I can't find this video"
 	},
 	"mute": {
 		"alreadymuted": "The user is already muted",
@@ -333,14 +332,14 @@
 		"closed": "Your private voice channel was closed",
 		"notprivatevoice": "You're not in your own private voice channel",
 		"opened": "Your private voice channel was opened",
-		"reset": "The permissions of your private voice channel was reset",
+		"reset": "The permissions of your private voice channel have been reset",
 		"useradd": "You gave {USER} permissions to join your private voice channel",
 		"userlimit": {
 			"missing": "You must add a limit",
 			"remove": "The user limit was removed",
 			"set": "The user limit was set to **{LIMIT}**"
 		},
-		"userremove": "You removed permissions of {USER} to join your private voice channel"
+		"userremove": "{USER} can't join your private voice channel anymore"
 	},
 	"permissions": {
 		"bitfield": "Permissions for Bitfield {BITFIELD}",
@@ -437,7 +436,7 @@
 		"voice": "Voice channels"
 	},
 	"setup": {
-		"created": "The ticket category was created",
+		"created": "The ticket category has been created",
 		"deleted": "The ticket category has been deleted",
 		"invalidcategory": "The provided ticket target category id is invalid",
 		"invalidmessage": "The provided ticket embed message id is invalid",
@@ -472,7 +471,7 @@
 		"denied": "The suggestion **#{ID}** has been denied!",
 		"edit": "The suggestion **#{ID}** has been edited!",
 		"lastedit": "Last edited",
-		"missingperms": "The bot doesn't has enough perms (Send message/Add reactions) in {CHANNEL}",
+		"missingperms": "The bot has not enough perms (Send message/Add reactions) in {CHANNEL}",
 		"missingreply": "You must add a suggestion and a reply",
 		"missingsuggestion": "You must add a suggestion",
 		"nochannel": "There is no suggestion channel set!",
