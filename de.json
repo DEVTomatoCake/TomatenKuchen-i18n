@@ -489,8 +489,12 @@
 		"success": "**{MOD}** hat **{USER}** für **{DURATION}** gebannt: {REASON}"
 	},
 	"template": {
+		"adminrole": "Meine Botrolle {ROLE} braucht Administrator-Rechte",
 		"cancel": "Das Laden vom Template wurde abgebrochen",
-		"unknown": "Dieses Template gibt es nicht"
+		"finished": "Das Template **{NAME}** von **{CREATOR}** mit dem Code **{CODE}** wurde vollständig geladen!",
+		"started": "Das Template wird jetzt geladen. Du kannst das Laden mit dem Befehl `{PREFIX}template cancel` auf dem Server abbrechen - bereits gelöschte Kanäle/Rollen werden dadurch aber nicht wiederhergestellt!\\nGeschätzte Dauer: ",
+		"unknown": "Dieses Template gibt es nicht",
+		"warning": "Dies wird das Template **{NAME}** von **\"{CREATOR}** laden, es wurde bereits **{USES}** mal genutzt. Bist du sicher, das du fortfahren willst?\\n:warning: **Diese Aktion wird alle bestehenden Rollen und Kanäle löschen und durch die neuen ersetzen.**"
 	},
 	"text": {
 		"failed": "Der Webhook konnte nicht erstellt werden (Limit von 10 Webhooks erreicht?)"
