@@ -489,8 +489,12 @@
 		"success": "**{MOD}** banned **{USER}** for **{DURATION}**: {REASON}"
 	},
 	"template": {
+		"adminrole": "My bot role {ROLE} needs administrator perms",
 		"cancel": "The template loading has been cancelled",
-		"unknown": "This template doesn't exist"
+		"finished": "The template **{NAME}** by **{CREATOR}** with the code **{CODE}** was loaded successfully!",
+		"started": "The template will be loaded now. You can cancel it by using `{PREFIX}template cancel` - but this wont restore already deleted channels/roles!\\nEstimated time: ",
+		"unknown": "This template doesn't exist",
+		"warning": "This will load the template **{NAME}** by **{CREATOR}**, it was used **{USES}** times before. Are you sure that you want to continue?\\n:warning: **This action will (depending on arguments) delete all roles and channels and replace them with the new ones.**"
 	},
 	"text": {
 		"failed": "The webhook couldn't be created (limit of 10 webhooks reached?)"
