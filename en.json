@@ -408,7 +408,7 @@
 			"start": "I'll remove the role **{ROLE}** from **{MEMBERCOUNT}** members"
 		},
 		"missing": "You must enter an action and a role",
-		"toomany": "Too many to display",
+		"toomany": "Too many roles to display",
 		"unknown": "Unknown role",
 		"usercount": "**{COUNT}** users with the role"
 	},
@@ -527,7 +527,7 @@
 	"tickets": {
 		"nosaved": "There are no saved tickets!",
 		"sendchannel": "The ticket logs are shown here:",
-		"senddm": "The ticket logs were sent to you by dm if the bot could dm you!"
+		"senddm": "The ticket logs were sent to you via dms if the bot could dm you!"
 	},
 	"todo": {
 		"add": "The entry was added",
