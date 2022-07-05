@@ -31,6 +31,9 @@
 	},
 	"birthday": {
 		"deleted": "Dein gespeicherter Geburtstag wurde gelöscht",
+		"missingargs": "Du musst einen Geburtstag angeben",
+		"missingday": "Du musst die Zahl eines Tags angeben",
+		"missingmonth": "Du musst die Zahl eines Monats angeben",
 		"updated": "Dein Geburtstag wurde aktualisiert"
 	},
 	"bot": {
@@ -84,6 +87,9 @@
 		"found": "Du hast **{ITEM}** mit dem Wert **{VALUE}** gefunden",
 		"missingshovel": "Du brauchst eine Schaufel, um diesen Befehl nutzen zu können",
 		"nothingfound": "Du hast leider nichts gefunden"
+	},
+	"dns": {
+		"nodata": "Keine Daten gefunden!"
 	},
 	"economy": {
 		"cooldown": "Du hast noch einen Cooldown für diesen Befehl: **{COOLDOWN}**",
@@ -141,6 +147,10 @@
 		"nobot": "Du darfst keine Bots hacken",
 		"password": "Passwort",
 		"result": "Ergebnis:"
+	},
+	"hackedacc": {
+		"none": "Es wurden keine gehackten Accounts gefunden",
+		"title": "Möglicherweise gehackte Accounts"
 	},
 	"help": {
 		"admin": {
@@ -310,7 +320,9 @@
 		"invalidtime": "Du musst eine gültige Dauer angeben"
 	},
 	"nitroverify": {
-		"disabled": "Auf diesem Server ist keine Nitro-Verifizierung aktiviert"
+		"alreadydone": "Du hast bereits die Nitro-Verifizierungs-Rolle",
+		"disabled": "Auf diesem Server ist keine Nitro-Verifizierung aktiviert",
+		"notfound": "Die Nitro-Verifizierungs-Rolle existiert nicht"
 	},
 	"noinvites": "Du darfst hier keine Einladungen senden",
 	"none": "Kein",
@@ -441,6 +453,7 @@
 		"invalidcategory": "Die Ticket-Ziel-Kategorie-ID ist ungültig",
 		"invalidmessage": "Die Ticket-Embed-Nachrichten-ID ist ungültig",
 		"limit": "Server ohne Premium dürfen maximal **{AMOUNT}** Ticket-Kategorien erstellen",
+		"missing": "Du musst die Ticket-Embed-Nachrichten-ID und die Ticket-Ziel-Kategorie-ID angeben",
 		"missingperms": "Ich habe nicht genug Berechtigungen in der Kategorie",
 		"unknown": "Die Ticket-Kategorie **{ID}** wurde nicht gefunden"
 	},
