@@ -31,6 +31,7 @@
 	},
 	"birthday": {
 		"deleted": "Your saved birthday has been deleted",
+		"missingargs": "You must add a birthday",
 		"updated": "Your new birthday was saved"
 	},
 	"bot": {
@@ -84,6 +85,9 @@
 		"found": "You've found **{ITEM}** with the value of **{VALUE}**",
 		"missingshovel": "You need a shovel to use this command",
 		"nothingfound": "You've sadly found nothing"
+	},
+	"dns": {
+		"nodata": "No data was found!"
 	},
 	"economy": {
 		"cooldown": "You still have a cooldown for this command: **{COOLDOWN}**",
@@ -310,7 +314,9 @@
 		"invalidtime": "You must add a valid time"
 	},
 	"nitroverify": {
-		"disabled": "There is no nitro verification enabled on this server"
+		"alreadydone": "You already have the nitro verify role",
+		"disabled": "There is no nitro verification enabled on this server",
+		"notfound": "The nitro verify role doesn't exist"
 	},
 	"noinvites": "You may not send invites here",
 	"none": "None",
@@ -408,7 +414,7 @@
 			"start": "I'll remove the role **{ROLE}** from **{MEMBERCOUNT}** members"
 		},
 		"missing": "You must enter an action and a role",
-		"toomany": "Too many roles to display",
+		"toomany": "Too many to display all",
 		"unknown": "Unknown role",
 		"usercount": "**{COUNT}** users with the role"
 	},
@@ -441,6 +447,7 @@
 		"invalidcategory": "The provided ticket target category id is invalid",
 		"invalidmessage": "The provided ticket embed message id is invalid",
 		"limit": "Servers without premium may not use more than **{AMOUNT}** ticket categories",
+		"missing": "You must add the ticket embed message id and the target ticket category id",
 		"missingperms": "I don't have enough permissions for that category",
 		"unknown": "The ticket category **{ID}** couldn't be found"
 	},
