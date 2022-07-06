@@ -32,6 +32,8 @@
 	"birthday": {
 		"deleted": "Your saved birthday has been deleted",
 		"missingargs": "You must add a birthday",
+		"missingday": "You must add the number of a day",
+		"missingmonth": "You must add the number of a month",
 		"updated": "Your new birthday was saved"
 	},
 	"bot": {
@@ -145,6 +147,10 @@
 		"nobot": "You may not hack bots",
 		"password": "Password",
 		"result": "Result:"
+	},
+	"hackedacc": {
+		"none": "No possibly hacked accounts have been found",
+		"title": "Possibly hacked accounts"
 	},
 	"help": {
 		"admin": {
