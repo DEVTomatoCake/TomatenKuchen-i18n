@@ -89,6 +89,7 @@
 		"nothingfound": "Du hast leider nichts gefunden"
 	},
 	"dns": {
+		"missing": "Du musst eine URL angeben",
 		"nodata": "Keine Daten gefunden!"
 	},
 	"economy": {
@@ -322,7 +323,10 @@
 	"nitroverify": {
 		"alreadydone": "Du hast bereits die Nitro-Verifizierungs-Rolle",
 		"disabled": "Auf diesem Server ist keine Nitro-Verifizierung aktiviert",
-		"notfound": "Die Nitro-Verifizierungs-Rolle existiert nicht"
+		"notanimated": "Da das Emoji nicht animiert ist, konnte dein Nitro nicht verifiziert werden",
+		"notfound": "Die Nitro-Verifizierungs-Rolle existiert nicht",
+		"otheruser": "Da ein anderer Nutzer auf die Nachricht reagiert hat wurde die Verifizierung abgebrochen",
+		"verified": "Dein Nitro wurde erfolgreich verifiziert"
 	},
 	"noinvites": "Du darfst hier keine Einladungen senden",
 	"none": "Kein",
