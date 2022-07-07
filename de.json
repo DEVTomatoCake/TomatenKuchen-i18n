@@ -109,7 +109,6 @@
 		"zinsen": "Zinsen pro Tag"
 	},
 	"embed": {
-		"error": "Das Embed kann nicht gesendet werden",
 		"missing": "Du musst einen Titel angeben"
 	},
 	"emoji": {
