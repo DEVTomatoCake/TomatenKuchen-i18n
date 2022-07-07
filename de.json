@@ -76,6 +76,7 @@
 	},
 	"dataexport": "Deine Daten werden dir per PN zugeschickt",
 	"dehoist": {
+		"finished": "Es wurden **{SUCCESS}** Nutzer umbenannt, **{FAILED}** konnten nicht umbenannt werden",
 		"found": "Es wurden **{AMOUNT}** Nutzer mit einem Hoist-Namen gefunden, Umbenennung wird gestartet…",
 		"none": "Es wurden keine Nutzer zum Dehoisten gefunden"
 	},
@@ -107,6 +108,10 @@
 		"wallet": "Bargeld",
 		"withdraw": "Du hast **{AMOUNT}** von der Bank abgehoben",
 		"zinsen": "Zinsen pro Tag"
+	},
+	"embed": {
+		"description": "Ändere den Inhalt des Embeds mit den Buttons unten!",
+		"title": "Embed-Ersteller"
 	},
 	"emoji": {
 		"animated": "Animiert",
@@ -405,7 +410,9 @@
 		"success": "{USERORROLE} wurde vom Ticket entfernt"
 	},
 	"report": {
+		"missingchannel": "Es wurde kein Kanal für Reports festgelegt",
 		"received": "Deine Meldung wurde empfangen",
+		"reporter": "Gemeldet von",
 		"title": "Meldung"
 	},
 	"role": {
