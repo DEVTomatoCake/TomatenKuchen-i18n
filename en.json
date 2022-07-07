@@ -108,7 +108,6 @@
 		"zinsen": "Interest per day"
 	},
 	"embed": {
-		"error": "The embed couldn't be sent",
 		"missing": "You must add a title"
 	},
 	"emoji": {
