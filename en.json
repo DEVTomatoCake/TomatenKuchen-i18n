@@ -1,2 +1,10 @@
 {
+    "main": {
+        "features": {
+            "moderation": {
+                "title": "Advanced moderation features",
+                "description": "Useful moderation commands and auto moderation using a regex!"
+            }
+        }
+    }
 }
