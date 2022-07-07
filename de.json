@@ -2,7 +2,7 @@
     "main": {
         "features": {
             "moderation": {
-                "title": "Advanced moderation features",
+                "title": "Fortgeschrittene Moderationsfunktionen",
                 "description": "Nützliche Moderations-Befehle und Automoderation mit einem Regex!"
             }
         }
