@@ -107,9 +107,6 @@
 		"withdraw": "You have withdrawn **{AMOUNT}**",
 		"zinsen": "Interest per day"
 	},
-	"embed": {
-		"missing": "You must add a title"
-	},
 	"emoji": {
 		"animated": "Animated",
 		"notanimated": "Not animated",
