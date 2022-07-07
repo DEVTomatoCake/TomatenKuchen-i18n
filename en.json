@@ -89,6 +89,7 @@
 		"nothingfound": "You've sadly found nothing"
 	},
 	"dns": {
+		"missing": "You must add an URL",
 		"nodata": "No data was found!"
 	},
 	"economy": {
@@ -106,6 +107,10 @@
 		"wallet": "Cash",
 		"withdraw": "You have withdrawn **{AMOUNT}**",
 		"zinsen": "Interest per day"
+	},
+	"embed": {
+		"description": "Modify the content of the embed using the buttons below!",
+		"title": "Embed creator"
 	},
 	"emoji": {
 		"animated": "Animated",
@@ -318,7 +323,8 @@
 	"nitroverify": {
 		"alreadydone": "You already have the nitro verify role",
 		"disabled": "There is no nitro verification enabled on this server",
-		"notfound": "The nitro verify role doesn't exist"
+		"notfound": "The nitro verify role doesn't exist",
+		"verified": "Your nitro was verified successfully"
 	},
 	"noinvites": "You may not send invites here",
 	"none": "None",
@@ -401,7 +407,9 @@
 		"success": "{USERORROLE} has been removed from the ticket"
 	},
 	"report": {
+		"missingchannel": "No channel has been set for reports",
 		"received": "Your report was received",
+		"reporter": "Reported by",
 		"title": "Report"
 	},
 	"role": {
