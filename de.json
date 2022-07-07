@@ -108,9 +108,6 @@
 		"withdraw": "Du hast **{AMOUNT}** von der Bank abgehoben",
 		"zinsen": "Zinsen pro Tag"
 	},
-	"embed": {
-		"missing": "Du musst einen Titel angeben"
-	},
 	"emoji": {
 		"animated": "Animiert",
 		"notanimated": "Nicht animiert",
