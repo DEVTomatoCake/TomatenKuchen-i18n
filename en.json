@@ -76,6 +76,7 @@
 	},
 	"dataexport": "Your data will be send to you by dm",
 	"dehoist": {
+		"finished": "**{SUCCESS}** users have been renamed, **{FAILED}** couldn't be renamed",
 		"found": "**{AMOUNT}** users were found with a hoist-name, renaming…",
 		"none": "Couldn't find users to dehoist"
 	},
@@ -323,7 +324,9 @@
 	"nitroverify": {
 		"alreadydone": "You already have the nitro verify role",
 		"disabled": "There is no nitro verification enabled on this server",
+		"notanimated": "As the emoji isn't animated your nitro couldn't be verified",
 		"notfound": "The nitro verify role doesn't exist",
+		"otheruser": "As another user reacted on the message the nitro verification was cancelled",
 		"verified": "Your nitro was verified successfully"
 	},
 	"noinvites": "You may not send invites here",
