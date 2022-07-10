@@ -499,6 +499,7 @@
 		"missingreply": "Du musst einen Vorschlag und eine Antwort angeben",
 		"missingsuggestion": "Du musst einen Vorschlag angeben",
 		"nochannel": "Es wurde kein Kanal für Vorschläge festgelegt!",
+		"notown": "Das ist nicht dein Vorschlag",
 		"replied": "Die Antwort auf den Vorschlag **#{ID}** wurde gespeichert!",
 		"replyfrom": "Antwort von {USER}",
 		"sent": "Der Vorschlag wurde abgesendet!",
