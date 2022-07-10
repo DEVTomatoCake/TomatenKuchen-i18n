@@ -21,6 +21,7 @@
 	},
 	"ban": {
 		"alreadybanned": "Der Nutzer ist bereits gebannt",
+		"cantban": "Ich kann **{USER}** nicht bannen",
 		"fail": "Der Nutzer konnte nicht gebannt werden",
 		"success": "**{MOD}** hat **{USER}** gebannt: {REASON}"
 	},
@@ -97,6 +98,7 @@
 		"cooldown": "Du hast noch einen Cooldown für diesen Befehl: **{COOLDOWN}**",
 		"deposit": "Du hast **{AMOUNT}** auf die Bank eingezahlt",
 		"invalidamount": "Du musst einen gültigen Betrag angeben",
+		"inventory": "Inventar",
 		"job": "Beruf",
 		"missingamount": "Du musst Geld angeben",
 		"missinguservalue": "Du musst einen Nutzer und einen Betrag angeben",
@@ -488,6 +490,8 @@
 	},
 	"suggest": {
 		"approved": "Der Vorschlag **#{ID}** wurde angenommen!",
+		"approvedby": "Angenommen von",
+		"approvedon": "Angenommen am",
 		"denied": "Der Vorschlag **#{ID}** wurde abgelehnt!",
 		"edit": "Der Vorschlag **#{ID}** wurde bearbeitet!",
 		"lastedit": "Zuletzt bearbeitet",
