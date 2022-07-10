@@ -21,6 +21,7 @@
 	},
 	"ban": {
 		"alreadybanned": "The user is already banned",
+		"cantban": "I can't ban **{USER}**",
 		"fail": "The user couldn't be banned",
 		"success": "**{MOD}** banned **{USER}**: {REASON}"
 	},
@@ -97,6 +98,7 @@
 		"cooldown": "You still have a cooldown for this command: **{COOLDOWN}**",
 		"deposit": "You have deposited **{AMOUNT}**",
 		"invalidamount": "You must add a valid amount",
+		"inventory": "Inventory",
 		"job": "Job",
 		"missingamount": "You must add money",
 		"missinguservalue": "You must add a user and a value",
@@ -488,6 +490,8 @@
 	},
 	"suggest": {
 		"approved": "The suggestion **#{ID}** has been accepted!",
+		"approvedby": "Approved by",
+		"approvedon": "Approved on",
 		"denied": "The suggestion **#{ID}** has been denied!",
 		"edit": "The suggestion **#{ID}** has been edited!",
 		"lastedit": "Last edited",
@@ -495,6 +499,7 @@
 		"missingreply": "You must add a suggestion and a reply",
 		"missingsuggestion": "You must add a suggestion",
 		"nochannel": "There is no suggestion channel set!",
+		"notown": "That's not your suggestion",
 		"replied": "The reply on the suggestion **#{ID}** was saved!",
 		"replyfrom": "Reply from {USER}",
 		"sent": "The suggestion was sent!",
@@ -535,6 +540,7 @@
 		"notclosed": "This channel isn't a closed ticket",
 		"noticket": "This channel isn't a ticket",
 		"notranscript": "No automatic transcript was created as there weren't enough messages in this ticket. If you do need a transcript, use `{PREFIX}transcript`.",
+		"previoustickets": "Previous tickets",
 		"reopenbutton": "Reopen ticket",
 		"reopened": "The ticket has been reopened!",
 		"ticketclosing": "Ticket will be deleted in **5** seconds",
