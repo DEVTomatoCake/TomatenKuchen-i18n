@@ -539,6 +539,7 @@
 		"notclosed": "Dieser Kanal ist kein geschlossenes Ticket",
 		"noticket": "Dieser Kanal ist kein Ticket",
 		"notranscript": "Es wurde kein automatisches Transcript erstellt, da zu wenig Nachrichten in dem Ticket gesendet wurden. Solltest du dennoch eins brauchen, nutze `{PREFIX}transcript`.",
+		"previoustickets": "Vorherige Tickets",
 		"reopenbutton": "Ticket erneut öffnen",
 		"reopened": "Das Ticket wurde erneut geöffnet!",
 		"ticketclosing": "Ticket wird in **5** Sekunden gelöscht",
