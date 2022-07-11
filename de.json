@@ -198,6 +198,7 @@
 		"usage": "Verwendung"
 	},
 	"http": {
+		"missing": "Du musst einen Code/Header angeben",
 		"unknown": "Unbekannter Code/Header"
 	},
 	"imageloadfail": "Das Bild kann nicht geladen werden",
