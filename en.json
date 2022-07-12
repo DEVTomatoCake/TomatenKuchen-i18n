@@ -198,6 +198,7 @@
 		"usage": "Usage"
 	},
 	"http": {
+		"missing": "You must add a code/header",
 		"unknown": "Unknown code/header"
 	},
 	"imageloadfail": "The image couldn't be loaded",
