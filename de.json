@@ -8,6 +8,13 @@
             "template": {
                 "title": "Discord-Template laden",
                 "description": "Mit !template kannst du Discord-Templates auf vorhandene Server laden"
+            },
+            "stats": {
+                "title": "Serverstatistiken in Sprachkanälen"
+            },
+            "ticket": {
+                "title": "Komplett konfigurierbares Ticketsystem",
+                "description": "Multiple ticket categories, ticketembeds and advanced transcripts"
             }
         }
     }
