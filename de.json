@@ -6,7 +6,7 @@
                 "description": "Nützliche Moderations-Befehle und Automoderation mithilfe von RegEx!"
             },
             "template": {
-                "title": "Discord-Template laden",
+                "title": "Discord-Templates laden",
                 "description": "Mit !template kannst du Discord-Templates auf vorhandene Server laden"
             },
             "stats": {
@@ -14,7 +14,7 @@
             },
             "ticket": {
                 "title": "Komplett konfigurierbares Ticketsystem",
-                "description": "Multiple ticket categories, ticketembeds and advanced transcripts"
+                "description": "Verschiedene Ticketkategorien, Ticketembeds und erweiterte Transcripte"
             }
         }
     }
