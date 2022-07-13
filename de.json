@@ -4,6 +4,10 @@
             "moderation": {
                 "title": "Fortgeschrittene Moderationsfunktionen",
                 "description": "Nützliche Moderations-Befehle und Automoderation mit einem Regex!"
+            },
+            "template": {
+                "title": "Discord-Template laden",
+                "description": "Mit !template kannst du Discord-Templates auf vorhandene Server laden"
             }
         }
     }
