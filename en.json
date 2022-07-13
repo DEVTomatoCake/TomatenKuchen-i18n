@@ -4,6 +4,17 @@
             "moderation": {
                 "title": "Advanced moderation features",
                 "description": "Useful moderation commands and auto moderation using a regex!"
+            },
+            "template": {
+                "title": "Load discord templates",
+                "description": "Using !template you can load discord templates onto an existing server"
+            },
+            "stats": {
+                "title": "Serverstats in voice channels"
+            },
+            "ticket": {
+                "title": "Fully customizable ticket system",
+                "description": "Multiple ticket categories, ticketembeds and advanced transcripts"
             }
         }
     }
