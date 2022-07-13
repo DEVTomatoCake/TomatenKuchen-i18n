@@ -3,7 +3,7 @@
         "features": {
             "moderation": {
                 "title": "Fortgeschrittene Moderationsfunktionen",
-                "description": "Nützliche Moderations-Befehle und Automoderation mit einem Regex!"
+                "description": "Nützliche Moderations-Befehle und Automoderation mithilfe von RegEx!"
             },
             "template": {
                 "title": "Discord-Template laden",
