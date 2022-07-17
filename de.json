@@ -22,5 +22,8 @@
     },
     "global": {
         "login": "Anmelden"
+    },
+    "commands": {
+        "title": "Befehle von TomatenKuchen"
     }
 }
