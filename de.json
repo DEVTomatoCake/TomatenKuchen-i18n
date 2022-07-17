@@ -10,12 +10,17 @@
                 "description": "Mit !template kannst du Discord-Templates auf vorhandene Server laden"
             },
             "stats": {
-                "title": "Serverstatistiken in Sprachkanälen"
+                "title": "Serverstatistiken in Sprachkanälen",
+                "description": "In den <a href=\"https://help.tomatenkuchen.eu\">Docs</a> findest du Tipps, wie man die Stats einrichtet"
             },
             "ticket": {
                 "title": "Komplett konfigurierbares Ticketsystem",
                 "description": "Verschiedene Ticketkategorien, Ticketembeds und erweiterte Transcripte"
             }
-        }
+        },
+        "hello": "Hallo!"
+    },
+    "global": {
+        "login": "Anmelden"
     }
 }
