@@ -277,6 +277,7 @@
 	},
 	"mention": "Erwähnung",
 	"message": {
+		"content": "Der Inhalt der Nachricht ist {CONTENT}",
 		"edited": "Die Nachricht wurde bearbeitet!",
 		"editfailed": "Die Nachricht kann nicht bearbeitet werden",
 		"msgid": "Die Nachrichten-ID der Nachricht ist `{ID}`",
