@@ -277,6 +277,7 @@
 	},
 	"mention": "Mention",
 	"message": {
+		"content": "The content of the message is ```md\n{CONTENT}```",
 		"edited": "The message has been edited!",
 		"editfailed": "The message can't be edited",
 		"msgid": "The message id is `{ID}`",
@@ -512,7 +513,8 @@
 		"missing": "You must specify a month and a day"
 	},
 	"tempban": {
-		"success": "**{MOD}** banned **{USER}** for **{DURATION}**: {REASON}"
+		"success": "**{MOD}** banned **{USER}** for **{DURATION}**: {REASON}",
+		"unbanned": "**{USER}** was unbanned after **{TIME}**"
 	},
 	"template": {
 		"adminrole": "My bot role {ROLE} needs administrator perms",
