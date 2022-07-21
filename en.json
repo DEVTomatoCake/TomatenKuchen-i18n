@@ -16,6 +16,13 @@
                 "title": "Fully customizable ticket system",
                 "description": "Multiple ticket categories, ticketembeds and advanced transcripts"
             }
-        }
+        },
+        "hello": "Hello!"
+    },
+    "global": {
+        "login": "Login"
+    },
+    "commands": {
+        "title": "Commands of TomatenKuchen"
     }
 }
