@@ -277,7 +277,7 @@
 	},
 	"mention": "Erwähnung",
 	"message": {
-		"content": "Der Inhalt der Nachricht ist {CONTENT}",
+		"content": "Der Inhalt der Nachricht ist ```md\n{CONTENT}```",
 		"edited": "Die Nachricht wurde bearbeitet!",
 		"editfailed": "Die Nachricht kann nicht bearbeitet werden",
 		"msgid": "Die Nachrichten-ID der Nachricht ist `{ID}`",
@@ -513,7 +513,8 @@
 		"missing": "Du musst Monat und Tag angeben"
 	},
 	"tempban": {
-		"success": "**{MOD}** hat **{USER}** für **{DURATION}** gebannt: {REASON}"
+		"success": "**{MOD}** hat **{USER}** für **{DURATION}** gebannt: {REASON}",
+		"unbanned": "**{USER}** wurde nach **{TIME}** entbannt"
 	},
 	"template": {
 		"adminrole": "Meine Botrolle {ROLE} braucht Administrator-Rechte",
