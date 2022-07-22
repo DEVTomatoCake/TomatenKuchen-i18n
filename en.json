@@ -10,7 +10,8 @@
                 "description": "Using !template you can load discord templates onto an existing server"
             },
             "stats": {
-                "title": "Serverstats in voice channels"
+                "title": "Serverstats in voice channels",
+                "description": "In the <a href=\"https://help.tomatenkuchen.eu\">Docs</a> you can find tips on how to setup stats"
             },
             "ticket": {
                 "title": "Fully customizable ticket system",
