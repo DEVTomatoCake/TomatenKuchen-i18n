@@ -25,5 +25,13 @@
     },
     "commands": {
         "title": "Befehle von TomatenKuchen"
+    },
+    "sidebar": {
+        "commands": "Befehle",
+        "dashboard": "Dashboard",
+        "docs": "Docs",
+        "support": "Support",
+        "home": "Startseite",
+        "invite": "<ion-icon name=\"add\"></ion-icon> BOT EINLADEN"
     }
 }
